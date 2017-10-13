@@ -1,0 +1,34 @@
+October 13, 2017
+
+Harlem Renaissance Project 
+Group Meeting Notes
+
+
+Topics discussed: 
+Group reviewed and finalized schema
+       possible additions involvong syntax markup for the poems once the rest of the markup is completed
+Group finalized the decisions on which group member would work with which poets:
+       Kaylee = Claude McKay & Langston Hughes
+       Liz = Ann Spencer & Effie Lee Newsome
+       Tylar = Anna Bontemps and James Weldon Johnson
+Things we'll be marking:
+        1) coder (using initials)
+        2) header that contains a title and a poet
+        3) content that contains the stanzas and lines of the poem
+        4) Each line is wrapped with <line> elements with an n attribute to label each line number.
+        5) Punctuation
+        6) Figurative Language
+        7) Theme
+        
+Deadlines: 
+        Each group member will push 20 poems in separate XML documents (10 for each poet) that are marked with the header, title, author, stanza, line,
+        punctuation, figurative language, and theme by Friday, October 20. 
+        Tylar will push his poems with all of the above except figurative language and theme, which Liz and Kaylee will help him with. Instead, Tylar will
+        begin working with biographies of each poet for the HTML website. 
+        
+        Group members should use the XML document containing Claude McKay's "The Lynching" as a model for their poem markups. Remember to associate the schema
+        for every XML document containing a poem! 
+        Poems and biographies can be accessed on the Poetry Foundation's website, linked on the original project proposal page and easily accessible by google search. 
+        
+        
+
