@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="Harlem_Ren_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    After the Winter 
-    By Claude McKay 
-    Some day<punc>,</punc> when trees have shed their leaves
-         And against the morning’s white
-    The shivering birds beneath the eaves
-         Have sheltered for the night<punc>,</punc>
-    We’ll turn our faces southward<punc>,</punc> love<punc>,</punc>
-         Toward the summer isle
-    Where bamboos spire the shafted grove
-         And wide-mouthed orchids smile<punc>.</punc>
-    
-    And we will seek the quiet hill
-         Where towers the cotton tree<punc>,</punc>
-    And leaps the laughing crystal rill<punc>,</punc>
-         And works the droning bee<punc>.</punc>
-    And we will build a cottage there
-         Beside an open glade<punc>,</punc>
-    With black-ribbed blue-bells blowing near<punc>,</punc>
-         And ferns that never fade<punc>.</punc>
+    <coder>KS</coder>
+    <header>
+        <title>After the Winter</title>
+        <byLine poet="McKay_C">By Claude McKay</byLine>
+    </header>
+    <content>
+        <line n="1" stanza="1">Some day<punc type="comma">,</punc> when trees have shed their
+            leaves</line>
+        <line n="2" stanza="1">And against the morning’s white</line>
+        <line n="3" stanza="1">The shivering birds beneath the eaves</line>
+        <line n="4" stanza="1">Have sheltered for the night<punc type="comma">,</punc></line>
+        <line n="5" stanza="1">We’ll turn our faces southward<punc type="comma">,</punc> love<punc
+                type="comma">,</punc></line>
+        <line n="6" stanza="1">Toward the summer isle</line>
+        <line n="7" stanza="1">Where bamboos spire the shafted grove</line>
+        <line n="8" stanza="1"><figLang form="personification">And wide-mouthed orchids smile</figLang><punc type="period">.</punc></line>
+
+        <line n="9" stanza="2">And we will seek the <figLang form="personification">quiet hill</figLang></line>
+        <line n="10" stanza="1">Where towers the cotton tree<punc type="comma">,</punc></line>
+        <line n="11" stanza="1">And <figLang form="personification">leaps the laughing crystal rill</figLang><punc type="comma"
+            >,</punc></line>
+        <line n="12" stanza="1">And works the droning bee<punc type="period">.</punc></line>
+        <line n="13" stanza="1">And we will build a cottage there</line>
+        <line n="14" stanza="1"> Beside an open glade<punc type="comma">,</punc></line>
+        <line n="15" stanza="1">With black-ribbed blue-bells blowing near<punc type="comma"
+            >,</punc></line>
+        <line n="16" stanza="1">And ferns that never fade<punc type="period">.</punc></line>
+    </content>
 </poem>
