@@ -1,29 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    Romance 
-    By Claude McKay 
-    To clasp you now and feel your head close-pressed<punc>,</punc> 
-    Scented and warm against my beating breast<punc>;</punc> 
+    <coder>KS</coder>
+    <header>
+    <title>Romance</title> 
+    <byLine poet="McKay_C">By Claude McKay</byLine>
+    </header>
+    <content>
+    <line n="1" stanza="1">To clasp you now and feel your head close-pressed<punc type="comma">,</punc></line> 
+    <line n="2" stanza="1">Scented and warm against my beating breast<punc type="semicolon">;</punc></line> 
     
-    To whisper soft and quivering your name<punc>,</punc> 
-    And drink the passion burning in your frame<punc>;</punc> 
+    <line n="3" stanza="2">To whisper soft and quivering your name<punc type="comma">,</punc></line> 
+    <line n="4" stanza="2">And drink the passion burning in your frame<punc type="semicolon">;</punc></line> 
     
-    To lie at full length<punc>,</punc> taut<punc>,</punc> with cheek to cheek<punc>,</punc> 
-    And tease your mouth with kisses till you speak 
+    <line n="5" stanza="3">To lie at full length<punc type="comma">,</punc> taut<punc type="comma">,</punc> with cheek to cheek<punc type="comma">,</punc></line> 
+    <line n="6" stanza="3">And tease your mouth with kisses till you speak</line> 
     
-    Love words<punc>,</punc> mad words<punc>,</punc> dream words<punc>,</punc> sweet senseless words<punc>,</punc> 
-    Melodious like notes of mating birds<punc>;</punc> 
+    <line n="7" stanza="4">Love words<punc type="comma">,</punc> mad words<punc type="comma">,</punc> dream words<punc type="comma">,</punc> sweet senseless words<punc type="comma">,</punc></line> 
+    <line n="8" stanza="4"><figLang form="simile">Melodious like notes of mating birds</figLang><punc type="semicolon">;</punc></line> 
     
-    To hear you ask if I shall love always<punc>,</punc> 
-    And myself answer<punc>:</punc> Till the end of days<punc>;</punc> 
+    <line n="9" stanza="5">To hear you ask if I shall love always<punc type="comma">,</punc></line> 
+    <line n="10" stanza="5">And myself answer<punc type="colon">:</punc> Till the end of days<punc type="semicolon">;</punc></line> 
     
-    To feel your easeful sigh of happiness 
-    When on your trembling lips I murmur<punc>:</punc> Yes<punc>;</punc> 
+    <line n="11" stanza="6">To feel your easeful sigh of happines</line>
+    <line n="12" stanza="6">When on your trembling lips I murmur<punc type="colon">:</punc> Yes<punc type="semicolon">;</punc></line> 
     
-    It is so sweet<punc>.</punc> We know it is not true<punc>.</punc> 
-    What matters it<punc>?</punc> The night must shed her dew<punc>.</punc> 
+    <line n="13" stanza="7">It is so sweet<punc type="period">.</punc> We know it is not true<punc type="period">.</punc></line> 
+    <line n="14" stanza="7">What matters it<punc type="question_mark">?</punc> The night must shed her dew<punc type="period">.</punc></line> 
     
-    We know it is not true<punc>,</punc> but it is sweet— 
-    The poem with this music is complete<punc>.</punc>
+    <line n="15" stanza="8">We know it is not true<punc type="comma">,</punc> but it is sweet—</line> 
+    <line n="16" stanza="8">The poem with this music is complete<punc type="period">.</punc></line>
+    </content>
 </poem>
-

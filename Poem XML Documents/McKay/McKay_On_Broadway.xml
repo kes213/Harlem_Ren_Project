@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-    On Broadway 
-    By Claude McKay 
-    About me young careless feet 
-    Linger along the garish street<punc>;</punc> 
-    Above<punc>,</punc> a hundred shouting signs 
-    Shed down their bright fantastic glow 
-    Upon the merry crowd and lines 
-    Of moving carriages below<punc>.</punc> 
-    Oh wonderful is Broadway — only 
-    My heart<punc>,</punc> my heart is lonely<punc>.</punc> 
+    <coder>KS</coder>
+ <header>
+    <title>On Broadway</title>
+    <byLine poet="McKay_C">By Claude McKay</byLine> 
+   </header>
+   <content>
+    <line n="1">About me young careless feet</line> 
+    <line n="2">Linger along the garish street<punc type="semicolon">;</punc></line> 
+    <line n="3">Above<punc type="comma">,</punc> a hundred shouting signs</line> 
+    <line n="4">Shed down their bright fantastic glow</line> 
+    <line n="5">Upon the merry crowd and lines</line> 
+    <line n="6">Of moving carriages below<punc type="period">.</punc></line> 
+    <line n="7">Oh wonderful is Broadway — only</line> 
+    <line n="8">My heart<punc type="comma">,</punc> <figLang form="personification">my heart is lonely</figLang><punc type="period">.</punc></line> 
     
-    Desire naked<punc>,</punc> linked with Passion<punc>,</punc> 
-    Goes trutting by in brazen fashion<punc>;</punc> 
-    From playhouse<punc>,</punc> cabaret and inn 
-    The rainbow lights of Broadway blaze 
-    All gay without<punc>,</punc> all glad within<punc>;</punc> 
-    As in a dream I stand and gaze 
-    At Broadway<punc>,</punc> shining Broadway — only 
-    My heart<punc>,</punc> my heart is lonely<punc>.</punc> 
+    <line n="9"><figLang form="personification">Desire naked</figLang><punc type="comma">,</punc> <figLang form="personification">linked with Passion</figLang><punc type="comma">,</punc></line> 
+    <line n="10">Goes trutting by in brazen fashion<punc type="semicolon">;</punc></line> 
+    <line n="11">From playhouse<punc type="comma">,</punc> cabaret and inn</line> 
+    <line n="12">The rainbow lights of Broadway blaze</line> 
+    <line n="13"><figLang form="personification">All gay without</figLang><punc type="comma">,</punc> all glad within<punc type="semicolon">;</punc></line> 
+    <line n="14">As in a dream I stand and gaze</line> 
+    <line n="15">At Broadway<punc type="comma">,</punc> shining Broadway — only</line> 
+    <line n="16">My heart<punc type="comma">,</punc> <figLang form="personification">my heart is lonely</figLang><punc type="period">.</punc></line>
+   </content>
 </poem>
