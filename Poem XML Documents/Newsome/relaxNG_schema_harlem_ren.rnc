@@ -13,7 +13,7 @@ n = attribute n {xsd:int}
 stanza = attribute stanza {xsd:int}
 punc = element punc {type, text}
 figLang = element figLang {form, text}
-type = attribute type {"comma" | "period" | "open_parenthesis" | "closed_parenthesis" | "semicolon" | "colon" | "exclamation_point" | "question_mark"}
+type = attribute type {"comma" | "period" | "open_parenthesis" | "closed_parenthesis" | "semicolon" | "colon" | "exclamation_point" | "question_mark" | "dash"}
 form = attribute form {"metaphor" | "simile" | "personification" | "alliteration"}
 theme = element theme {text}
 #For now, I'm leaving the theme open to whatever you guys find in the poems, 

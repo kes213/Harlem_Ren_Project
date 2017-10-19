@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="Harlem_Ren_Schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
     <coder>KS</coder>
     <header>
@@ -25,7 +27,7 @@
             >,</punc></line>
         <line n="12" stanza="1">And works the droning bee<punc type="period">.</punc></line>
         <line n="13" stanza="1">And we will build a cottage there</line>
-        <line n="14" stanza="1"> Beside an open glade<punc type="comma">,</punc></line>
+        <line n="14" stanza="1">Beside an open glade<punc type="comma">,</punc></line>
         <line n="15" stanza="1">With black-ribbed blue-bells blowing near<punc type="comma"
             >,</punc></line>
         <line n="16" stanza="1">And ferns that never fade<punc type="period">.</punc></line>

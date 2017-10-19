@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="Harlem_Ren_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    If We Must Die 
-    By Claude McKay 
-    If we must die<punc>,</punc> let it not be like hogs
-    Hunted and penned in an inglorious spot<punc>,</punc>
-    While round us bark the mad and hungry dogs<punc>,</punc>
-    Making their mock at our accursèd lot<punc>.</punc>
-    If we must die<punc>,</punc> O let us nobly die<punc>,</punc>
-    So that our precious blood may not be shed
-    In vain<punc>;</punc> then even the monsters we defy
-    Shall be constrained to honor us though dead<punc>!</punc>
-    O kinsmen<punc>!</punc> we must meet the common foe<punc>!</punc>
-    Though far outnumbered let us show us brave<punc>,</punc>
-    And for their thousand blows deal one death-blow<punc>!</punc>
-    What though before us lies the open grave<punc>?</punc>
-    Like men we’ll face the murderous<punc>,</punc> cowardly pack<punc>,</punc>
-    Pressed to the wall<punc>,</punc> dying<punc>,</punc> but fighting back<punc>!</punc>
+    <coder>KS</coder>
+    <header>
+    <title>If We Must Die</title> 
+    <byLine poet="McKay_C">By Claude McKay</byLine> 
+    </header>
+    <content>
+    <line n="1">If we must die<punc type="comma">,</punc> <figLang form="simile">let it not be like hogs</figLang></line> <!-- extended simile through line 4 -->
+    <line n="2">Hunted and penned in an inglorious spot<punc type="comma">,</punc></line>
+    <line n="3">While round us bark the mad and hungry dogs<punc type="comma">,</punc></line>
+    <line n="4">Making their mock at our accursèd lot<punc type="period">.</punc></line>
+    <line n="5">If we must die<punc type="comma">,</punc> O let us nobly die<punc type="comma">,</punc></line>
+    <line n="6">So that our precious blood may not be shed</line>
+    <line n="7">In vain<punc type="semicolon">;</punc> then even the monsters we defy</line>
+    <line n="8">Shall be constrained to honor us though dead<punc type="exclamation_point">!</punc></line>
+    <line n="9">O kinsmen<punc type="exclamation_point">!</punc> we must meet the common foe<punc type="exclamation_point">!</punc></line>
+    <line n="10">Though far outnumbered let us show us brave<punc type="comma">,</punc></line>
+    <line n="11">And for their thousand blows deal one death-blow<punc type="exclamation_point">!</punc></line>
+    <line n="12">What though before us lies the open grave<punc type="question_mark">?</punc></line>
+    <line n="13">Like men we’ll face the murderous<punc type="comma">,</punc> cowardly pack<punc type="comma">,</punc></line>
+    <line n="14">Pressed to the wall<punc type="comma">,</punc> dying<punc type="comma">,</punc> but fighting back<punc type="exclamation_point">!</punc></line>
+    </content>
 </poem>
