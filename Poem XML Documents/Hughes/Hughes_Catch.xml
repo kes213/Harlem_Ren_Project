@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-    Catch 
-    By Langston Hughes 
-    <line n="1">Big Boy came</line>
-    <line n="2">Carrying a mermaid</line>   
-    <line n="3">On his shoulders</line>   
-    <line n="4">And the mermaid</line>   
-    <line n="5">Had her tail</line>
-    <line n="6">Curved</line>
-    <line n="7">Beneath his arm<punc>.</punc></line>
-    
-    <line n="8"> Being a fisher boy<punc>,</punc></line>
-    <line n="9">He’d found a fish</line>
-    <line n="10">To carry—</line>
-    <line n="11">Half fish<punc>,</punc></line>   
-    <line n="12">Half girl</line>   
-    <line n="13">To marry<punc>.</punc></line>
+    <coder>KS</coder>
+    <header>
+        <title>Catch</title> 
+        <byLine poet="Hughes_L">By Langston Hughes</byLine>
+    </header> 
+    <content>
+        <line n="1" stanza="1">Big Boy came</line>
+        <line n="2" stanza="1"><figLang form="metaphor">Carrying a mermaid</figLang></line><!-- I'm unsure if this classifies as a metaphor. -->
+        <line n="3" stanza="1">On his shoulders</line>
+        <line n="4" stanza="1">And the mermaid</line>
+        <line n="5" stanza="1">Had her tail</line>
+        <line n="6" stanza="1">Curved</line>
+        <line n="7" stanza="1">Beneath his arm<punc type="period">.</punc></line>
+        
+        <line n="8" stanza="2">Being a fisher boy<punc type="comma">,</punc></line>
+        <line n="9" stanza="2">He’d found a fish</line>
+        <line n="10" stanza="2">To carry—</line>
+        <line n="11" stanza="2">Half fish<punc type="comma">,</punc></line>
+        <line n="12" stanza="2">Half girl</line>
+        <line n="13" stanza="2">To marry<punc type="period">.</punc></line>
+    </content>
 </poem>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+    <coder>KS</coder>
+    <header>
+        <title>Morning After</title> 
+        <byLine poet="Hughes_L">By Langston Hughes</byLine>
+    </header>
+    <content>
+        <line n="1" stanza="1">I was so sick last night I</line>
+        <line n="2" stanza="1">Didn’t hardly know my mind<punc type="period">.</punc></line>
+        <line n="3" stanza="1">So sick last night I</line>
+        <line n="4" stanza="1">Didn’t know my mind<punc type="period">.</punc></line>
+        <line n="5" stanza="1">I drunk some bad licker that</line>
+        <line n="6" stanza="1">Almost made me blind<punc type="period">.</punc></line>
+        
+        <line n="7" stanza="2">Had a dream last night I</line>
+        <line n="8" stanza="2">Thought I was in hell<punc type="period">.</punc></line>
+        <line n="9" stanza="2">I drempt last night I</line>
+        <line n="10" stanza="2">Thought I was in hell<punc type="period">.</punc></line>
+        <line n="11" stanza="2">Woke up and looked around me—</line>
+        <line n="12" stanza="2">Babe<punc type="comma">,</punc> your mouth was open like a well<punc type="period">.</punc></line>
+        
+        <line n="13" stanza="3">I said<punc type="comma">,</punc> Baby<punc type="exclamation_point">!</punc> Baby<punc type="exclamation_point">!</punc></line>
+        <line n="14" stanza="3">Please don’t snore so loud<punc type="period">.</punc></line>
+        <line n="15" stanza="3">Baby<punc type="exclamation_point">!</punc> Please<punc type="exclamation_point">!</punc></line>
+        <line n="16" stanza="3">Please don’t snore so loud<punc type="period">.</punc></line>
+        <line n="17" stanza="3">You jest a little bit o’ woman but you</line>
+        <line n="18" stanza="3">Sound like a great big crowd<punc type="period">.</punc></line>
+    </content>
+</poem>

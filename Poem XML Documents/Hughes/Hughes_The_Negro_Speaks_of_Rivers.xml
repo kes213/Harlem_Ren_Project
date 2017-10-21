@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+    <coder>KS</coder>
+    <header>
+        <title>The Negro Speaks of Rivers</title> 
+        <byLine poet="Hughes_L">By Langston Hughes</byLine>
+    </header>
+    <content>
+        <line n="1" stanza="1">I’ve known rivers<punc type="colon">:</punc></line> 
+        <line n="2" stanza="1"><figLang form="simile">I’ve known rivers ancient as the world</figLang> and older than the flow of human blood in human veins<punc type="period">.</punc></line> 
+        
+        <line n="3" stanza="2">My <figLang form="simile">soul has grown deep like the rivers</figLang><punc type="period">.</punc></line>
+        
+        <line n="4" stanza="3">I bathed in the Euphrates when dawns were young<punc type="period">.</punc></line> 
+        <line n="5" stanza="3">I built my hut near the Congo and it lulled me to sleep<punc type="period">.</punc></line> 
+        <line n="6" stanza="3">I looked upon the Nile and raised the pyramids above it<punc type="period">.</punc></line> 
+        <line n="7" stanza="3">I heard the<figLang form="personification">singing of the Mississippi</figLang> when Abe Lincoln went down to New Orleans<punc type="comma">,</punc> and I’ve seen its muddy bosom turn all golden in the sunset<punc type="period">.</punc></line> 
+        
+        <line n="8" stanza="4">I’ve known rivers<punc type="colon">:</punc></line> 
+        <line n="9" stanza="4">Ancient<punc type="comma">,</punc> dusky rivers<punc type="period">.</punc></line> 
+        
+        <line n="10" stanza="5">My <figLang form="simile">soul has grown deep like the rivers</figLang><punc type="period">.</punc></line>
+    </content>
+</poem>

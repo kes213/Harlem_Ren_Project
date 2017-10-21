@@ -8,14 +8,10 @@ title = element title {text}
 byLine = element byLine {poet, text}
 poet = attribute poet {"McKay_C" | "Hughes_L" | "Spencer_A" | "Johnson_JW" | "Newsome_EL" | "Bontemps_A"}
 content = element content {line+} 
-line = element line {n, stanza*, mixed{(punc | figLang | theme)*}} 
+line = element line {n, stanza*, mixed{(punc | figLang)*}} 
 n = attribute n {xsd:int}
 stanza = attribute stanza {xsd:int}
 punc = element punc {type, text}
 figLang = element figLang {form, text}
-type = attribute type {"comma" | "period" | "open_parenthesis" | "closed_parenthesis" | "semicolon" | "colon" | "exclamation_point" | "question_mark" | "dash"}
+type = attribute type {"comma" | "period" | "open_parenthesis" | "closed_parenthesis" | "semicolon" | "colon" | "exclamation_point" | "question_mark" | "dash" | "quotation_mark"}
 form = attribute form {"metaphor" | "simile" | "personification" | "alliteration"}
-theme = element theme {text}
-#For now, I'm leaving the theme open to whatever you guys find in the poems, 
-#but once we see what themes are common after we start marking them up, we 
-#can narrow the options down and adjust.

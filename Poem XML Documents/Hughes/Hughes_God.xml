@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+    <coder>KS</coder>
+    <header>
+        <title>God</title>
+        <byLine poet="Hughes_L">By Langston Hughes</byLine>
+    </header>
+    <content>
+        <line n="1">I am God<punc type="dash">—</punc></line>
+        <line n="2">Without one friend<punc type="comma">,</punc></line>
+        <line n="3">Alone in my purity</line>
+        <line n="4">World without end<punc type="period">.</punc></line>
+        <line n="5">Below me young lovers</line>
+        <line n="6">Tread the sweet ground<punc type="dash">—</punc></line>
+        <line n="7">But I am God<punc type="dash">—</punc></line>
+        <line n="8">I cannot come down<punc type="period">.</punc></line>
+        <line n="9">Spring<punc type="exclamation_point">!</punc></line>
+        <line n="10">Life is love<punc type="exclamation_point">!</punc></line>
+        <line n="11">Love is life only<punc type="exclamation_point">!</punc></line>
+        <line n="12">Better to be human</line>
+        <line n="13">Than God—and lonely<punc type="period">.</punc></line>
+    </content>
+</poem>

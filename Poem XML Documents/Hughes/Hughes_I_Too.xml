@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+    <coder>KS</coder>
+    <header>
+        <title>I, Too</title> 
+        <byLine poet="Hughes_L">By Langston Hughes</byLine> 
+    </header>
+    <content>
+        <line n="1" stanza="1">I<punc type="comma">,</punc> too<punc type="comma">,</punc> sing America<punc type="period">.</punc> </line>
+        
+        <line n="2" stanza="2">I am the darker brother<punc type="period">.</punc></line>
+        <line n="3" stanza="2">They send me to eat in the kitchen</line> 
+        <line n="4" stanza="2">When company comes<punc type="comma">,</punc></line>
+        <line n="5" stanza="2">But I laugh<punc type="comma">,</punc></line> 
+        <line n="6" stanza="2">And eat well<punc type="comma">,</punc></line> 
+        <line n="7" stanza="2">And grow strong<punc type="period">.</punc></line> 
+        
+        <line n="8" stanza="3">Tomorrow<punc type="comma">,</punc></line> 
+        <line n="9" stanza="3">I’ll be at the table</line> 
+        <line n="10" stanza="3">When company comes<punc type="period">.</punc></line> 
+        <line n="11" stanza="3">Nobody’ll dare</line> 
+        <line n="12" stanza="3">Say to me<punc type="comma">,</punc></line> 
+        <line n="13" stanza="3"><punc type="quotation_mark">“</punc>Eat in the kitchen<punc type="comma">,</punc><punc type="quotation_mark">”</punc></line> 
+        <line n="14" stanza="3">Then<punc type="period">.</punc></line> 
+        
+        <line n="15" stanza="4">Besides<punc type="comma">,</punc></line> 
+        <line n="16" stanza="4">They’ll see how beautiful I am</line> 
+        <line n="17" stanza="4">And be ashamed<punc type="dash">—</punc></line> 
+        
+        <line n="18" stanza="5">I<punc type="comma">,</punc> too<punc type="comma">,</punc> am America<punc type="period">.</punc></line>
+    </content>
+</poem>

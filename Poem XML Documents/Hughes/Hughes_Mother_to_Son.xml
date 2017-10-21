@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <coder>KS</coder>
+    <header>
+        <title>Mother to Son</title> 
+        <byLine poet="Hughes_L">By Langston Hughes</byLine>
+    </header>
+    <content>
+        <line n="1">Well<punc type="comma">,</punc> son<punc type="comma">,</punc> I’ll tell you<punc type="colon">:</punc></line>
+        <line n="2">Life for me ain’t been no crystal stair<punc type="period">.</punc></line>
+        <line n="3">It’s had <figLang form="metaphor">tacks in it</figLang><punc type="comma">,</punc></line>
+        <line n="4">And splinters<punc type="comma">,</punc></line>
+        <line n="5">And boards torn up<punc type="comma">,</punc></line> <!-- extended metaphor here -->
+        <line n="6">And places with no carpet on the floor<punc type="dash">—</punc></line>
+        <line n="7">Bare<punc type="period">.</punc></line>
+        <line n="8">But all the time</line>
+        <line n="9">I’se been a-climbin’ on<punc type="comma">,</punc></line>
+        <line n="10">And reachin’ landin’s<punc type="comma">,</punc></line>
+        <line n="11">And turnin’ corners<punc type="comma">,</punc></line>
+        <line n="12">And sometimes goin’ in the dark</line>
+        <line n="13">Where there ain’t been no light<punc type="period">.</punc></line>
+        <line n="14">So boy<punc type="comma">,</punc> don’t you turn back<punc type="period">.</punc></line>
+        <line n="15">Don’t you set down on the steps</line>
+        <line n="16">’Cause you finds it’s kinder hard<punc type="period">.</punc></line>
+        <line n="17">Don’t you fall now<punc type="dash">—</punc></line>
+        <line n="18">For I’se still goin’<punc type="comma">,</punc> honey<punc type="comma">,</punc></line>
+        <line n="19">I’se still climbin’<punc type="comma">,</punc></line>
+        <line n="20">And life for me ain’t been no crystal stair<punc type="period">.</punc></line>
+    </content>
+</poem>

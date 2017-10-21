@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-    <title>50-50</title> 
-    <byLine>By Langston Hughes</byLine> 
-    <line n="1">I’m all alone in this world<punc>,</punc> she said<punc>,</punc></line>
-    <line n="2">Ain’t got nobody to share my bed<punc>,</punc></line>
-    <line n="3">Ain’t got nobody to hold my hand—</line>
-    <line n="4">The truth of the matter’s</line>
-    <line n="5">I ain’t got no man<punc>.</punc></line>
-    
-    <line n="6">Big Boy opened his mouth and said<punc>,</punc></line>
-    <line n="7">Trouble with you is</line>
-    <line n="8">You ain’t got no head<punc>!</punc></line>
-    <line n="9">If you had a head and used your mind</line>
-    <line n="10">You could have me with you</line>
-    <line n="11">All the time<punc>.</punc></line>
-    
-    <line n="12">She answered<punc>,</punc> Babe<punc>,</punc> what must I do<punc>?</punc></line>
-    
-    <line n="13">He said<punc>,</punc> Share your bed—</line>
-    <line n="14">And your money<punc>,</punc> too<punc>.</punc></line>
+    <coder>KS</coder>
+    <header>
+        <title>50-50</title> 
+        <byLine poet="Hughes_L">By Langston Hughes</byLine> 
+    </header>
+    <content>
+        <line n="1" stanza="1">I’m all alone in this world<punc type="comma">,</punc> she said<punc type="comma">,</punc></line>
+        <line n="2" stanza="1">Ain’t got nobody to share my bed<punc type="comma">,</punc></line>
+        <line n="3" stanza="1">Ain’t got nobody to hold my hand—</line>
+        <line n="4" stanza="1">The truth of the matter’s</line>
+        <line n="5" stanza="1">I ain’t got no man<punc type="period">.</punc></line>
+        
+        <line n="6" stanza="2">Big Boy opened his mouth and said<punc type="comma">,</punc></line>
+        <line n="7" stanza="2">Trouble with you is</line>
+        <line n="8" stanza="2">You ain’t got no head<punc type="exclamation_point">!</punc></line>
+        <line n="9" stanza="2">If you had a head and used your mind</line>
+        <line n="10" stanza="2">You could have me with you</line>
+        <line n="11" stanza="2">All the time<punc type="period">.</punc></line>
+        
+        <line n="12" stanza="3">She answered<punc type="comma">,</punc> Babe<punc type="comma">,</punc> what must I do<punc type="question_mark">?</punc></line>
+        
+        <line n="13" stanza="4">He said<punc type="comma">,</punc> Share your bed—</line>
+        <line n="14" stanza="4">And your money<punc type="comma">,</punc> too<punc type="period">.</punc></line>
+    </content>
 </poem>
