@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+    <coder>TL</coder>
+    <header>
+<title>The Creation</title>
+<byLine poet="Johnson_JW">James Weldon Johnson</byLine>
+    </header>
+<content>
+<line n="1" stanza="1">And God stepped out on space<punc type="comma">,</punc></line>
+<line n="2" stanza="1">And he looked around and said<punc type="colon">:</punc></line>
+<line n="3" stanza="1">I am lonely<punc type="dash">-</punc></line>
+<line n="4" stanza="1">I will make me a world<punc type="period"></punc></line>
+
+<line n="5" stanza="2">And far as the eye of God could see</line>
+<line n="6" stanza="2">Darkness covered everything<punc type="comma">,</punc></line>
+<line n="7" stanza="2">Blacker than a hundred midnights</line>
+<line n="8" stanza="2">Down in a cypress swamp<punc type="period">.</punc></line>
+
+<line n="9" stanza="3">Then God smiled<punc type="comma">,</punc></line>
+<line n="10" stanza="3">And the light broke<punc type="comma">,</punc></line>
+<line n="11" stanza="3">And the darkness rolled up on one side<punc type="comma">,</punc></line>
+<line n="12" stanza="3">And the light stood shining on the other<punc type="comma">,</punc></line>
+<line n="13" stanza="3">And God said<punc type="colon">:</punc> That is good<punc type="exclamation_point"></punc></line>
+
+<line n="14" stanza="4">Then God reached out and took the light in his hands<punc type="comma">,</punc></line>
+<line n="15" stanza="4">And God rolled the light around in his hands</line>
+<line n="16" stanza="4">Until he made the sun<punc type="semicolon">;</punc></line>
+<line n="17" stanza="4">And he set that sun a-blazing in the heavens<punc type="period">.</punc></line>
+<line n="18" stanza="4">And the light that was left from making the sun</line>
+<line n="19" stanza="4">God gathered it up in a shining ball</line>
+<line n="20" stanza="4">And flung it against the darkness<punc type="comma">,</punc></line>
+<line n="21" stanza="4">Spangling the night with the moon and stars<punc type="period">.</punc></line>
+<line n="22" stanza="4">Then down between</line>
+<line n="23" stanza="4">The darkness and the light</line>
+<line n="24" stanza="4">He hurled the world<punc type="semicolon">;</punc></line>
+<line n="25" stanza="4">And God said<punc type="colon">:</punc> That is good<punc type="exclamation_point">!</punc></line>
+
+<line n="26" stanza="5">Then God himself stepped down<punc type="dash">-</punc></line>
+<line n="27" stanza="5">And the sun was on his right hand<punc type="comma">,</punc></line>
+<line n="28" stanza="5">And the moon was on his left<punc type="semicolon">;</punc></line>
+<line n="29" stanza="5">The stars were clustered about his head<punc type="comma">,</punc></line>
+<line n="30" stanza="5">And the earth was under his feet<punc type="period">.</punc></line>
+<line n="31" stanza="5">And God walked<punc type="comma">,</punc> and where he trod</line>
+<line n="32" stanza="5">His footsteps hollowed the valleys out</line>
+<line n="33" stanza="5">And bulged the mountains up<punc type="period">.</punc></line>
+
+<line n="34" stanza="6">Then he stopped and looked and saw</line>
+<line n="35" stanza="6">That the earth was hot and barren<punc type="period">.</punc></line>
+<line n="36" stanza="6">So God stepped over to the edge of the world</line>
+<line n="37" stanza="6">And he spat out the seven seas<punc type="dash">-</punc></line>
+<line n="38" stanza="6">He batted his eyes<punc type="comma">,</punc> and the lightnings flashed<punc type="dash">-</punc></line>
+<line n="39" stanza="6">He clapped his hands<punc type="comma">,</punc> and the thunders rolled<punc type="dash">-</punc></line>
+<line n="40" stanza="6">And the waters above the earth came down<punc type="comma">,</punc></line>
+<line n="41" stanza="6">The cooling waters came down<punc type="period">.</punc></line>
+
+<line n="42" stanza="7">Then the green grass sprouted<punc type="comma">,</punc></line>
+<line n="43" stanza="7">And the little red flowers blossomed<punc type="comma">,</punc></line>
+<line n="44" stanza="7">The pine tree pointed his finger to the sky<punc type="comma">,</punc></line>
+<line n="45" stanza="7">And the oak spread out his arms<punc type="comma">,</punc></line>
+<line n="46" stanza="7">The lakes cuddled down in the hollows of the ground<punc type="comma">,</punc></line>
+<line n="47" stanza="7">And the rivers ran down to the sea<punc type="semicolon">;</punc></line>
+<line n="48" stanza="7">And God smiled again<punc type="comma">,</punc> </line>
+<line n="49" stanza="7">And the rainbow appeared<punc type="comma">,</punc></line>
+<line n="50" stanza="7">And curled itself around his shoulder<punc type="period">.</punc></line>
+
+<line n="51" stanza="8">Then God raised his arm and he waved his hand</line>
+<line n="52" stanza="8">Over the sea and over the land<punc type="comma">,</punc></line>
+<line n="52" stanza="8">And he said<punc type="colon">:</punc> Bring forth<punc type="exclamation_point">!</punc> Bring forth<punc type="exclamation_point">!</punc></line>
+<line n="54" stanza="8">And quicker than God could drop his hand<punc type="comma">,</punc></line>
+<line n="55" stanza="8">Fishes and fowls</line>
+<line n="56" stanza="8">And beasts and birds</line>
+<line n="57" stanza="8">Swam the rivers and the seas<punc type="comma">,</punc></line>
+<line n="58" stanza="8">Roamed the forests and the woods<punc type="comma">,</punc></line>
+<line n="59" stanza="8">And split the air with their wings<punc type="period">.</punc></line>
+<line n="60" stanza="8">And God said<punc type="colon">:</punc> That is good<punc type="exclamation_point">!</punc></line>
+
+<line n="61" stanza="9">Then God walked around<punc type="comma">,</punc></line>
+<line n="62" stanza="9">And God looked around</line>
+<line n="63" stanza="9">On all that he had made<punc type="period">.</punc></line>
+<line n="64" stanza="9">He looked at his sun<punc type="comma">,</punc> </line>
+<line n="65" stanza="9">And he looked at his moon<punc type="comma">,</punc></line>
+<line n="66" stanza="9">And he looked at his little stars<punc type="semicolon">;</punc></line>
+<line n="67" stanza="9">He looked on his world</line>
+<line n="68" stanza="9">With all its living things<punc type="comma">,</punc></line>
+<line n="69" stanza="9">And God said<punc type="colon">:</punc> I am lonely still<punc type="period">.</punc></line>
+
+<line n="70" stanza="10">Then God sat down<punc type="dash">-</punc></line>
+<line n="71" stanza="10">On the side of a hill where he could think<punc type="semicolon">;</punc></line>
+<line n="72" stanza="10">By a deep<punc type="comma">,</punc> wide river he sat down<punc type="semicolon">;</punc></line>
+<line n="73" stanza="10">With his head in his hands<punc type="comma">,</punc></line>
+<line n="74" stanza="10">God thought and thought<punc type="comma">,</punc></line>
+<line n="75" stanza="10">Till he thought<punc type="colon">:</punc> I will make me a man<punc type="exclamation_point">!</punc></line>
+
+<line n="76" stanza="11">Up from the bed of the river</line>
+<line n="77" stanza="11">God scooped the clay<punc type="semicolon">;</punc></line>
+<line n="78" stanza="11">And by the bank of the river</line>
+<line n="79" stanza="11">He kneeled him down<punc type="semicolon">;</punc></line>
+<line n="80" stanza="11">And there the great God Almighty</line>
+<line n="81" stanza="11">Who lit the sun and fixed it in the sky<punc type="comma">,</punc> </line>
+<line n="82" stanza="11">Who flung the stars to the most far corner of the night<punc type="comma">,</punc>/line>
+<line n="83" stanza="11">Who rounded the earth in the middle of his hand<punc type="semicolon">;</punc></line>
+<line n="84" stanza="11">This great God<punc type="comma">,</punc></line>
+<line n="85" stanza="11">Like a mammy bending over her baby<punc type="comma">,</punc></line>
+<line n="86" stanza="11">Kneeled down in the dust</line>
+<line n="87" stanza="11">Toiling over a lump of clay</line>
+<line n="88" stanza="11">Till he shaped it in is his own image<punc type="semicolon">;</punc></line>
+
+<line n="89" stanza="12">Then into it he blew the breath of life<punc type="comma">,</punc></line>
+<line n="90" stanza="12">And man became a living soul<punc type="period">.</punc>Amen<punc type="period">.</punc>Amen.</line>
+</content>
+</poem>

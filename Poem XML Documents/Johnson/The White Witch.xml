@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+<coder>TL</coder>
+<header>
+<title>The White Witch</title>
+<byLine poet="Johnson_JW">James Weldon Johnson</byLine>
+</header>
+    <content>
+<line n="1" stanza="1">O brothers mine, take care! Take care<punc type="exclamation_point">!</punc></line>
+<line n="2" stanza="1">The great white witch rides out to-night<punc type="period">.</punc></line>
+<line n="3" stanza="1">Trust not your prowess nor your strength<punc type="comma">,</punc></line>
+<line n="4" stanza="1">Your only safety lies in flight<punc type="semicolon">;</punc></line>
+<line n="5" stanza="1">For in her glance there is a snare<punc type="comma">,</punc></line>
+<line n="6" stanza="1">And in her smile there is a blight<punc type="period">.</punc></line>
+
+<line n="7" stanza="2">The great white witch you have not seen<punc type="question_mark">?</punc></line>
+<line n="8" stanza="2">Then<punc type="comma">,</punc> younger brothers mine<punc type="comma">,</punc> forsooth<punc type="comma">,</punc></line>
+<line n="9" stanza="2">Like nursery children you have looked</line>
+<line n="10" stanza="2">For ancient hag and snaggle-tooth<punc type="semicolon">;</punc></line>
+<line n="11" stanza="2">But no<punc type="comma">,</punc> not so<punc type="semicolon">;</punc> the witch appears</line>
+<line n="12" stanza="2">In all the glowing charms of youth. </line>
+
+<line n="13" stanza="3">Her lips are like carnations<punc type="comma">,</punc> red<punc type="comma">,</punc></line>
+<line n="14" stanza="3">Her face like new-born lilies<punc type="comma">,</punc> fair<punc type="comma">,</punc></line>
+<line n="15" stanza="3">Her eyes like ocean waters<punc type="comma">,</punc> blue<punc type="comma">,</punc></line>
+<line n="16" stanza="3">She moves with subtle grace and air<punc type="comma">,</punc></line>
+<line n="17" stanza="3">And all about her head there floats</line>
+<line n="18" stanza="3">The golden glory of her hair<punc type="period">.</punc> </line>
+
+<line n="19" stanza="4">But though she always thus appears</line>
+<line n="20" stanza="4">In form of youth and mood of mirth<punc type="comma">,</punc></line>
+<line n="21" stanza="4">Unnumbered centuries are hers<punc type="comma">,</punc></line>
+<line n="22" stanza="4">The infant planets saw her birth<punc type="semicolon">;</punc></line>
+<line n="23" stanza="4">The child of throbbing Life is she<punc type="comma">,</punc></line>
+<line n="24" stanza="4">Twin sister to the greedy earth<punc type="period">.</punc></line>
+
+<line n="25" stanza="5">And back behind those smiling lips<punc type="comma">,</punc></line>
+<line n="26" stanza="5">And down within those laughing eyes<punc type="comma">,</punc></line>
+<line n="27" stanza="5">And underneath the soft caress</line>
+<line n="28" stanza="5">Of hand and voice and purring sighs<punc type="comma">,</punc></line>
+<line n="29" stanza="5">The shadow of the panther lurks<punc type="comma">,</punc></line>
+<line n="30" stanza="5">The spirit of the vampire lies<punc type="period">.</punc></line>
+
+<line n="40" stanza="6">For I have seen the great white witch<punc type="comma">,</punc></line>
+<line n="41" stanza="6">And she has led me to her lair<punc type="comma">,</punc></line>
+<line n="42" stanza="6">And I have kissed her red<punc type="comma">,</punc> red lips</line>
+<line n="43" stanza="6">And cruel face so white and fair<punc type="semicolon">;</punc></line>
+<line n="44" stanza="6">Around me she has twined her arms<punc type="comma">,</punc></line>
+<line n="45" stanza="6">And bound me with her yellow hair<punc type="period">.</punc></line>
+
+<line n="46" stanza="7">I felt those red lips burn and sear</line>
+<line n="47" stanza="7">My body like a living coal<punc type="semicolon">;</punc></line>
+<line n="48" stanza="7">Obeyed the power of those eyes</line>
+<line n="49" stanza="7">As the needle trembles to the pole<punc type="semicolon">;</punc></line>
+<line n="50" stanza="7">And did not care although I felt</line>
+<line n="51" stanza="7">The strength go ebbing from my soul<punc type="period">.</punc></line>
+
+<line n="52" stanza="8">Oh<punc type="exclamation_point">!</punc> she has seen your strong young limbs<punc type="comma"></punc></line>
+<line n="53" stanza="8">And heard your laughter loud and gay<punc type="comma">,</punc></line>
+<line n="54" stanza="8">And in your voices she has caught</line>
+<line n="55" stanza="8">The echo of a far-off day<punc type="comma">,</punc></line>
+<line n="56" stanza="8">When man was closer to the earth<punc type="semicolon">;</punc></line>
+<line n="57" stanza="8">And she has marked you for her prey <punc type="period">.</punc></line>
+
+<line n="58" stanza="9">She feels the old Antaean strength</line>
+<line n="59" stanza="9">In you<punc type="comma">,</punc> the great dynamic beat</line>
+<line n="60" stanza="9">Of primal passions<punc type="comma">,</punc> and she sees</line>
+<line n="61" stanza="9">In you the last besieged retreat</line>
+<line n="62" stanza="9">Of love relentless<punc type="comma">,</punc> lusty<punc type="comma">,</punc> fierce<punc type="comma">,</punc></line>
+<line n="63" stanza="9">Love pain-ecstatic<punc type="comma">,</punc> cruel-sweet<punc type="period"></punc>. </line>
+
+<line n="64" stanza="10">O<punc type="comma">,</punc> brothers mine<punc type="comma">,</punc> take care<punc type="exclamation_point">!</punc> Take care<punc type="exclamation_point">!</punc></line>
+<line n="65" stanza="10">The great white witch rides out to<punc type="dash">-</punc>night.</line>
+<line n="66" stanza="10">O<punc type="comma">,</punc> younger brothers mine<punc type="comma">,</punc> beware<punc type="exclamation_point">!</punc></line>
+<line n="67" stanza="10">Look not upon her beauty bright<punc type="semicolon">;</punc></line>
+<line n="68" stanza="10">For in her glance there is a snare<punc type="comma">,</punc></line>
+<line n="69" stanza="10">And in her smile there is a blight<punc type="period">.</punc> </line>
+    </content>
+</poem>
