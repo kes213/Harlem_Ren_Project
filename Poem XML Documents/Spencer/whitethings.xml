@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="harlem.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+<coder>EL</coder>
+    <header>
+<title>White Things</title>
+<byLine poet="Spencer_A">Anne Spencer</byLine>
+    </header>
+    
+        <content>
+<line n="1" stanza="1">Most things are colorful things</line>
+<line n="2" stanza="1">-the sky, earth, and sea. </line>
+<line n="3" stanza="1">Black men are most men; </line>
+<line n="4" stanza="1">but the white are free! </line>
+    <line n="5" stanza="1">White things are rare things; </line>
+    <line n="6" stanza="1">so rare, so rare </line>
+    <line n="7" stanza="1">They stole from out a silvered </line>
+   <line n="8" stanza="1">world--somewhere.</line>
+    
+      <line n="9" stanza="2">Finding earth-plains fair plains</line>
+   <line n="10" stanza="2">save greenly grassed, </line>
+    <line n="11" stanza="2">They strewed white feathers of </line>
+    <line n="12" stanza="2">cowardice, as they passed;</line>
+
+       <line n="13" stanza="3">The golden stars with lances fine,</line> 
+    <line n="14" stanza="3">The hills all red and darkened pine,</line> 
+    <line n="15" stanza="3">They blanched with their want of power;</line> 
+  <line n="16" stanza="3">And turned the blood in a ruby rose </line>
+    <line n="17" stanza="3">To a poor white poppy-flower.</line>
+   
+        <line n="18" stanza="4">They pyred a race of black, black men, </line>
+    <line n="19" stanza="4">And burned them to ashes white; then,</line> 
+    <line n="20" stanza="4">Laughing, a young one claimed a skull</line>
+    <line n="21" stanza="4">For the skull of a black is white, not dull,</line> 
+    <line n="22" stanza="4">But a glistening awful thing</line>
+
+    
+    
+    
+        <line n="23" stanza="5">Made, it seems, for this ghoul to swing </line>
+    <line n="24" stanza="5"><figLang form="metaphor">In the face of God with all his might</figLang>, </line>
+    <line n="25" stanza="5">And swear by the hell that sired him: </line>
+    <line n="26" stanza="5">"Man-maker, make white!"</line>
+    
+    </content>
+    
+    
+</poem>

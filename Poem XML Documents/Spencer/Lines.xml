@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lines.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <header>
+<title> Lines to a Nasturtium</title>
+<author> Anne Spencer</author>
+    </header>
+<poem>
+<stanza n="1">
+<line><allit>Flame-flower,</allit> Day-torch, Mauna Loa,</line>
+<line>I saw a daring bee, today, pause, and soar,</line>
+<line>Into your flaming heart;</line>
+<line>Then did I hear <allit>crisp crinkled</allit> laughter</line>
+<line>As the furies after tore him apart? </line>
+<line>A bird, next, small and humming,</line>
+<line>Looked into your startled depths and fled....</line>
+<line>Surely, some dread sight, and dafter</line>
+<line>Than human eyes as mine can see,</line>
+<line>Set the stricken air waves drumming</line>
+<line>In his flight.</line>
+</stanza>
+    
+<stanza n="2">
+<line>Day-torch, <allit>Flame-flower,</allit> <oxymo>cool-hot</oxymo> Beauty,</line>
+<line>I cannot see, I cannot hear your fluty</line>
+<line>Voice lure your loving swain,</line>
+<line>But I know one other to whom you are in beauty</line>
+<line>Born in vain;</line>
+<line><simile>Hair like the setting sun,</simile></line>
+<line><metaphor>Her eyes a rising star,</metaphor></line>
+<line>Motions gracious <allit>as reeds by Babylon, bar</allit></line>
+<line>All your competing;</line>
+<line>Hands like, how like, brown lilies sweet,</line>
+<line>Cloth of gold were fair enough to touch her feet . . . .</line>
+<line>Ah, how the senses flood at my repeating,</line>
+<line>As once in her fire-lit heart I felt the furies</line>
+<line>Beating, beating.</line>
+</stanza>
+</poem>
+</root>

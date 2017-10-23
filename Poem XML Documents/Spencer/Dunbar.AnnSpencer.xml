@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="harlem.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+<coder>EL</coder>
+  <header>
+<title>Dunbar</title>
+<byLine poet="Spencer_A">Ann Spencer</byLine>
+  </header>
+<content>
+<line n="1" stanza="1">Oh, how poets sing and die!</line>
+<line n="2" stanza="1">Make one song and <figLang form="personification">Heaven takes it</figLang>;</line>
+<line n="3" stanza="1">have one heart and <figLang form="alliteration">Beauty break</figLang>s it;</line>
+<line n="4" stanza="1">Chatterton, Shelley, Keats and I—</line>
+<line n="5" stanza="1">Ah, how poets sing and die!</line>
+</content>
+
+</poem>
