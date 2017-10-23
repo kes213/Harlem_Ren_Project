@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../harlem.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+<coder>EL</coder>
+<header>
+<title>The Quilt</title>
+<byLine poet="Newsome_EL">Effie Lee Newsome</byLine>
+</header>
+
+   <content>
+   <line n="1" stanza="1">I have the greatest fun at night,</line>
+   <line n="2" stanza="1">When casement windows are all bright.</line>
+    <line n="3" stanza="1">I make believe each one's a square</line>
+    <line n="4" stanza="1">Of some great quilt up in the air.</line>
+    <line n="5" stanza="1"><figLang form="metaphor">The blocks of gold have black between</figLang></line>
+    <line n="6" stanza="1">Wherever only night is seen.</line>
+    <line n="7" stanza="1">It surely makes a mammoth quilt —</line>
+    <line n="8" stanza="1">With bits of dark and checks of gilt —</line>
+    <line n="9" stanza="1"><figLang form="metaphor">To cover up the tired day</figLang></line>
+    <line n="10" stanza="1">In such a cozy sort of way.</line>
+   </content>
+    
+</poem>
+

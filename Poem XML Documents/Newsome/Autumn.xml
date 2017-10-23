@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../harlem.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+ <coder>EL</coder>
+ <header>
+<title>O Autumn, Autumn!</title>
+<byLine poet="Newsome_EL">Effie Lee Newsome</byLine>
+ </header>    
+ 
+    <content>
+     <line n="1" stanza="1">O Autumn, Autumn! O pensive light</line>
+    <line n="2" stanza="1">and wistful sound!</line>
+    <line n="3" stanza="1">Gold-haunted sky, green-haunted ground!</line>
+   
+   <line n="4" stanza="2"><figLang form="alliteration">When, wan,</figLang> the dead leaves flutter by</line>
+    <line n="5" stanza="2">Deserted realms of butterfly!</line>
+   <line n="6" stanza="2">When robins band themselves together</line>
+    
+   <line n="7" stanza="3"><figLang form="alliteration">To seek the sound of sun-steeped</figLang> weather;</line>
+    <line n="8" stanza="3">And all of summer’s largesse goes</line>
+   <line n="9" stanza="3">For lands of olive and the rose!</line>
+    </content>
+    
+    </poem>
+   

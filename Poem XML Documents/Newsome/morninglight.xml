@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../harlem.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+<coder>EL</coder>
+<header>
+<title>Morning Light</title>
+<byLine poet="Newsome_EL">Effie Lee Newsome</byLine>
+    
+</header>
+ <content>
+
+    <line n="1" stanza="1">(The Dew-drier)</line>
+    
+   <line n="2" stanza="2">It is a custom in some parts of Africa for travelers into the jungles to send before them in the early morning little African boys called “Dew-driers” to brush with their bodies the dew from the high grasses—and be, perchance, the first to meet the leopard’s or hyena’s challenge—and so open the road. “Human Brooms,” Dan Crawford calls them.</line>
+    
+    
+    <line n="3" stanza="3">Brother to the firefly—</line>
+    <line n="4" stanza="3">For as the firefly lights the night</line>
+    <line n="5" stanza="3">So lights he the morning—</line>
+    <line n="6" stanza="3"><figLang form="alliteration">Bathed in the dank dews as he goes forth</figLang></line>
+   <line n="7" stanza="3"><figLang form="alliteration">Through heavy menace and mystery</figLang></line>
+    <line n="8" stanza="3"><figLang form="personification">Of half-waking tropic dawns,</figLang></line>
+    <line n="9" stanza="3"><figLang form="alliteration">Behold a little black boy, a naked black boy,</figLang></line>
+   <line n="10" stanza="3">Sweeping aside with his slight frame</line>
+   <line n="11" stanza="3"><figLang form="personification">Night’s pregnant tears,</figLang></line>
+    <line n="12" stanza="3">And making a morning path to the light</line>
+   <line n="13" stanza="3">For the tropic traveler!</line>
+    
+    
+    
+    <line n="14" stanza="4">Bathed in the blood of battle</line>
+    <line n="15" stanza="4"><figLang form="alliteration">Treading toward a new morning,</figLang></line>
+    <line n="16" stanza="4">May not his race—its body long bared to the world’s disdain,</line>
+    <line n="17" stanza="4">Its face schooled to smile for a light to come—</line>
+   <line n="18" stanza="4">May not his race, even as the dew-boy leads,</line>
+    <line n="19" stanza="4"><figLang form="alliteration">Bear onward the world toward a new day-dawn</figLang></line>
+   <line n="20" stanza="4">When tolerance, forgiveness,</line>
+   <line n="21" stanza="4">Such as reigned in the heart of One</line>
+   <line n="22" stanza="4">Whose heart was gold,</line>
+    <line n="23" stanza="4">Shall shape the earth for that fresh dawning</line>
+    <line n="24" stanza="4">After the dews of blood?</line>
+   
+ </content>
+    
+    
+    
+</poem>
+    
+

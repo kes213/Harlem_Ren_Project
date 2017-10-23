@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../harlem.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+  <coder>EL</coder>
+<header>
+<title>The Bronze Legacy </title>
+<byLine poet="Newsome_EL">Effie Lee Newsome</byLine> 
+</header>
+<content>
+     
+     
+    <line n="1" stanza="1">‘Tis a noble gift to be brown, all brown,</line>
+     <line n="2" stanza="1">Like the strongest things that make up this earth,</line>
+     <line n="3" stanza="1">Like the mountains grave and grand,</line>
+     <line n="4" stanza="1">Even like the very land,</line>
+     <line n="5" stanza="1">Even like the trunks of trees—</line>
+     <line n="6" stanza="1">Even oaks, to be like these!</line>
+    <line n="7" stanza="1">God builds His strength in bronze.</line>
+     
+    <line n="8" stanza="2">To be brown like thrush and lark!</line>
+     <line n="9" stanza="2">Like the subtle wren so dark!</line>
+     <line n="10" stanza="2">Nay, the king of beasts wears brown;</line>
+     <line n="11" stanza="2">Eagles are of this same hue.</line>
+     <line n="12" stanza="2">I thank God, then, I am brown.</line>
+   <line n="13" stanza="2">Brown has mighty things to do.</line>
+     </content>
+     
+     
+     
+     
+ </poem>   
+
+
