@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-  <coder>KS</coder>
-  <header>
-    <title>America</title> 
-    <byLine poet="McKay_C">By Claude McKay</byLine>
-  </header>
-  <content>
-    <line n="1">Although she feeds me bread of bitterness<punc type="comma">,</punc></line> 
-    <line n="2">And <figLang form="metaphor">sinks into my throat her tiger’s tooth</figLang><punc type="comma">,</punc></line> 
-    <line n="3">Stealing my breath of life<punc type="comma">,</punc> I will confess</line>
-    <line n="4">I love this cultured hell that tests my youth<punc type="period">.</punc></line> 
-    <line n="5"><figLang form="simile">Her vigor flows like tides into my blood</figLang><punc type="comma">,</punc></line> 
-    <line n="6">Giving me strength erect against her hate<punc type="comma">,</punc></line> 
-    <line n="7">Her bigness sweeps my being <figLang form="simile">like a flood</figLang><punc type="period">.</punc></line> 
-    <line n="8">Yet<punc type="comma">,</punc> as a rebel fronts a king in state<punc type="comma">,</punc></line> 
-    <line n="9">I stand within her walls with not a shred</line> 
-    <line n="10">Of terror<punc type="comma">,</punc> malice<punc type="comma">,</punc> not a word of jeer<punc type="period">.</punc></line> 
-    <line n="11">Darkly I gaze into the days ahead<punc type="comma">,</punc></line> 
-    <line n="12">And see her might and granite wonders there<punc type="comma">,</punc></line> 
-    <line n="13">Beneath the touch of <figLang form="personification">Time’s unerring hand</figLang><punc type="comma">,</punc></line> 
-    <line n="14"><figLang form="simile">Like priceless treasures sinking in the sand</figLang><punc type="period">.</punc></line>
-  </content>
+    <title poet="McKay_C">America</title> 
+<stanza>
+    <l n="1">Although she feeds me bread of bitterness<punc type="comma">,</punc></l> 
+    <l n="2">And <figLang form="metaphor">sinks into my throat her tiger’s tooth</figLang><punc type="comma">,</punc></l> 
+    <l n="3">Stealing my breath of life<punc type="comma">,</punc> I will confess</l>
+    <l n="4">I love this cultured hell that tests my youth<punc type="period">.</punc></l> 
+    <l n="5"><figLang form="simile">Her vigor flows like tides into my blood</figLang><punc type="comma">,</punc></l> 
+    <l n="6">Giving me strength erect against her hate<punc type="comma">,</punc></l> 
+    <l n="7">Her bigness sweeps my being <figLang form="simile">like a flood</figLang><punc type="period">.</punc></l> 
+    <l n="8">Yet<punc type="comma">,</punc> as a rebel fronts a king in state<punc type="comma">,</punc></l> 
+    <l n="9">I stand within her walls with not a shred</l> 
+    <l n="10">Of terror<punc type="comma">,</punc> malice<punc type="comma">,</punc> not a word of jeer<punc type="period">.</punc></l> 
+    <l n="11">Darkly I gaze into the days ahead<punc type="comma">,</punc></l> 
+    <l n="12">And see her might and granite wonders there<punc type="comma">,</punc></l> 
+    <l n="13">Beneath the touch of <figLang form="personification">Time’s unerring hand</figLang><punc type="comma">,</punc></l> 
+    <l n="14"><figLang form="simile">Like priceless treasures sinking in the sand</figLang><punc type="period">.</punc></l>
+</stanza>
 </poem>

@@ -6,8 +6,9 @@
     
     <pattern>
         <rule context="*">
-            <report test="starts-with(., ' ')">Element should not begin with a whitespace.</report>
+            <report test="starts-with(., ' ')">Element begins with a whitespace.</report>     
         </rule>
     </pattern>
+    
     
 </schema>

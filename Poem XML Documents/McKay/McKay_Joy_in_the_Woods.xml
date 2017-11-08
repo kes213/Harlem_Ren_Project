@@ -1,50 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
+    <title poet="McKay_C">Joy in the Woods</title> 
+
+    <stanza>
+    <l n="1">There is joy in the woods just now<punc type="comma">,</punc></l>
+    <l n="2">The leaves are whispers of song<punc type="comma">,</punc></l>
+    <l n="3">And the birds make mirth on the bough</l>
+    <l n="4">And music the whole day long<punc type="comma">,</punc></l>
+    <l n="5">And God<punc type="exclamation_point">!</punc> to dwell in the town</l>
+    <l n="6">In these springlike summer days<punc type="comma">,</punc></l>
+    <l n="7">On my brow an unfading frown</l>
+    <l n="8">And hate in my heart always<punc type="dash">—</punc></l>
+    </stanza>
     
-    <coder>KS</coder>
-    <header>
-    <title>Joy in the Woods</title> 
-    <byLine poet="McKay_C">By Claude McKay</byLine> 
-    </header>
-    <content>
-    <line n="1" stanza="1">There is joy in the woods just now<punc type="comma">,</punc></line>
-    <line n="2" stanza="1">The leaves are whispers of song<punc type="comma">,</punc></line>
-    <line n="3" stanza="1">And the birds make mirth on the bough</line>
-    <line n="4" stanza="1">And music the whole day long<punc type="comma">,</punc></line>
-    <line n="5" stanza="1">And God<punc type="exclamation_point">!</punc> to dwell in the town</line>
-    <line n="6" stanza="1">In these springlike summer days<punc type="comma">,</punc></line>
-    <line n="7" stanza="1">On my brow an unfading frown</line>
-    <line n="8" stanza="1">And hate in my heart always<punc type="dash">—</punc></line>
+    <stanza>
+    <l n="9">A machine out of gear<punc type="comma">,</punc> aye<punc type="comma">,</punc> tired<punc type="comma">,</punc></l>
+    <l n="10">Yet forced to go on—for I’m hired<punc type="period">.</punc></l>
+    </stanza>
     
-    <line n="9" stanza="2">A machine out of gear<punc type="comma">,</punc> aye<punc type="comma">,</punc> tired<punc type="comma">,</punc></line>
-    <line n="10" stanza="2">Yet forced to go on—for I’m hired<punc type="period">.</punc></line>
+    <stanza>
+    <l n="11">Just forced to go on through fear<punc type="comma">,</punc></l>
+    <l n="12">For every day I must eat</l>
+    <l n="13">And find ugly clothes to wear<punc type="comma">,</punc></l>
+    <l n="14">And bad shoes to hurt my feet</l>
+    <l n="15">And a shelter for work-drugged sleep<punc type="exclamation_point">!</punc></l>
+    <l n="16">A mere drudge<punc type="exclamation_point">!</punc> but what can one do<punc type="question_mark">?</punc></l>
+    <l n="17">A man that’s a man cannot weep<punc type="exclamation_point">!</punc></l>
+    <l n="18">Suicide<punc type="question_mark">?</punc> A quitter<punc type="question_mark">?</punc> Oh<punc type="comma">,</punc> no<punc type="exclamation_point">!</punc></l>
+    </stanza>
     
-    <line n="11" stanza="3">Just forced to go on through fear<punc type="comma">,</punc></line>
-    <line n="12" stanza="3">For every day I must eat</line>
-    <line n="13" stanza="3">And find ugly clothes to wear<punc type="comma">,</punc></line>
-    <line n="14" stanza="3">And bad shoes to hurt my feet</line>
-    <line n="15" stanza="3">And a shelter for work-drugged sleep<punc type="exclamation_point">!</punc></line>
-    <line n="16" stanza="3">A mere drudge<punc type="exclamation_point">!</punc> but what can one do<punc type="question_mark">?</punc></line>
-    <line n="17" stanza="3">A man that’s a man cannot weep<punc type="exclamation_point">!</punc></line>
-    <line n="18" stanza="3">Suicide<punc type="question_mark">?</punc> A quitter<punc type="question_mark">?</punc> Oh<punc type="comma">,</punc> no<punc type="exclamation_point">!</punc></line>
+    <stanza>
+    <l n="19">But a slave should never grow tired<punc type="comma">,</punc></l>
+    <l n="20">Whom the masters have kindly hired<punc type="period">.</punc></l>
+    </stanza>
     
-    <line n="19" stanza="3">But a slave should never grow tired<punc type="comma">,</punc></line>
-    <line n="20" stanza="3">Whom the masters have kindly hired<punc type="period">.</punc></line>
+    <stanza>
+    <l n="21">But oh<punc type="exclamation_point">!</punc> for the woods<punc type="comma">,</punc> the flowers</l>
+    <l n="22">Of natural<punc type="comma">,</punc> sweet perfume<punc type="comma">,</punc></l>
+    <l n="23">The heartening<punc type="comma">,</punc> summer showers</l>
+    <l n="24">And the smiling shrubs in bloom<punc type="comma">,</punc></l>
+    <l n="25">Dust-free<punc type="comma">,</punc> dew-tinted at morn<punc type="comma">,</punc></l>
+    <l n="26">The fresh and life-giving air<punc type="comma">,</punc></l>
+    <l n="27">The billowing waves of corn</l>
+    <l n="28">And the birds’ notes rich and clear<punc type="colon">:</punc><punc type="dash">—</punc></l>
+    </stanza>
     
-    <line n="21" stanza="3">But oh<punc type="exclamation_point">!</punc> for the woods<punc type="comma">,</punc> the flowers</line>
-    <line n="22" stanza="3">Of natural<punc type="comma">,</punc> sweet perfume<punc type="comma">,</punc></line>
-    <line n="23" stanza="3">The heartening<punc type="comma">,</punc> summer showers</line>
-    <line n="24" stanza="3">And the smiling shrubs in bloom<punc type="comma">,</punc></line>
-    <line n="25" stanza="3">Dust-free<punc type="comma">,</punc> dew-tinted at morn<punc type="comma">,</punc></line>
-    <line n="26" stanza="3">The fresh and life-giving air<punc type="comma">,</punc></line>
-    <line n="27" stanza="3">The billowing waves of corn</line>
-    <line n="28" stanza="3">And the birds’ notes rich and clear<punc type="colon">:</punc><punc type="dash">—</punc></line>
-    
-    <line n="29" stanza="4">For a man-machine toil-tired</line>
-    <line n="30" stanza="4">May crave beauty too—though he’s hired<punc type="period">.</punc></line>
-    </content>
+    <stanza>
+    <l n="29">For a man-machine toil-tired</l>
+    <l n="30">May crave beauty too—though he’s hired<punc type="period">.</punc></l>
+    </stanza>
 </poem>
