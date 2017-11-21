@@ -1,40 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="lines.rnc" type="application/relax-ng-compact-syntax"?>
-<root>
-    <header>
-<title> Lines to a Nasturtium</title>
-<author> Anne Spencer</author>
-    </header>
+<?xml-model href="../../HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-<stanza n="1">
-<line><allit>Flame-flower,</allit> Day-torch, Mauna Loa,</line>
-<line>I saw a daring bee, today, pause, and soar,</line>
-<line>Into your flaming heart;</line>
-<line>Then did I hear <allit>crisp crinkled</allit> laughter</line>
-<line>As the furies after tore him apart? </line>
-<line>A bird, next, small and humming,</line>
-<line>Looked into your startled depths and fled....</line>
-<line>Surely, some dread sight, and dafter</line>
-<line>Than human eyes as mine can see,</line>
-<line>Set the stricken air waves drumming</line>
-<line>In his flight.</line>
+<title poet="Spencer_A">Lines to a Nasturtium</title>
+<stanza>
+<l n="1">Flame-flowe<punc type="comma">r,Day-torch, Mauna Loa,</punc></l>
+<l n="2">I saw a daring <punc type="comma">bee, today, pause, and soar,</punc></l>
+<l n="3">Into your flaming heart<punc type="semicolon">;</punc> </l>
+<l n="4">Then did I hear crisp crinkled laughter</l>
+<l n="5">As the furies after tore him apart<punc type="question_mark">?</punc> </l>
+<l n="6">A bird, next, small and humming,</l>
+<l n="7">Looked into your startled depths and fled....</l>
+<l n="8">Surely, some dread sight, and dafter</l>
+<l n="9">Than human eyes as mine can see,</l>
+<l n="10">Set the stricken air waves drumming</l>
+<l n="11">In his flight.</l>
 </stanza>
     
-<stanza n="2">
-<line>Day-torch, <allit>Flame-flower,</allit> <oxymo>cool-hot</oxymo> Beauty,</line>
-<line>I cannot see, I cannot hear your fluty</line>
-<line>Voice lure your loving swain,</line>
-<line>But I know one other to whom you are in beauty</line>
-<line>Born in vain;</line>
-<line><simile>Hair like the setting sun,</simile></line>
-<line><metaphor>Her eyes a rising star,</metaphor></line>
-<line>Motions gracious <allit>as reeds by Babylon, bar</allit></line>
-<line>All your competing;</line>
-<line>Hands like, how like, brown lilies sweet,</line>
-<line>Cloth of gold were fair enough to touch her feet . . . .</line>
-<line>Ah, how the senses flood at my repeating,</line>
-<line>As once in her fire-lit heart I felt the furies</line>
-<line>Beating, beating.</line>
+<stanza>
+<l n="12">Day-torch, Flame-flower,cool-hot Beauty<punc type="comma">,</punc></l>
+<l n="13">I cannot see, I cannot hear your fluty</l>
+<l n="14">Voice lure your loving swain,</l>
+<l n="15">But I know one other to whom you are in beauty</l>
+<l n="16">Born in vain;</l>
+<l n="17"><figLang form="simile">Hair like the setting sun,</figLang></l>
+<l n="18"><figLang form="metaphor">Her eyes a rising star,</figLang></l>
+<l n="19">Motions gracious as reeds by Babylon, bar</l>
+<l n="20">All your competing;</l>
+<l n="21">Hands like, how like, brown lilies sweet,</l>
+<l n="22">Cloth of gold were fair enough to touch her feet . . . .</l>
+<l n="23">Ah, how the senses flood at my repeating,</l>
+<l n="24">As once in her fire-lit heart I felt the furies</l>
+<l n="25">Beating, beating.</l>
 </stanza>
 </poem>
-</root>

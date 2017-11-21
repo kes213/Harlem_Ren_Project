@@ -1,43 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="harlem.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-  <coder>EL</coder>
-  <header>
-<title>Life Long, Poor Browning</title>
-<byLine poet="Spencer_A">Anne Spencer</byLine>
-  </header>
-<content>
-    
-     <line n="1" stanza="1"><figLang form="alliteration">Life-long</figLang>, poor Browning never knew Virginia,</line>
-    <line n="2" stanza="1">Or he'd not grieved in Florence for April sallies</line>
-    <line n="3" stanza="1">Back to English gardens after Euclid's linear:</line>
-   <line n="4" stanza="1">Clipt yews, Pomander Walks, and preached alleys; </line>
-    
-    
-       <line n="5" stanza="2">Primroses, prim indeed, in quiet ordered hedges,</line>
-    <line n="6" stanza="2">Waterways, soberly, sedately enchanneled,</line>
- <line n="7" stanza="2">No thin riotous blade even among the sedges,</line>
-    <line n="8" stanza="2"><figLang form="personification">All the wild country-side tamely impaneled </figLang>. . </line>
-   
-    
-   
-     <line n="9" stanza="3">Dead, now, dear Browning, lives on in heaven,--</line>
-    <line n="10" stanza="3">(Heaven's Virginia when the year's at its Spring)</line>
-   <line n="11" stanza="3">He's haunting the byways of wine-aired leaven</line>
-   <line n="12" stanza="3"><figLang form="alliteration">And throating the notes of the wildings on wing;</figLang></line>
+ 
+
+<title poet="Spencer_A">Life Long, Poor Browning</title>
+
+
 
     
+    <stanza>
+      <l n="1">Life-long, poor Browning never knew Virginia,</l>
+    <l n="2">>Or he'd not grieved in Florence for April sallies</l>
+    <l n="3">Back to English gardens after Euclid's linear<punc type="colon">:</punc></l>
+   <l n="4">Clipt yews, Pomander Walks, and preached alleys<punc type="semicolon">;</punc> </l>
+    </stanza>
     
- <line n="13" stanza="4">Here canopied reaches of dogwood and hazel,</line>
-    <line n="14" stanza="4">Beech tree and redbud fine-laced in vines,</line>
-    <line n="15" stanza="4">Fleet clapping rills by lush fern and basil,</line>
-    <line n="16" stanza="4">Drain blue hills to lowlands scented with pines</line>
+     <stanza>
+       <l n="5">Primroses, prim indeed, in quiet ordered hedges<punc type="comma">,</punc></l>
+    <l n="6">Waterways, soberly, sedately enchanneled<punc type="comma">,</punc></l>
+ <l n="7">No thin riotous blade even among the sedges<punc type="comma">,</punc></l>
+    <l n="8"><figLang form="personification">All the wild country-side tamely impaneled </figLang>. . </l>
+   </stanza>
     
-    
-        <line n="17" stanza="5">Think you he meets in this tender green sweetness</line>
-  <line n="18" stanza="5">Shade that was Elizabeth . . . immortal completeness!</line>
    
-</content>
+     <stanza>
+       <l n="9">Dead, now, dear Browning, lives on in heaven,--</l>
+    <l n="10">(Heaven's Virginia when the year's at its Spring)</l>
+   <l n="11">He's haunting the byways of wine-aired leaven</l>
+   <l n="12">And throating the notes of the wildings on wing<punc type="semicolon">;</punc></l>
+</stanza>
+    
+    
+ <stanza>
+   <l n="13">Here canopied reaches of dogwood and hazel,</l>
+    <l n="14">Beech tree and redbud fine-laced in vines,</l>
+    <l n="15">Fleet clapping rills by lush fern and basil<punc type="comma">,</punc></l>
+    <l n="16">Drain blue hills to lowlands scented with pines</l></stanza>
+    
+    
+   <stanza>
+     <l n="17">Think you he meets in this tender green sweetness</l>
+  <l n="18">Shade that was Elizabeth . . . immortal completeness<punc type="exclamation_point">!</punc></l>
+   
+</stanza>
 </poem>
 

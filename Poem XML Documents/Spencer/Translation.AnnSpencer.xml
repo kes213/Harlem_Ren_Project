@@ -1,32 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="harlem.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-<coder>EL</coder>
-<header>
-<title>Translation</title>
-<byLine poet="Spencer_A">Ann Spencer</byLine>
-</header>
-    <content>
+    <title poet="Spencer_A">Translation </title>
+<stanza>
+<l n="1">We trekked into a far country, </l>
+<l n="2">My friend and I<punc type="period">.</punc> </l>
+<l n="3">Our deeper content was never spoken,</l>
+<l n="4">But each knew all the other said<punc type="period">.</punc></l>
+<l n="5">He told me how calm his soul was laid</l>
+<l n="6">By the lack of anvil and strife.</l>
+<l n="7">“The wooing kestrel,” I said, “mutes his mating-note</l>
+<l n="8">To please the harmony of this sweet silence.”</l>
+<l n="9">And when at the day’s end</l>
+<l n="10">We laid tired bodies ’gainst</l>
+<l n="11">The loose warm sands,</l>
+<l n="12">And the air fleeced its particles for a coverlet<punc type="semicolon">;</punc></l>
+<l n="13">When star after star came out</l>
+<l n="14">To guard their lovers in oblivion—</l>
+<l n="15"><figLang form="personification">My soul so leapt</figLang> that my evening prayer </l>
+<l n="16">Stole my morning song! </l>
+</stanza>
 
-<line n="1" stanza="1">We trekked into a far country, </line>
-<line n="2" stanza="1">My friend and I. </line>
-<line n="3" stanza="1">Our deeper content was never spoken,</line>
-<line n="4" stanza="1">But each knew all the other said.</line>
-<line n="5" stanza="1">He told me how calm his soul was laid</line>
-<line n="6" stanza="1">By the lack of anvil and strife.</line>
-<line n="7" stanza="1">“The wooing kestrel,” I said, “mutes his mating-note</line>
-<line n="8" stanza="1">To please the harmony of this sweet silence.”</line>
-<line n="9" stanza="1">And when at the day’s end</line>
-<line n="10" stanza="1">We laid tired bodies ’gainst</line>
-<line n="11" stanza="1">The loose warm sands,</line>
-<line n="12" stanza="1">And the air fleeced its particles for a coverlet;</line>
-<line n="13" stanza="1">When star after star came out</line>
-<line n="14" stanza="1">To guard their lovers in oblivion—</line>
-<line n="15" stanza="1"><figLang form="personification">My soul so leapt</figLang> that my evening prayer </line>
-<line n="16" stanza="1">Stole my morning song! </line>
-</content>
-    
     
     </poem>
 

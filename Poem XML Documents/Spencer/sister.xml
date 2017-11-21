@@ -1,48 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="harlem.rnc" type="application/relax-ng-compact-syntax"?>
 
 <?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    <coder>EL</coder>
-    <header>
-<title>Letters to My Sister</title>
-<byLine poet="Spencer_A">Anne Spencer</byLine>
-</header>
+<title poet="Spencer_A">Letters to My Sister</title>
     
-      <content>
-<line n="1" stanza="1">It is dangerous for a woman to defy the gods; </line>
-<line n="2" stanza="1">To taunt them with the<figLang form="alliteration">tongue's thin tip</figLang>,</line>
-<line n="3" stanza="1">Or strut in the weakness of mere humanity,</line>
-<line n="4" stanza="1">Or draw a line daring them to cross;</line>
- <line n="5" stanza="1">The gods own the searing lightning,</line>
-<line n="6" stanza="1">The drowning waters, tormenting fears</line>
-<line n="7" stanza ="1">And anger of red sins. </line>
+      <stanza>
+<l n="1">It is dangerous for a woman to defy the gods<punc type="semicolon">; </punc></l>
+<l n="2">To taunt them with the tongue's thin tip<punc type="comma">,</punc></l>
+<l n="3">Or strut in the weakness of mere humanity<punc type="comma">,</punc></l>
+<l n="4">Or draw a line daring them to cross<punc type="semicolon">;</punc> </l>
+ <l n="5">The gods own the searing lightnin<punc type="comma">g,</punc></l>
+<l n="6">The drowning waters<punc type="comma">,</punc> tormenting fears</l>
+<l n="7">And anger of red sins<punc type="period">. </punc></l>
+      </stanza>
+<stanza>
+<l n="8">Oh, but worse still if you mince timidly--</l>
+      <l n="9">Dodge this way or that, or kneel or pray<punc type="comma">,</punc></l>
+       <l n="10">Be kind, or sweat agony drops</l>
+        <l n="11">Or lay your quick body over your feeble young<punc type="semicolon">;</punc></l>
+       <l n="12">If you have beauty or none<punc type="comma">,</punc> if celibate</l>
+     <l n="13">Or vowed--the gods are Juggernaut<punc type="comma">,</punc></l>
+     <l n="14">Passing over . . . over . . .</l>
+       </stanza>
         
-        
-<line n="8" stanza="2">Oh, but worse still if you mince timidly--</line>
-      <line n="9" stanza="2">Dodge this way or that, or kneel or pray,</line>
-       <line n="10" stanza="2">Be kind, or sweat agony drops</line>
-        <line n="11" stanza="2">Or lay your quick body over your feeble young;</line>
-       <line n="12" stanza="2">If you have beauty or none, if celibate</line>
-     <line n="13" stanza="2">Or vowed--the gods are Juggernaut,</line>
-     <line n="14" stanza="2">Passing over . . . over . . .</line>
+        <stanza>
+          <l n="15">This you may do<punc type="colon">:</punc></l>
+        <l n="16">Lock your heart<punc type="comma">, </punc>then<punc type="comma">, quietly,</punc></l>
+       <l n="17">And lest they peer within<punc type="comma">,</punc></l>
+        <l n="18">Light no lamp when dark comes down</l>
+       <l n="19">Raise no shade for sun<punc type="semicolon">;</punc></l>
+        <l n="20">Breathless must your breath come through</l>
+        <l n="21">If you'd die and dare deny</l>
+        <l n="22">The gods their god-like fun<punc type="period">.</punc></l>
        
-        
-        
-          <line n="15" stanza="3">This you may do:</line>
-        <line n="16" stanza="3">Lock your heart, then, quietly,</line>
-       <line n="17" stanza="3">And lest they peer within,</line>
-        <line n="18" stanza="3"><figLang form="alliteration">Light no lamp</figLang> when dark comes down</line>
-       <line n="19" stanza="3">Raise no shade for sun;</line>
-        <line n="20" stanza="3">Breathless must your breath come through</line>
-        <line n="21" stanza="3">If you'd <figLang form="alliteration">die and dare deny</figLang></line>
-        <line n="22" stanza="3">The gods their god-like fun.</line>
+        </stanza>
         
         
         
-        
-      </content>
-        
+      
     </poem>
 
     

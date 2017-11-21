@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="harlem.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-<coder>EL</coder>
-<header>
-<title>The Wife-Woman</title>
-<byLine poet="Spencer_A">Anne Spencer</byLine>
-</header>
+
+<title poet="Spencer_A">The Wife-Woman</title>
+
     
-<content>
-<line n="1" stanza="1">Maker-of-<figLang form="alliteration">Sevens in the scheme</figLang> of things</line>
-<line n="2" stanza="1">From earth to star;</line>
-<line n="3" stanza="1">Thy cycle holds whatever is fate, and</line>
-<line n="4" stanza="1">Over the border the bar.</line>
-<line n="5" stanza="1">Though rank and fierce<figLang form="metaphor">the mariner</figLang></line>
-<line n="6" stanza="1">Sailing the seven seas,</line>
-<line n="7" stanza="1">He prays as he holds his glass to his eyes</line>
-<line n="8" stanza="1">Coaxing the Pleiades .</line>
+<stanza>
+    <l n="1">Maker-of-Sevens in the schemeof things</l>
+<l n="2">to star<punc type="semicolon">;</punc></l>
+<l n="3">Thy cycle holds whatever is fate, and</l>
+<l n="4">Over the border the bar.</l>
+<l n="5">Though rank and fierce<figLang form="metaphor">the mariner</figLang></l>
+<l n="6">Sailing the seven seas<punc type="comma">,</punc></l>
+<l n="7">He prays as he holds his glass to his eyes</l>
+<l n="8">Coaxing the Pleiades <punc type="period">.</punc></l>
+</stanza>
+    <stanza>
+<l n="9">I cannot love them; and I feel your glad,</l>
+<l n="10" >Chiding from the grave<punc type="comma">,</punc></l>
+<l n="11">That my all was only worth at all<punc type="comma">,</punc> what</l>
+<l n="12">Joy to you it gave,</l>
+<l n="13">These seven links the Law compelled</l>
+<l n="14">For the human chain—</l>
+<l n="15">I cannot love them<punc type="semicolon">;</punc> and you, oh,</l>
+<l n="16">Seven-fold months in Flanders slain!</l>
+    </stanza>
 
-<line n="9" stanza="2">I cannot love them; and I feel your glad,</line>
-<line n="10" stanza="2">Chiding from the grave,</line>
-<line n="11" stanza="2">That my all was only worth at all, what</line>
-<line n="12" stanza="2">Joy to you it gave,</line>
-<line n="13" stanza="2">These seven links the Law compelled</line>
-<line n="14" stanza="2">For the human chain—</line>
-<line n="15" stanza="2">I cannot love them; and you, oh,</line>
-<line n="16" stanza="2">Seven-fold months in Flanders slain!</line>
-
-
-<line n="17" stanza="3">A jungle there, a cave here, bred six</line>
-<line n="18" stanza="3">And a million years.</line>
-<line n="19" stanza="3"><figLang form="alliteration">Sure and strong, mate for mate, such</figLang></line>
-<line n="20" stanza="3">Love as culture fears;</line>
-<line n="21" stanza="3">I gave you clear the oil and wine;</line>
-<line n="22" stanza="3">You saved me your hob and hearth—</line>
-<line n="23" stanza="3">See how even life may be ere the</line>
-<line n="24" stanza="3">Sickle comes and leaves a swath.</line>
-
-
-<line n="25" stanza="4">But I can wait the seven of moons,</line>
-<line n="26" stanza="4">Or years I spare,</line>
-<line n="27" stanza="4"><figLang form="alliteration">Hoarding the heart's plenty, nor spend</figLang></line>
-<line n="28" stanza="4">A drop, nor share—</line>
-<line n="29" stanza="4">So long but outlives a smile and</line>
-<line n="30" stanza="4">A silken gown;</line>
-<line n="31" stanza="4">Then gaily I reach up from my shroud,</line>
-<line n="32" stanza="4">And you, glory-clad, reach down. </line>
-</content>
+<stanza>
+<l n="17">there<punc type="comma">, a cave here,</punc> bred six</l>
+<l n="18">And a million years<punc type="period">.</punc></l>
+<l n="19">Sure and strong, mate for mate, such</l>
+<l n="20">Love as culture fears;</l>
+<l n="21">I gave you clear the oil and wine<punc type="semicolon">;</punc></l>
+<l n="22">You saved me your hob and hearth—</l>
+<l n="23">See how even life may be ere the</l>
+<l n="24">Sickle comes and leaves a swath<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="25">But I can wait the seven of moons,</l>
+<l n="26">Or years I spare,</l>
+<l n="27">it's plenty, nor spend</l>
+<l n="28">A drop, nor share—</l>
+<l n="29">So long but outlives a smile and</l>
+<l n="30">A silken gown<punc type="semicolon">;</punc></l>
+<l n="31">Then gaily I reach up from my shroud,</l>
+<l n="32">And you, glory-clad, reach down<punc type="period">.</punc> </l>
+</stanza>
 </poem>

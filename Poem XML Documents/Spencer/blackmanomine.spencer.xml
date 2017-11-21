@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="harlem.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    <coder>EL</coder>
-<header>
-    <title>Black Man O'Mine</title>
-<byLine poet="Spencer_A">Ann Spencer</byLine></header>
-    <content>
-    <line n="1" stanza="1">Black Man o' Mine, </line>
-    <line n="2" stanza="1"><figLang form="personification">If the world were your lover</figLang>,</line>
-    <line n="3" stanza="1">It could not give what I give to you,</line>
-    <line n="4" stanza="1">Or the ocean would yield and you could discover</line>
-    <line n="5" stanza="1">Its ages of treasure to hold and to view;</line>
-    <line n="6" stanza="1">Could it fill half the measure of my heart's portion</line>
-    <line n="7" stanza="1">Just for you living, just for you giving all this devotion,</line>
-   <line n="8" stanza="1">Black man o' mine.  </line>
+  
+
+    <title poet="Spencer_A">Black Man O'Mine</title>
+<stanza>
+    <l n="1">Black Man o' Mine<punc type="comma">,</punc> </l>
+    <l n="2"><figLang form="personification">If the world were your lover</figLang>,</l>
+    <l n="3">It could not give what I give to you<punc type="comma">,</punc></l>
+    <l n="4">Or the ocean would yield and you could discover</l>
+    <l n="5">Its ages of treasure to hold and to view<punc type="semicolon">;</punc></l>
+    <l n="6">Could it fill half the measure of my heart's portion</l>
+    <l n="7">Just for you living<punc type="comma">,</punc> just for you giving all this devotion<punc type="comma">,</punc></l>
+   <l n="8">Black man o' mine<punc type="period">.</punc>  </l>
+</stanza>
     
+   <stanza>
+       <l n="9">Black man o' mine,</l>
+    <l n="10">As I hush and caress you, close to my heart,</l>
+    <l n="11">All your loving is just your needing what is true<punc type="semicolon">;</punc></l>
+    <l n="12">Then with <figLang form="metaphor">your passing dark</figLang> comes my darkest part,</l>
+   <l n="13">For living without your love is only rue<punc type="period">.</punc></l>
+    <l n="14">Black man o' mine, <figLang form="metaphor">if the world were your lover</figLang></l>
+    <l n="15">It could not give what I give to you<punc type="period">.</punc></l></stanza>
     
-    <line n="9" stanza="2">Black man o' mine,</line>
-    <line n="10" stanza="2">As I hush and caress you, close to my heart,</line>
-    <line n="11" stanza="2">All your loving is just your needing what is true;</line>
-    <line n="12" stanza="2">Then with <figLang form="metaphor">your passing dark</figLang> comes my darkest part,</line>
-   <line n="13" stanza="2">For living without your love is only rue.</line>
-    <line n="14" stanza="2">Black man o' mine, <figLang form="metaphor">if the world were your lover</figLang></line>
-    <line n="15" stanza="2">It could not give what I give to you.</line>
-    </content>
     
     
     
