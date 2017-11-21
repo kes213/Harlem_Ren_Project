@@ -1,52 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-    <coder>KS</coder>
-    <header>
-        <title>Brass Spittoons</title> 
-        <byLine poet="Hughes_L">By Langston Hughes</byLine>
-    </header> 
-    <content>
-        <line n="1">Clean the spittoons<punc type="comma">,</punc> boy<punc type="period">.</punc></line>
-        <line n="2">Detroit<punc type="comma">,</punc></line>
-        <line n="3">Chicago<punc type="comma">,</punc></line>
-        <line n="4">Atlantic City<punc type="comma">,</punc></line>
-        <line n="5">Palm Beach<punc type="period">.</punc></line>
-        <line n="6">Clean the spittoons<punc type="period">.</punc></line>
-        <line n="7">The steam in hotel kitchens<punc type="comma">,</punc></line>
-        <line n="8">And the smoke in hotel lobbies<punc type="comma">,</punc></line>
-        <line n="9">And the slime in hotel spittoons<punc type="colon">:</punc></line>
-        <line n="10">Part of my life<punc type="period">.</punc></line>
-        <line n="11">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></line>
-        <line n="12">A nickel<punc type="comma">,</punc></line>
-        <line n="13">A dime<punc type="comma">,</punc></line>
-        <line n="14">A dollar<punc type="comma">,</punc></line>
-        <line n="15">Two dollars a day<punc type="period">.</punc></line>
-        <line n="16">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></line>
-        <line n="17">A nickel<punc type="comma">,</punc></line>
-        <line n="18">A dime<punc type="comma">,</punc></line>
-        <line n="19">A dollar<punc type="comma">,</punc></line>
-        <line n="20">Two dollars</line>
-        <line n="21">Buy shoes for the baby<punc type="period">.</punc></line>
-        <line n="22">House rent to pay<punc type="period">.</punc></line>
-        <line n="23">Gin on Saturday<punc type="comma">,</punc></line>
-        <line n="24">Church on Sunday<punc type="period">.</punc></line>
-        <line n="25">My God<punc type="exclamation_point">!</punc></line>
-        <line n="26">Babies and gin and church</line>
-        <line n="27">And women and Sunday</line>
-        <line n="28">All mixed with dimes and</line>
-        <line n="29">Dollars and clean spittoons</line>
-        <line n="30">And house rent to pay<punc type="period">.</punc></line>
-        <line n="31"> Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></line>
-        <line n="32">A bright bowl of brass is beautiful to the Lord<punc type="period">.</punc></line>
-        <line n="33">Bright polished brass like the cymbals</line>
-        <line n="34">Of King David’s dancers<punc type="comma">,</punc></line>
-        <line n="35">Like the wine cups of Solomon<punc type="period">.</punc></line>
-        <line n="36">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></line>
-        <line n="37">A clean spittoon on the altar of the Lord<punc type="period">.</punc></line>
-        <line n="38">A clean bright spittoon all newly polished—</line>
-        <line n="39">At least I can offer that<punc type="period">.</punc></line>
-        <line n="40">Com’mere<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></line>
-    </content>
+      <title poet="Hughes_L">Brass Spittoons</title> 
+   
+      <stanza>
+        <l n="1">Clean the spittoons<punc type="comma">,</punc> boy<punc type="period">.</punc></l>
+        <l n="2">Detroit<punc type="comma">,</punc></l>
+        <l n="3">Chicago<punc type="comma">,</punc></l>
+        <l n="4">Atlantic City<punc type="comma">,</punc></l>
+        <l n="5">Palm Beach<punc type="period">.</punc></l>
+        <l n="6">Clean the spittoons<punc type="period">.</punc></l>
+        <l n="7">The steam in hotel kitchens<punc type="comma">,</punc></l>
+        <l n="8">And the smoke in hotel lobbies<punc type="comma">,</punc></l>
+        <l n="9">And the slime in hotel spittoons<punc type="colon">:</punc></l>
+        <l n="10">Part of my life<punc type="period">.</punc></l>
+        <l n="11">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></l>
+        <l n="12">A nickel<punc type="comma">,</punc></l>
+        <l n="13">A dime<punc type="comma">,</punc></l>
+        <l n="14">A dollar<punc type="comma">,</punc></l>
+        <l n="15">Two dollars a day<punc type="period">.</punc></l>
+        <l n="16">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></l>
+        <l n="17">A nickel<punc type="comma">,</punc></l>
+        <l n="18">A dime<punc type="comma">,</punc></l>
+        <l n="19">A dollar<punc type="comma">,</punc></l>
+        <l n="20">Two dollars</l>
+        <l n="21">Buy shoes for the baby<punc type="period">.</punc></l>
+        <l n="22">House rent to pay<punc type="period">.</punc></l>
+        <l n="23">Gin on Saturday<punc type="comma">,</punc></l>
+        <l n="24">Church on Sunday<punc type="period">.</punc></l>
+        <l n="25">My God<punc type="exclamation_point">!</punc></l>
+        <l n="26">Babies and gin and church</l>
+        <l n="27">And women and Sunday</l>
+        <l n="28">All mixed with dimes and</l>
+        <l n="29">Dollars and clean spittoons</l>
+        <l n="30">And house rent to pay<punc type="period">.</punc></l>
+        <l n="31"> Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></l>
+        <l n="32">A bright bowl of brass is beautiful to the Lord<punc type="period">.</punc></l>
+        <l n="33">Bright polished brass like the cymbals</l>
+        <l n="34">Of King David’s dancers<punc type="comma">,</punc></l>
+        <l n="35">Like the wine cups of Solomon<punc type="period">.</punc></l>
+        <l n="36">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></l>
+        <l n="37">A clean spittoon on the altar of the Lord<punc type="period">.</punc></l>
+        <l n="38">A clean bright spittoon all newly polished—</l>
+        <l n="39">At least I can offer that<punc type="period">.</punc></l>
+        <l n="40">Com’mere<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></l>
+      </stanza>
+
 </poem>

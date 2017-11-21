@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-    <coder>KS</coder>
-    <header>
-        <title>Harlem</title> 
-        <byLine poet="Hughes_L">By Langston Hughes</byLine>
-    </header> 
-    <content>
-<line n="1" stanza="1">What happens to a dream deferred<punc type="question_mark">?</punc></line>
+    <title poet="Hughes_L">Harlem</title> 
+<stanza>
+    <l n="1">What happens to a dream deferred<punc type="question_mark">?</punc></l>
+</stanza>  
+
+<stanza>
+    <l n="2">Does it dry up</l>
+    <l n="3">like a raisin in the sun<punc type="question_mark">?</punc></l>
+    <l n="4">Or fester like a sore<punc type="dash">—</punc></l>
+    <l n="5">And then run<punc type="question_mark">?</punc></l>
+    <l n="6">Does it stink like rotten meat<punc type="question_mark">?</punc></l>
+    <l n="7">Or crust and sugar over<punc type="dash">—</punc></l>
+    <l n="8">like a syrupy sweet<punc type="question_mark">?</punc></l>
+</stanza>
         
-<line n="2" stanza="2">Does it dry up</line>
-<line n="3" stanza="2">like a raisin in the sun<punc type="question_mark">?</punc></line>
-<line n="4" stanza="2">Or fester like a sore<punc type="dash">—</punc></line>
-<line n="5" stanza="2">And then run<punc type="question_mark">?</punc></line>
-<line n="6" stanza="2">Does it stink like rotten meat<punc type="question_mark">?</punc></line>
-<line n="7" stanza="2">Or crust and sugar over<punc type="dash">—</punc></line>
-<line n="8" stanza="2">like a syrupy sweet<punc type="question_mark">?</punc></line>
+<stanza>
+    <l n="9">Maybe it just sags</l>
+    <l n="10">like a heavy load<punc type="period">.</punc></l>
+</stanza>
         
-<line n="9" stanza="3">Maybe it just sags</line>
-<line n="10" stanza="3">like a heavy load<punc type="period">.</punc></line>
-        
-<line n="11" stanza="4">Or does it explode<punc type="question_mark">?</punc></line>
-    </content>
+<stanza>
+    <l n="11">Or does it explode<punc type="question_mark">?</punc></l>
+</stanza>
+
 </poem>
