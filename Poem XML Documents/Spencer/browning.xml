@@ -1,48 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../../HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
  
-
 <title poet="Spencer_A">Life Long, Poor Browning</title>
 
-
-
-    
-    <stanza>
-      <l n="1">Life-long, poor Browning never knew Virginia,</l>
+<stanza>
+    <l n="1">Life-long, poor Browning never knew Virginia,</l>
     <l n="2">>Or he'd not grieved in Florence for April sallies</l>
     <l n="3">Back to English gardens after Euclid's linear<punc type="colon">:</punc></l>
-   <l n="4">Clipt yews, Pomander Walks, and preached alleys<punc type="semicolon">;</punc> </l>
-    </stanza>
+    <l n="4">Clipt yews, Pomander Walks, and preached alleys<punc type="semicolon">;</punc> </l>
+</stanza>
     
-     <stanza>
-       <l n="5">Primroses, prim indeed, in quiet ordered hedges<punc type="comma">,</punc></l>
+<stanza>
+    <l n="5">Primroses, prim indeed, in quiet ordered hedges<punc type="comma">,</punc></l>
     <l n="6">Waterways, soberly, sedately enchanneled<punc type="comma">,</punc></l>
- <l n="7">No thin riotous blade even among the sedges<punc type="comma">,</punc></l>
+    <l n="7">No thin riotous blade even among the sedges<punc type="comma">,</punc></l>
     <l n="8"><figLang form="personification">All the wild country-side tamely impaneled </figLang>. . </l>
-   </stanza>
+</stanza>
     
    
-     <stanza>
-       <l n="9">Dead, now, dear Browning, lives on in heaven,--</l>
-    <l n="10">(Heaven's Virginia when the year's at its Spring)</l>
+<stanza>
+   <l n="9">Dead, now, dear Browning, lives on in heaven,--</l>
+   <l n="10">(Heaven's Virginia when the year's at its Spring)</l>
    <l n="11">He's haunting the byways of wine-aired leaven</l>
    <l n="12">And throating the notes of the wildings on wing<punc type="semicolon">;</punc></l>
 </stanza>
     
     
  <stanza>
-   <l n="13">Here canopied reaches of dogwood and hazel,</l>
+    <l n="13">Here canopied reaches of dogwood and hazel,</l>
     <l n="14">Beech tree and redbud fine-laced in vines,</l>
     <l n="15">Fleet clapping rills by lush fern and basil<punc type="comma">,</punc></l>
-    <l n="16">Drain blue hills to lowlands scented with pines</l></stanza>
+    <l n="16">Drain blue hills to lowlands scented with pines</l>
+ </stanza>
     
     
    <stanza>
-     <l n="17">Think you he meets in this tender green sweetness</l>
-  <l n="18">Shade that was Elizabeth . . . immortal completeness<punc type="exclamation_point">!</punc></l>
-   
+    <l n="17">Think you he meets in this tender green sweetness</l>
+    <l n="18">Shade that was Elizabeth . . . immortal completeness<punc type="exclamation_point">!</punc></l>
 </stanza>
 </poem>
 

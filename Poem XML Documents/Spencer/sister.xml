@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../../HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
 <title poet="Spencer_A">Letters to My Sister</title>
     
@@ -35,10 +35,6 @@
         <l n="22">The gods their god-like fun<punc type="period">.</punc></l>
        
         </stanza>
-        
-        
-        
-      
     </poem>
 
     
