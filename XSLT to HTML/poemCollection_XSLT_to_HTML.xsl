@@ -7,7 +7,6 @@
     
     <xsl:output method="xml" indent="yes"/>
     
-    
     <xsl:template match="/">
         <html>
             <head>
@@ -26,6 +25,7 @@
         <p>
             <xsl:apply-templates select="stanza"/>
         </p>
+        <a href="Hughes_poemCollection_HTML_output.html"><button>Click here to return to the top of the page.</button></a>
     </xsl:template>
     
     <xsl:template match="stanza">
@@ -37,4 +37,11 @@
         <xsl:apply-templates/>
     <br/>
     </xsl:template>
+    
+    <xsl:template match="punc">
+        <span class="{@type}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+   
 </xsl:stylesheet>
