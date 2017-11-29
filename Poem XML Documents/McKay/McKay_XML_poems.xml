@@ -115,7 +115,7 @@
     </poem>
     
     <poem>
-        <title poet="McKay_C">Joy in the Woods</title> 
+        <title poet="McKay_C" idno="5">Joy in the Woods</title> 
         
         <stanza>
             <l n="1">There is joy in the woods just now<punc type="comma">,</punc></l>

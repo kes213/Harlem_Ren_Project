@@ -10,9 +10,41 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>Claude McKay 10-Poem Collection</title>
+                <title>POET NAME POET NAME POET NAME</title>
             </head>
             <body>
+                <h1>The Harlem Renaissance Poetry Project</h1>
+                <h2>An Analytical and Linguistic Examination of Poetry Written by Harlem Renaissance Poets</h2>
+                <hr/>
+                <p><a href="index.html">Home</a> | <a href="about_the_poets.html">About the Poets</a> | <a href="poemCollection.html">Poem Collections</a> | <a href="codinginfo.html">Project Coding Information</a></p>
+                <hr/>
+                <h1>~ A 10-Poem Collection</h1>
+                <p>These poems were hand-selected by the Harlem Renaissance project team.</p>
+                <div>
+                    <fieldset>
+                        <legend>Click to Highlight Specific Punctuation Marks:</legend>
+                        <input type="checkbox" id="CommasToggle"/>
+                        <span>Commas</span>
+                        <input type="checkbox" id="PeriodsToggle"/>
+                        <span>Periods</span>
+                        <input type="checkbox" id="SemicolonsToggle"/>
+                        <span>Semicolons</span>
+                        <input type="checkbox" id="ColonsToggle"/>
+                        <span>Colons</span>
+                        <input type="checkbox" id="Open_PsToggle"/>
+                        <span>Open Parentheses</span>
+                        <input type="checkbox" id="Closed_PsToggle"/>
+                        <span>Closed Parentheses</span>
+                        <input type="checkbox" id="Exclamation_PointsToggle"/>
+                        <span>Exclamation Points</span>
+                        <input type="checkbox" id="Question_MarksToggle"/>
+                        <span>Question Marks</span>
+                        <input type="checkbox" id="DashesToggle"/>
+                        <span>Dashes</span>
+                    </fieldset>
+                </div>
+                <h2>Table of Contents</h2>
+                <ul><xsl:apply-templates select="poemCollection" mode="toc"/></ul>
                 <xsl:apply-templates/>
             </body>
         </html>
@@ -25,7 +57,7 @@
         <p>
             <xsl:apply-templates select="stanza"/>
         </p>
-        <a href="Hughes_poemCollection_HTML_output.html"><button>Click here to return to the top of the page.</button></a>
+        <a href="Spencer_poemCollection_page.html"><button>Click here to return to the top of the page.</button></a>
     </xsl:template>
     
     <xsl:template match="stanza">
@@ -44,4 +76,9 @@
         </span>
     </xsl:template>
    
+   <xsl:template match="poem" mode="toc">
+       <li >
+           <xsl:apply-templates select="descendant::title" mode="toc"/>
+       </li>
+   </xsl:template>
 </xsl:stylesheet>
