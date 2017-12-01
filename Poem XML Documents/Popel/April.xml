@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <title poet="Popel_Esther">April</title>
+    <stanza>
+<l n="1"><figLang form="metaphor">April is a wanton</figLang></l>
+<l n="2"><figLang form="personification">With her </figLang><punc type="comma">cool</punc><punc type="comma">,slim,</punc> searching fingers</l>
+<l n="3">And Day<punc type="comma">, a giddy gossip</punc>,</l>
+<l n="4">Sitting, waiting on the stair<punc type="comma">,</punc></l>
+<l n="5">Listens to the murmurings</l>
+<l n="6">While wayward Romance lingers</l>
+<l n="7">To revel in the fragrance</l>
+<l n="8">Of her hair<punc type="exclamation_point">!</punc></l>
+    </stanza>
+
+</poem>
