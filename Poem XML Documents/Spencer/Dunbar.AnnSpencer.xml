@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-<title> Dunbar</title>
-<author> Ann Spencer</author>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-<stanza n="1">
-<line>Oh, how poets sing and die!</line>
-<line>Make one song and <personif>Heaven takes it</personif>;</line>
-<line>have one heart and <personif><allit>Beauty break</allit>s it</personif>;</line>
-<line><allusion>Chatterton, Shelley, Keats</allusion> and I—</line>
-<line>Ah, how poets sing and die!</line>
+
+<title poet="Spencer_A">Dunbar</title>
+<stanza>
+<l n="1">Oh, how poets sing and die<punc type="exclamation_point">!</punc></l>
+<l n="2">Make one song and <figLang form="personification">Heaven takes it</figLang>;</l>
+<l n="3">have one heart and Beauty breaks it<punc type="semicolon">;</punc></l>
+<l n="4">Chatterton, Shelley, Keats and I—</l>
+<l n="5">Ah<punc type="comma">, </punc>how poets sing and die!</l>
 </stanza>
-    </poem>
-</root>
+
+</poem>

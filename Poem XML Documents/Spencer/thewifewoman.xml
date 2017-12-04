@@ -1,45 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-<title> The Wife-Woman</title>
-<author> Anne Spencer</author>
-    
-<stanza n="1">
-   <stanza> Maker-of-<allit>Sevens in the scheme</allit> of things</stanza>
-From earth to star;
-<line>Thy cycle holds whatever is fate, and</line>
-Over the border the bar.
-<line>Though rank and fierce<metaphor> the mariner</metaphor></line>
-<line>Sailing the seven seas,</line>
-<line>He prays as he holds his <consonance>glass to his eyes</consonance>,</line>
-<line>Coaxing the <allusion>Pleiades</allusion>.</line></stanza>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+<title poet="Spencer_A">The Wife-Woman</title>
 
-<stanza n="2">
-   <line> I cannot love them; and I feel your glad,</line>
-<line>Chiding from the grave,</line>
-<line>That my all was only worth at all, what</line>
-<line>Joy to you it gave,</line>
-<line>These seven links the Law compelled</line>
-<line>For the human chain—</line>
-<line>I cannot love them; and you, oh,</line>
-<line><consonance>Seven-fold months in Flanders slain!</consonance></line></stanza>
+<stanza>
+    <l n="1">Maker-of-Sevens in the schemeof things</l>
+<l n="2">to star<punc type="semicolon">;</punc></l>
+<l n="3">Thy cycle holds whatever is fate, and</l>
+<l n="4">Over the border the bar.</l>
+<l n="5">Though rank and fierce<figLang form="metaphor">the mariner</figLang></l>
+<l n="6">Sailing the seven seas<punc type="comma">,</punc></l>
+<l n="7">He prays as he holds his glass to his eyes</l>
+<l n="8">Coaxing the Pleiades <punc type="period">.</punc></l>
+</stanza>
+    <stanza>
+<l n="9">I cannot love them; and I feel your glad,</l>
+<l n="10" >Chiding from the grave<punc type="comma">,</punc></l>
+<l n="11">That my all was only worth at all<punc type="comma">,</punc> what</l>
+<l n="12">Joy to you it gave,</l>
+<l n="13">These seven links the Law compelled</l>
+<l n="14">For the human chain—</l>
+<l n="15">I cannot love them<punc type="semicolon">;</punc> and you, oh,</l>
+<l n="16">Seven-fold months in Flanders slain!</l>
+    </stanza>
 
-<stanza n="3">
-    <line>A jungle there, a cave here, bred six</line>
-<line>And a million years.</line>
-<line><allit>Sure and strong, mate for mate, such</allit></line>
-<line>Love as culture fears;</line>
-<line>I gave you clear the oil and wine;</line>
-<line>You saved me your hob and hearth—</line>
-<line>See how even life may be ere the</line>
-<line>Sickle comes and leaves a swath.</line></stanza>
-
-<stanza n="4">
-   <line><hyperbole> But I can wait the seven of moons,</hyperbole></line>
-<line>Or years I spare,</line>
-<line><allit>Hoarding the heart's plenty, nor spend</allit></line>
-<line>A drop, nor share—</line>
-<line>So long but outlives a smile and</line>
-<line>A silken gown;</line>
-<line>Then gaily I reach up from my shroud,</line>
-<line>And you, glory-clad, reach down. </line></stanza>
-</root>
+<stanza>
+<l n="17">there<punc type="comma">, a cave here,</punc> bred six</l>
+<l n="18">And a million years<punc type="period">.</punc></l>
+<l n="19">Sure and strong, mate for mate, such</l>
+<l n="20">Love as culture fears;</l>
+<l n="21">I gave you clear the oil and wine<punc type="semicolon">;</punc></l>
+<l n="22">You saved me your hob and hearth—</l>
+<l n="23">See how even life may be ere the</l>
+<l n="24">Sickle comes and leaves a swath<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="25">But I can wait the seven of moons,</l>
+<l n="26">Or years I spare,</l>
+<l n="27">it's plenty, nor spend</l>
+<l n="28">A drop, nor share—</l>
+<l n="29">So long but outlives a smile and</l>
+<l n="30">A silken gown<punc type="semicolon">;</punc></l>
+<l n="31">Then gaily I reach up from my shroud,</l>
+<l n="32">And you, glory-clad, reach down<punc type="period">.</punc> </l>
+</stanza>
+</poem>

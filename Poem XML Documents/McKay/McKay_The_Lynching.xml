@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-    <coder>KS</coder>
-    <header>
-        <title>The Lynching</title> 
-        <byLine poet="McKay_C">By Claude McKay</byLine>
-    </header>
-    <content>
-        <line n="1"><figLang form="metaphor">His spirit is smoke</figLang> ascended to high heaven<punc type="period">.</punc></line>
-        <line n="2">His father<punc type="comma">,</punc> by the cruelest way of pain<punc type="comma">,</punc></line>
-        <line n="3">Had bidden him to his bosom once again<punc type="semicolon">;</punc></line>
-        <line n="4">The awful sin remained still unforgiven<punc type="period">.</punc></line>
-        <line n="5">All night a bright and solitary star</line>
-        <line n="6"><punc type="open_parenthesis">(</punc>Perchance the one that ever guided him<punc type="comma">,</punc></line>
-        <line n="7">Yet gave him up at last to <figLang form="personification">Fate's wild whim</figLang><punc type="closed_parenthesis">)</punc></line>
-        <line n="8">Hung pitifully o'er the swinging char.</line>
-        <line n="9">Day dawned<punc type="comma">,</punc> and soon the mixed crowds came to view</line>
-        <line n="10">The ghastly body swaying in the sun<punc type="colon">:</punc></line>
-        <line n="11">The women thronged to look<punc type="comma">,</punc> but never a one</line>
-        <line n="12">Showed sorrow in her eyes of steely blue<punc type="semicolon">;</punc></line>
-        <line n="13">And little lads<punc type="comma">,</punc> lynchers that were to be<punc type="comma">,</punc></line>
-        <line n="14">Danced round the dreadful thing in fiendish glee<punc type="period">.</punc></line>
-    </content>
+        <title poet="McKay_C">The Lynching</title> 
+
+        <stanza>
+        <l n="1"><figLang form="metaphor">His spirit is smoke</figLang> ascended to high heaven<punc type="period">.</punc></l>
+        <l n="2">His father<punc type="comma">,</punc> by the cruelest way of pain<punc type="comma">,</punc></l>
+        <l n="3">Had bidden him to his bosom once again<punc type="semicolon">;</punc></l>
+        <l n="4">The awful sin remained still unforgiven<punc type="period">.</punc></l>
+        <l n="5">All night a bright and solitary star</l>
+        <l n="6"><punc type="open_parenthesis">(</punc>Perchance the one that ever guided him<punc type="comma">,</punc></l>
+        <l n="7">Yet gave him up at last to <figLang form="personification">Fate's wild whim</figLang><punc type="closed_parenthesis">)</punc></l>
+        <l n="8">Hung pitifully o'er the swinging char.</l>
+        <l n="9">Day dawned<punc type="comma">,</punc> and soon the mixed crowds came to view</l>
+        <l n="10">The ghastly body swaying in the sun<punc type="colon">:</punc></l>
+        <l n="11">The women thronged to look<punc type="comma">,</punc> but never a one</l>
+        <l n="12">Showed sorrow in her eyes of steely blue<punc type="semicolon">;</punc></l>
+        <l n="13">And little lads<punc type="comma">,</punc> lynchers that were to be<punc type="comma">,</punc></l>
+        <l n="14">Danced round the dreadful thing in fiendish glee<punc type="period">.</punc></l>
+        </stanza>
 </poem>

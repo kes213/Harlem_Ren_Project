@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-<title> White Things</title>
-<author> Anne Spencer</author>
-    <poem>
-        <stanza n="1">
-    <line> Most things are colorful things</line>- 
-  <line>  -the sky, earth, and sea. </line>
-    <line>Black men are most men; </line>
-    <line>but the white are free! </line>
-    <line>White things are rare things; </line>
-    <line>so rare, so rare </line>
-    <line>They stole from out a silvered </line>
-   <line> world--somewhere.</line></stanza>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+
+<title poet="Spencer_A">White Things</title>
+
     
-   <stanza n="2"> 
-      <line> Finding earth-plains fair plains</line>, 
-   <line> save <allit>greenly grassed,</allit> </line>
-    <line>They strewed white feathers of </line>
-    <line>cowardice, as they passed;</line>
-   </stanza>
-    
-    
-   <stanza n="3">
-       <line><imagery>The golden stars with lances fine,</imagery></line> 
-    <line><imagery>The hills all red and darkened pine,</imagery></line> 
-    <line>They blanched with their want of power;</line> 
-  <line>  And turned the blood in a <allit>ruby rose</allit> </line>
-    <line>To a poor white poppy-flower.</line>
-   </stanza>
-    
-    
-    <stanza n="4">
-        <line>They pyred a race of black, black men, </line>
-    <line>And burned them to ashes white; then,</line> 
-    <imagery><line>Laughing, a young one claimed a skull</line></imagery>, 
-    <line>For the skull of a black is white, not dull,</line> 
-    <line>But a glistening awful thing</line>
+        
+<stanza>
+    <l n="1">Most things are colorful things</l>
+<l n="2">-the sky, earth, and sea. </l>
+<l n="3">Black men are most men; </l>
+<l n="4">but the white are free<punc type="exclamation_point">!</punc> </l>
+    <l n="5">White things are rare things<punc type="semicolon">;</punc> </l>
+    <l n="6">so rare<punc type="comma">,</punc> so rare </l>
+    <l n="7">They stole from out a silvered </l>
+   <l n="8">world--somewhere<punc type="period">.</punc></l>
+</stanza>
+    <stanza>
+      <l n="9">Finding earth-plains fair plains</l>
+   <l n="10">save greenly grassed, </l>
+    <l n="11">They strewed white feathers of </l>
+    <l n="12">cowardice, as they passed<punc type="semicolon">;</punc></l>
     </stanza>
+<stanza>
+       <l n="13">The golden stars with lances fine<punc type="comma">,</punc></l> 
+    <l n="14">The hills all red and darkened pine<punc type="comma">,</punc></l> 
+    <l n="15">They blanched with their want of power<punc type="semicolon">;</punc></l> 
+  <l n="16">And turned the blood in a ruby rose </l>
+    <l n="17">To a poor white poppy-flower<punc type="period">.</punc></l>
+</stanza>
+   <stanza>
+        <l n="18">They pyred a race of black<punc type="comma">, black men,</punc> </l>
+    <l n="19">And burned them to ashes white<punc type="semicolon">;</punc> then,</l> 
+    <l n="20">Laughing, a young one claimed a skull</l>
+    <l n="21">For the skull of a black is white<punc type="comma">, not dull,</punc></l> 
+    <l n="22">But a glistening awful thing</l>
+</stanza>
     
     
-    <stanza n="5">
-        <line>Made, it seems, for this ghoul to swing </line>
-    <line><metaphor>In the face of God with all his might</metaphor>, </line>
-    <line>And swear by the hell that sired him: </line>
-    <line>"Man-maker, make white!"</line>
-    </stanza>
-    </poem>
+    <stanza>
+        <l n="23">Made, it seems, for this ghoul to swing </l>
+    <l n="24"><figLang form="metaphor">In the face of God with all his might</figLang>, </l>
+    <l n="25">And swear by the hell that sired him: </l>
+    <l n="26">"Man-maker, make white!"</l>
+    
+</stanza>
     
     
-</root>
+</poem>

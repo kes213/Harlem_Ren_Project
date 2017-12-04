@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+    <title poet="Newsome_EL">The Bronze Legacy</title>
+    
+  <stanza>
+    <l n="1">Tis a noble gift to be brown, all brown,</l>
+    <l n="2">Like the strongest things that make up this earth,</l>
+    <l n="3">Like the mountains grave and grand<punc type="comma">,</punc></l>
+    <l n="4">Even like the very land,</l>
+   <l n="5">Even like the trunks of trees—</l>
+  <l n="6">Even oaks, to be like these<punc type="exclamation_point">!</punc></l>
+    <l n="7">God builds His strength in bronze<punc type="period">.</punc> </l>
+  </stanza>
+    
+   <stanza>
+     <l n="8">To be brown like thrush and lark<punc type="exclamation_point">!</punc></l>
+    <l n="9">Like the subtle wren so dark<punc type="exclamation_point">!</punc></l>
+   <l n="12">Nay, the king of beasts wears brown<punc type="semicolon">;</punc></l>
+   <l n="11">Eagles are of this same hue<punc type="period">.</punc></l>
+ <l n="12">I thank God<punc type="comma">,</punc> then, I am brown.</l>
+  <l n="13">Brown has mighty things to do.</l>
+   </stanza>
+</poem>
+

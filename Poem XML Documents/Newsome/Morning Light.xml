@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+   
+    
+        <title poet="Newsome_EL">Morning Light</title>
+    
+        
+    
+        <stanza>
+        <l n="1">(The Dew-drier)</l></stanza>
+        
+       <stanza><l n="2">It is a custom in some parts of Africa for travelers into the jungles to send before them in the early morning little African boys called “Dew-driers” to brush with their bodies the dew from the high grasses—and be, perchance, the first to meet the leopard’s or hyena’s challenge—and so open the road. “Human Brooms,” Dan Crawford calls them.</l>
+        </stanza>
+        
+      <stanza>
+          <l n="3">Brother to the firefly—</l>
+        <l n="4">For as the firefly lights the night</l>
+        <l n="5">So lights he the morning—</l>
+        <l n="6">Bathed in the dank dews as he goes forth</l>
+        <l n="7">Through heavy menace and mystery</l>
+        <l n="8"><figLang form="personification">Of half-waking tropic dawns</figLang></l>
+        <l n="9">Behold a little black bo<punc type="comma">y, a naked black boy</punc>,</l>
+        <l n="10">Sweeping aside with his slight frame</l>
+        <l n="11"><figLang form="personification">Night’s pregnant tears,</figLang></l>
+        <l n="12">And making a morning path to the light</l>
+        <l n="13">For the tropic traveler<punc type="exclamation_point">!</punc></l></stanza>
+        
+        <stanza>
+        
+        <l n="14">Bathed in the blood of battle</l>
+        <l n="15">Treading toward a new morning,</l>
+        <l n="16">May not his race—its body long bared to the world’s disdain<punc type="comma"></punc>,</l>
+        <l n="17">Its face schooled to smile for a light to come—</l>
+        <l n="18">May not his race<punc type="comma">,</punc> even as the dew-boy leads<punc type="comma">,</punc></l>
+        <l n="19">Bear onward the world toward a new day-dawn</l>
+        <l n="20">When tolerance, forgiveness<punc type="comma">,</punc></l>
+        <l n="21">Such as reigned in the heart of One</l>
+        <l n="22">Whose heart was gold,</l>
+        <l n="23">Shall shape the earth for that fresh dawning</l>
+        <l n="24">After the dews of blood?</l></stanza>
+        
+    
+    
+    
+</poem>

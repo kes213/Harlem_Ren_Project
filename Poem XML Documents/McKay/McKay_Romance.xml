@@ -1,34 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    <coder>KS</coder>
-    <header>
-    <title>Romance</title> 
-    <byLine poet="McKay_C">By Claude McKay</byLine>
-    </header>
-    <content>
-    <line n="1" stanza="1">To clasp you now and feel your head close-pressed<punc type="comma">,</punc></line> 
-    <line n="2" stanza="1">Scented and warm against my beating breast<punc type="semicolon">;</punc></line> 
+    <title poet="McKay_C">Romance</title> 
+
+    <stanza>
+    <l n="1">To clasp you now and feel your head close-pressed<punc type="comma">,</punc></l> 
+    <l n="2">Scented and warm against my beating breast<punc type="semicolon">;</punc></l>
+    </stanza>
     
-    <line n="3" stanza="2">To whisper soft and quivering your name<punc type="comma">,</punc></line> 
-    <line n="4" stanza="2">And drink the passion burning in your frame<punc type="semicolon">;</punc></line> 
+    <stanza>
+    <l n="3">To whisper soft and quivering your name<punc type="comma">,</punc></l> 
+    <l n="4">And drink the passion burning in your frame<punc type="semicolon">;</punc></l>
+    </stanza> 
     
-    <line n="5" stanza="3">To lie at full length<punc type="comma">,</punc> taut<punc type="comma">,</punc> with cheek to cheek<punc type="comma">,</punc></line> 
-    <line n="6" stanza="3">And tease your mouth with kisses till you speak</line> 
+    <stanza>
+    <l n="5">To lie at full length<punc type="comma">,</punc> taut<punc type="comma">,</punc> with cheek to cheek<punc type="comma">,</punc></l> 
+    <l n="6">And tease your mouth with kisses till you speak</l>
+    </stanza> 
     
-    <line n="7" stanza="4">Love words<punc type="comma">,</punc> mad words<punc type="comma">,</punc> dream words<punc type="comma">,</punc> sweet senseless words<punc type="comma">,</punc></line> 
-    <line n="8" stanza="4"><figLang form="simile">Melodious like notes of mating birds</figLang><punc type="semicolon">;</punc></line> 
+    <stanza>
+    <l n="7">Love words<punc type="comma">,</punc> mad words<punc type="comma">,</punc> dream words<punc type="comma">,</punc> sweet senseless words<punc type="comma">,</punc></l> 
+    <l n="8"><figLang form="simile">Melodious like notes of mating birds</figLang><punc type="semicolon">;</punc></l>
+    </stanza> 
     
-    <line n="9" stanza="5">To hear you ask if I shall love always<punc type="comma">,</punc></line> 
-    <line n="10" stanza="5">And myself answer<punc type="colon">:</punc> Till the end of days<punc type="semicolon">;</punc></line> 
+  <stanza>
+    <l n="9">To hear you ask if I shall love always<punc type="comma">,</punc></l> 
+    <l n="10">And myself answer<punc type="colon">:</punc> Till the end of days<punc type="semicolon">;</punc></l>
+  </stanza>
     
-    <line n="11" stanza="6">To feel your easeful sigh of happines</line>
-    <line n="12" stanza="6">When on your trembling lips I murmur<punc type="colon">:</punc> Yes<punc type="semicolon">;</punc></line> 
+    <stanza>
+    <l n="11">To feel your easeful sigh of happines</l>
+    <l n="12">When on your trembling lips I murmur<punc type="colon">:</punc> Yes<punc type="semicolon">;</punc></l>
+    </stanza> 
     
-    <line n="13" stanza="7">It is so sweet<punc type="period">.</punc> We know it is not true<punc type="period">.</punc></line> 
-    <line n="14" stanza="7">What matters it<punc type="question_mark">?</punc> The night must shed her dew<punc type="period">.</punc></line> 
+    <stanza>
+    <l n="13">It is so sweet<punc type="period">.</punc> We know it is not true<punc type="period">.</punc></l> 
+    <l n="14">What matters it<punc type="question_mark">?</punc> The night must shed her dew<punc type="period">.</punc></l>
+    </stanza> 
     
-    <line n="15" stanza="8">We know it is not true<punc type="comma">,</punc> but it is sweet—</line> 
-    <line n="16" stanza="8">The poem with this music is complete<punc type="period">.</punc></line>
-    </content>
+    <stanza>
+    <l n="15">We know it is not true<punc type="comma">,</punc> but it is sweet—</l> 
+    <l n="16">The poem with this music is complete<punc type="period">.</punc></l>
+    </stanza>
 </poem>

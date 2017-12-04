@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
- <tilte> Letters to My Sister</tilte>
-    <author> Anne Spencer</author>
-    <poem>
-       <stanza n="1"> 
-<line> It is dangerous for a woman to defy the gods; </line>
-    <line>    To taunt them with the<allit> tongue's thin tip</allit>,</line>
-        <line>Or strut in the weakness of mere humanity,</line>
-  <line>      Or draw a line daring them to cross;</line>
-        <line>The gods own the searing lightning,</line>
-        <line>The drowning waters, tormenting fears</line>
-      <line>  And anger of red sins. </line>
-        </stanza>
-       <stanza n="1"> 
-           <line>Oh, but worse still if you mince timidly--</line>
-      <line>  Dodge this way or that, or kneel or pray,</line>
-       <line> Be kind, or sweat agony drops</line>
-        <line>Or lay your quick body over your feeble young;</line>
-       <line> If you have beauty or none, if celibate</line>
-     <line>   Or vowed--the gods are Juggernaut,</line>
-     <line>   Passing over . . . over . . .</line>
+
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+<title poet="Spencer_A">Letters to My Sister</title>
+    
+      <stanza>
+<l n="1">It is dangerous for a woman to defy the gods<punc type="semicolon">; </punc></l>
+<l n="2">To taunt them with the tongue's thin tip<punc type="comma">,</punc></l>
+<l n="3">Or strut in the weakness of mere humanity<punc type="comma">,</punc></l>
+<l n="4">Or draw a line daring them to cross<punc type="semicolon">;</punc> </l>
+ <l n="5">The gods own the searing lightnin<punc type="comma">g,</punc></l>
+<l n="6">The drowning waters<punc type="comma">,</punc> tormenting fears</l>
+<l n="7">And anger of red sins<punc type="period">. </punc></l>
+      </stanza>
+<stanza>
+<l n="8">Oh, but worse still if you mince timidly--</l>
+      <l n="9">Dodge this way or that, or kneel or pray<punc type="comma">,</punc></l>
+       <l n="10">Be kind, or sweat agony drops</l>
+        <l n="11">Or lay your quick body over your feeble young<punc type="semicolon">;</punc></l>
+       <l n="12">If you have beauty or none<punc type="comma">,</punc> if celibate</l>
+     <l n="13">Or vowed--the gods are Juggernaut<punc type="comma">,</punc></l>
+     <l n="14">Passing over . . . over . . .</l>
        </stanza>
         
-      <stanza n="3">  
-          <line>This you may do:</line>
-        <line>Lock your heart, then, quietly,</line>
-       <line> And lest they peer within,</line>
-        <line><allit>Light no lamp</allit> when dark comes down</line>
-       <line> Raise no shade for sun;</line>
-        <line>Breathless must your breath come through</line>
-        <line>If you'd <allit>die and dare deny</allit></line>
-        <line>The gods their god-like fun.</line>
-        
+        <stanza>
+          <l n="15">This you may do<punc type="colon">:</punc></l>
+        <l n="16">Lock your heart<punc type="comma">, </punc>then<punc type="comma">, quietly,</punc></l>
+       <l n="17">And lest they peer within<punc type="comma">,</punc></l>
+        <l n="18">Light no lamp when dark comes down</l>
+       <l n="19">Raise no shade for sun<punc type="semicolon">;</punc></l>
+        <l n="20">Breathless must your breath come through</l>
+        <l n="21">If you'd die and dare deny</l>
+        <l n="22">The gods their god-like fun<punc type="period">.</punc></l>
+       
         </stanza>
-        
-        
     </poem>
 
     
-</root>
+

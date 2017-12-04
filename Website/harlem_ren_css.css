@@ -1,0 +1,34 @@
+
+head {
+    background-color:#E2D308;
+    color:black}
+    
+body {background-color:#EFEAAD; 
+      color:black}
+
+div#list {background-color:#E2D308; color:black; max-width:50%; margin:auto;}
+div#contact {background-color:#EFEAAD; color:black; margin:auto}
+
+hr {color:black}
+
+img.displayed {display:block; margin-left:auto; margin-right:auto}
+
+span.comma.on {background-color:purple}
+span.period.on {background-color:white}
+span.semicolon.on {background-color:green}
+span.colon.on {background-color:blue}
+span.open_parenthesis.on {background-color:pink}
+span.closed_parenthesis.on {background-color:pink}
+span.exclamation_point.on {background-color:red}
+span.question_mark.on {background-color:orange}
+span.dash.on {background-color:yellow}
+
+span.CommasToggle {background-color:purple}
+span.PeriodsToggle {background-color:white}
+span.SemicolonsToggle  {background-color:green}
+span.ColonsToggle {background-color:blue}
+span.Open_PsToggle {background-color:pink}
+span.Closed_PsToggle  {background-color:pink}
+span.Exclamation_PointsToggle {background-color:red}
+span.Question_MarksToggle {background-color:orange}
+span.DashesToggle {background-color:yellow}

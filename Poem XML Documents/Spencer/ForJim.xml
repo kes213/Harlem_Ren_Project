@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title> For Jim, Easter Eve</title>
-    <author> Anne Spencer</author>
-    <poem>
-        <stanza n="1">
-     <line>If ever a garden was Gethsemane,</line>
-    <line>with old tombs set high against</line>
-<line> the crumpled olive tree--and lichen,
-<line this, my garden, has been to me.
-<line>    Lacking old tombs, here stands my grief,
-    <line><metaphor>and certainly its ancient tree.</metaphor></line> 
-        </stanza>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+
+    <title poet="Spencer_A">For Jim, Easter Eve</title>
+   
     
-   <stanza n="2">
+   <stanza>
+       <l n="1">If ever a garden was Gethsemane,</l>
+    <l n="2">with old tombs set high against</l>
+<l n="3">the crumpled olive tree--and lichen<punc type="comma">,</punc></l>
+<l n="4">this<punc type="comma">,</punc> my garden, has been to me.</l>
+<l n="5">Lacking old tombs<punc type="comma">,</punc> here stands my grief</l>
+    <l n="6"><figLang form="metaphor">and certainly its ancient tree.</figLang> </l></stanza>
+ 
        
-<line>       Peace is here and in every season </line>
-<line><metaphor> a quiet beauty.</metaphor> </line>
-<line>       The sky falling about me </line>
-<line>       evenly to the compass . . .</line>   
-   </stanza>
+<stanza>
+    <l n="7">Peace is here and in every season </l>
+<l n="8"><figLang form="metaphor">a quiet beauty</figLang></l>
+<l n="9">The sky falling about me </l>
+<l n="10">evenly to the compass . . .</l>   </stanza>
+   
        
-       
-<stanza n="3">       
-<line>    What is sorrow but tenderness now </line>
-<line>      in this earth-close frame of land and sky </line>
-<line>       falling constantly into horizons</line>
-<line>       of east and west, north and south;</line>
-<line>what is pain but happiness here></line>
-<line> amid these <metaphor>green and wordless patterns,</metaphor>--</line>
-<line> indefinite texture of blade and leaf:</line>
-       
-       <stanza="4">
-<line> Beauty of an old, old tree,</line>
-<line>last comfort in Gethsemane </line>
-       </stanza>.
-</stanza>
+              
+<stanza>
+    <l n="11">What is sorrow but tenderness now </l>
+<l n="12">in this earth-close frame of land and sky </l>
+<l n="13">falling constantly into horizons</l>
+<l n="14">of east and west, north and south<punc type="semicolon">;</punc></l>
+<l n="15">what is pain but happiness here></l>
+<l n="16">amid these <figLang form="metaphor">green and wordless patterns,</figLang></l>
+<l n="17">indefinite texture of blade and leaf<punc type="colon">:</punc></l></stanza>
+<stanza>
+<l n="18">Beauty of an old, old tree,</l>
+<l n="19">last comfort in Gethsemane </l></stanza>
+
     </poem>
     
     
@@ -43,4 +43,4 @@
     
     
     
-</root>
+

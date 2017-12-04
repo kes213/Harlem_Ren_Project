@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+ <title poet="Popel_Esther">Flag Salute</title>
+    <stanza>
+        <l n="1">"I pledge allegiance to the flag"— </l>
+    <l n="2">"They dragged him naked </l>
+    <l n="3">"Through the muddy streets<punc type="comma">,</punc> </l>
+    <l n="4">"A feeble-minded black boy<punc type="exclamation_point">!</punc></l> 
+    <l n="5">"And the charge<punc type="question_mark">?</punc> Supposed assault</l> 
+    <l n="6">"Upon an aged woman<punc type="exclamation_point">!</punc>"</l>
+    <l n="7">"Of the United States of America"— </l>
+    <l n="8">"One mile they dragged him </l>
+   <l n="9">Like a sack of meal, </l>
+    <l n="10">"A rope around his neck<punc type="comma">,</punc></l> 
+    <l n="11">"A bloody ear </l>
+    <l n="12">"Left dangling by the patriotic hand</l> 
+    <l n="13">"Of Nordic youth<punc type="exclamation_point">!</punc> (A boy of seventeen!)</l> 
+    <l n="14">""And to the Republic for which it stands"— </l>
+    <l n="15">"And then they hanged his body to a tree<punc type="comma">,</punc></l> 
+    <l n="16">"Below the window of the county judge</l> 
+    <l n="17">"Whose pleadings for that battered human flesh</l> 
+    <l n="18">"Were stifled by the brutish<punc type="comma">,</punc> raucous howls</l> 
+    <l n="19">"Of <punc type="comma">men, and boys,</punc> and women with their babes,</l> 
+   <l n="20">Brought out to see the bloody spectacle</l> 
+    <l n="21">"Of murder in the style of '33<punc type="exclamation_point">!</punc></l> 
+    <l n="22">" (Three thousand strong, they were!)</l> 
+    <l n="23">"One Nation, Indivisible"— </l>
+    <l n="24">To make the tale complete</l> 
+    <l n="25">They built a fire— </l>
+    <l n="26">What matters that the stuff they burned</l> 
+    <l n="27">Was flesh—and bone—and hair—</l> 
+    <l n="28">And reeking gasoline<punc type="exclamation_point">!</punc></l> 
+    <l n="29">"With Liberty—and Justice"—</l> 
+    <l n="30">They cut the rope in bits </l>
+    <l n="31">And passed them out,</l> 
+    <l n="32">For souvenirs, among the men and boys<punc type="exclamation_point">!</punc></l> 
+    <l n="33">The teeth no doubt<punc type="comma">,</punc> on golden chains </l>
+    <l n="34">Will hang</l> 
+    <l n="35">About the favored necks of sweethearts, wives,</l> 
+    <l n="36">And daughters, mothers, sisters, babies, too!</l> 
+    <l n="37">"For ALL!"</l>
+    </stanza>
+</poem>

@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-    <coder>KS</coder>
-   <header>
-       <title>Harlem Shadows</title> 
-       <byLine poet="McKay_C">By Claude McKay</byLine>
-   </header> 
-   <content>
-    <line n="1" stanza="1">I hear the halting footsteps of a lass</line> 
-    <line n="2" stanza="1">In Negro Harlem when the night lets fall</line> 
-    <line n="3" stanza="1">Its veil<punc type="period">.</punc> I see the shapes of girls who pass</line> 
-    <line n="4" stanza="1">To bend and barter at <figLang form="personification">desire's call</figLang><punc type="period">.</punc></line> 
-    <line n="5" stanza="1">Ah<punc type="comma">,</punc> little dark girls who in slippered feet</line> 
-    <line n="6" stanza="1">Go prowling through the night from street to street<punc type="exclamation_point">!</punc></line> 
+    <title poet="McKay_C">Harlem Shadows</title> 
     
-    <line n="7" stanza="2">Through the long night until the silver break</line> 
-    <line n="8" stanza="2">Of day the little gray feet know no rest<punc type="semicolon">;</punc></line> 
-    <line n="9" stanza="2">Through the lone night until the last snow-flake</line> 
-    <line n="10" stanza="2">Has dropped from heaven upon the <figLang form="personification">earth's white breast</figLang><punc type="comma">,</punc></line> 
-    <line n="11" stanza="2">The dusky<punc type="comma">,</punc> half-clad girls of tired feet</line> 
-    <line n="12" stanza="2">Are trudging<punc type="comma">,</punc> thinly shod<punc type="comma">,</punc> from street to street<punc type="period">.</punc></line> 
+    <stanza>
+    <l n="1">I hear the halting footsteps of a lass</l> 
+    <l n="2">In Negro Harlem when the night lets fall</l> 
+    <l n="3">Its veil<punc type="period">.</punc> I see the shapes of girls who pass</l> 
+    <l n="4">To bend and barter at <figLang form="personification">desire's call</figLang><punc type="period">.</punc></l> 
+    <l n="5">Ah<punc type="comma">,</punc> little dark girls who in slippered feet</l> 
+    <l n="6">Go prowling through the night from street to street<punc type="exclamation_point">!</punc></l>
+    </stanza>
     
-    <line n="13" stanza="3">Ah<punc type="comma">,</punc> stern harsh world<punc type="comma">,</punc> that in the wretched way</line> 
-    <line n="14" stanza="3">Of poverty<punc type="comma">,</punc> dishonor and disgrace<punc type="comma">,</punc></line> 
-    <line n="15" stanza="3">Has pushed the timid little feet of clay<punc type="comma">,</punc></line> 
-    <line n="16" stanza="3">The sacred brown feet of my fallen race<punc type="exclamation_point">!</punc></line> 
-    <line n="17" stanza="3">Ah<punc type="comma">,</punc> heart of me<punc type="comma">,</punc> the weary<punc type="comma">,</punc> weary feet</line> 
-    <line n="18" stanza="3">In Harlem wandering from street to street<punc type="period">.</punc></line>
-   </content>
+    <stanza>
+    <l n="7">Through the long night until the silver break</l> 
+    <l n="8">Of day the little gray feet know no rest<punc type="semicolon">;</punc></l> 
+    <l n="9">Through the lone night until the last snow-flake</l> 
+    <l n="10">Has dropped from heaven upon the <figLang form="personification">earth's white breast</figLang><punc type="comma">,</punc></l> 
+    <l n="11">The dusky<punc type="comma">,</punc> half-clad girls of tired feet</l> 
+    <l n="12">Are trudging<punc type="comma">,</punc> thinly shod<punc type="comma">,</punc> from street to street<punc type="period">.</punc></l>
+    </stanza> 
+    
+    <stanza>
+    <l n="13">Ah<punc type="comma">,</punc> stern harsh world<punc type="comma">,</punc> that in the wretched way</l> 
+    <l n="14">Of poverty<punc type="comma">,</punc> dishonor and disgrace<punc type="comma">,</punc></l> 
+    <l n="15">Has pushed the timid little feet of clay<punc type="comma">,</punc></l> 
+    <l n="16">The sacred brown feet of my fallen race<punc type="exclamation_point">!</punc></l> 
+    <l n="17">Ah<punc type="comma">,</punc> heart of me<punc type="comma">,</punc> the weary<punc type="comma">,</punc> weary feet</l> 
+    <l n="18">In Harlem wandering from street to street<punc type="period">.</punc></l>
+    </stanza>
+   
 </poem>

@@ -3,288 +3,294 @@
 <poemCollection poet="Hughes_L">
 
     <poem>
-        <coder>KS</coder>
-        <header>
-        <title>50-50</title> 
-        <byLine poet="Hughes_L">By Langston Hughes</byLine> 
-        </header>
-        <content>
-        <line n="1" stanza="1">I’m all alone in this world<punc type="comma">,</punc> she said<punc type="comma">,</punc></line>
-        <line n="2" stanza="1">Ain’t got nobody to share my bed<punc type="comma">,</punc></line>
-        <line n="3" stanza="1">Ain’t got nobody to hold my hand—</line>
-        <line n="4" stanza="1">The truth of the matter’s</line>
-        <line n="5" stanza="1">I ain’t got no man<punc type="period">.</punc></line>
+        <title poet="Hughes_L">50-50</title> 
         
-        <line n="6" stanza="2">Big Boy opened his mouth and said<punc type="comma">,</punc></line>
-        <line n="7" stanza="2">Trouble with you is</line>
-        <line n="8" stanza="2">You ain’t got no head<punc type="exclamation_point">!</punc></line>
-        <line n="9" stanza="2">If you had a head and used your mind</line>
-        <line n="10" stanza="2">You could have me with you</line>
-        <line n="11" stanza="2">All the time<punc type="period">.</punc></line>
+        <stanza>
+            <l n="1">I’m all alone in this world<punc type="comma">,</punc> she said<punc type="comma">,</punc></l>
+            <l n="2">Ain’t got nobody to share my bed<punc type="comma">,</punc></l>
+            <l n="3">Ain’t got nobody to hold my hand—</l>
+            <l n="4">The truth of the matter’s</l>
+            <l n="5">I ain’t got no man<punc type="period">.</punc></l>
+        </stanza>
         
-        <line n="12" stanza="3">She answered<punc type="comma">,</punc> Babe<punc type="comma">,</punc> what must I do<punc type="question_mark">?</punc></line>
+        <stanza>
+            <l n="6">Big Boy opened his mouth and said<punc type="comma">,</punc></l>
+            <l n="7">Trouble with you is</l>
+            <l n="8">You ain’t got no head<punc type="exclamation_point">!</punc></l>
+            <l n="9">If you had a head and used your mind</l>
+            <l n="10">You could have me with you</l>
+            <l n="11">All the time<punc type="period">.</punc></l>
+        </stanza>
         
-        <line n="13" stanza="4">He said<punc type="comma">,</punc> Share your bed—</line>
-        <line n="14" stanza="4">And your money<punc type="comma">,</punc> too<punc type="period">.</punc></line>
-        </content>
+        <stanza>
+            <l n="12">She answered<punc type="comma">,</punc> Babe<punc type="comma">,</punc> what must I do<punc type="question_mark">?</punc></l>
+        </stanza>
+        
+        <stanza><l n="13">He said<punc type="comma">,</punc> Share your bed—</l>
+            <l n="14">And your money<punc type="comma">,</punc> too<punc type="period">.</punc></l>
+        </stanza>
+        
     </poem>
     
     <poem>
-        <header>
-        <title>Catch</title> 
-        <byLine poet="Hughes_L">By Langston Hughes</byLine>
-        </header> 
-        <content>
-        <line n="1" stanza="1">Big Boy came</line>
-        <line n="2" stanza="1"><figLang form="metaphor">Carrying a mermaid</figLang></line>   <!-- I'm unsure if this classifies as a metaphor. -->
-        <line n="3" stanza="1">On his shoulders</line>   
-        <line n="4" stanza="1">And the mermaid</line>   
-        <line n="5" stanza="1">Had her tail</line>
-        <line n="6" stanza="1">Curved</line>
-        <line n="7" stanza="1">Beneath his arm<punc type="period">.</punc></line>
+        <title poet="Hughes_L">Brass Spittoons</title> 
         
-        <line n="8" stanza="2"> Being a fisher boy<punc type="comma">,</punc></line>
-        <line n="9" stanza="2">He’d found a fish</line>
-        <line n="10" stanza="2">To carry—</line>
-        <line n="11" stanza="2">Half fish<punc type="comma">,</punc></line>   
-        <line n="12" stanza="2">Half girl</line>   
-        <line n="13" stanza="2">To marry<punc type="period">.</punc></line>
-        </content>
+        <stanza>
+            <l n="1">Clean the spittoons<punc type="comma">,</punc> boy<punc type="period">.</punc></l>
+            <l n="2">Detroit<punc type="comma">,</punc></l>
+            <l n="3">Chicago<punc type="comma">,</punc></l>
+            <l n="4">Atlantic City<punc type="comma">,</punc></l>
+            <l n="5">Palm Beach<punc type="period">.</punc></l>
+            <l n="6">Clean the spittoons<punc type="period">.</punc></l>
+            <l n="7">The steam in hotel kitchens<punc type="comma">,</punc></l>
+            <l n="8">And the smoke in hotel lobbies<punc type="comma">,</punc></l>
+            <l n="9">And the slime in hotel spittoons<punc type="colon">:</punc></l>
+            <l n="10">Part of my life<punc type="period">.</punc></l>
+            <l n="11">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></l>
+            <l n="12">A nickel<punc type="comma">,</punc></l>
+            <l n="13">A dime<punc type="comma">,</punc></l>
+            <l n="14">A dollar<punc type="comma">,</punc></l>
+            <l n="15">Two dollars a day<punc type="period">.</punc></l>
+            <l n="16">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></l>
+            <l n="17">A nickel<punc type="comma">,</punc></l>
+            <l n="18">A dime<punc type="comma">,</punc></l>
+            <l n="19">A dollar<punc type="comma">,</punc></l>
+            <l n="20">Two dollars</l>
+            <l n="21">Buy shoes for the baby<punc type="period">.</punc></l>
+            <l n="22">House rent to pay<punc type="period">.</punc></l>
+            <l n="23">Gin on Saturday<punc type="comma">,</punc></l>
+            <l n="24">Church on Sunday<punc type="period">.</punc></l>
+            <l n="25">My God<punc type="exclamation_point">!</punc></l>
+            <l n="26">Babies and gin and church</l>
+            <l n="27">And women and Sunday</l>
+            <l n="28">All mixed with dimes and</l>
+            <l n="29">Dollars and clean spittoons</l>
+            <l n="30">And house rent to pay<punc type="period">.</punc></l>
+            <l n="31"> Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></l>
+            <l n="32">A bright bowl of brass is beautiful to the Lord<punc type="period">.</punc></l>
+            <l n="33">Bright polished brass like the cymbals</l>
+            <l n="34">Of King David’s dancers<punc type="comma">,</punc></l>
+            <l n="35">Like the wine cups of Solomon<punc type="period">.</punc></l>
+            <l n="36">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></l>
+            <l n="37">A clean spittoon on the altar of the Lord<punc type="period">.</punc></l>
+            <l n="38">A clean bright spittoon all newly polished—</l>
+            <l n="39">At least I can offer that<punc type="period">.</punc></l>
+            <l n="40">Com’mere<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></l>
+        </stanza>
     </poem>
     
     <poem>
-        <coder>KS</coder>
-        <header>
-        <title>Brass Spittoons</title> 
-        <byLine poet="Hughes_L">By Langston Hughes</byLine>
-        </header> 
-        <content>
-        <line n="1">Clean the spittoons<punc type="comma">,</punc> boy<punc type="period">.</punc></line>
-        <line n="2">Detroit<punc type="comma">,</punc></line>
-        <line n="3">Chicago<punc type="comma">,</punc></line>
-        <line n="4">Atlantic City<punc type="comma">,</punc></line>
-        <line n="5">Palm Beach<punc type="period">.</punc></line>
-        <line n="6">Clean the spittoons<punc type="period">.</punc></line>
-        <line n="7"> The steam in hotel kitchens<punc type="comma">,</punc></line>
-        <line n="8">And the smoke in hotel lobbies<punc type="comma">,</punc></line>
-        <line n="9">And the slime in hotel spittoons<punc type="colon">:</punc></line>
-        <line n="10">Part of my life<punc type="period">.</punc></line>
-        <line n="11">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></line>
-        <line n="12">A nickel<punc type="comma">,</punc></line>
-        <line n="13">A dime<punc type="comma">,</punc></line>
-        <line n="14">A dollar<punc type="comma">,</punc></line>
-        <line n="15">Two dollars a day<punc type="period">.</punc></line>
-        <line n="16">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></line>
-        <line n="17">A nickel<punc type="comma">,</punc></line>
-        <line n="18">A dime<punc type="comma">,</punc></line>
-        <line n="19">A dollar<punc type="comma">,</punc></line>
-        <line n="20">Two dollars</line>
-        <line n="21">Buy shoes for the baby<punc type="period">.</punc></line>
-        <line n="22">House rent to pay<punc type="period">.</punc></line>
-        <line n="23">Gin on Saturday<punc type="comma">,</punc></line>
-        <line n="24">Church on Sunday<punc type="period">.</punc></line>
-        <line n="25">My God<punc type="exclamation_point">!</punc></line>
-        <line n="26">Babies and gin and church</line>
-        <line n="27">And women and Sunday</line>
-        <line n="28">All mixed with dimes and</line>
-        <line n="29">Dollars and clean spittoons</line>
-        <line n="30">And house rent to pay<punc type="period">.</punc></line>
-        <line n="31"> Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></line>
-        <line n="32">A bright bowl of brass is beautiful to the Lord<punc type="period">.</punc></line>
-        <line n="33">Bright polished brass like the cymbals</line>
-        <line n="34">Of King David’s dancers<punc type="comma">,</punc></line>
-        <line n="35">Like the wine cups of Solomon<punc type="period">.</punc></line>
-        <line n="36">Hey<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></line>
-        <line n="37">A clean spittoon on the altar of the Lord<punc type="period">.</punc></line>
-        <line n="38">A clean bright spittoon all newly polished—</line>
-        <line n="39">At least I can offer that<punc type="period">.</punc></line>
-        <line n="40">Com’mere<punc type="comma">,</punc> boy<punc type="exclamation_point">!</punc></line>
-        </content>
+        <title poet="Hughes_L">Catch</title> 
+        
+        <stanza>
+            <l n="1">Big Boy came</l>
+            <l n="2"><figLang form="metaphor">Carrying a mermaid</figLang></l><!-- I'm unsure if this classifies as a metaphor. -->
+            <l n="3">On his shoulders</l>
+            <l n="4">And the mermaid</l>
+            <l n="5">Had her tail</l>
+            <l n="6">Curved</l>
+            <l n="7">Beneath his arm<punc type="period">.</punc></l>
+        </stanza>
+        
+        <stanza>
+            <l n="8">Being a fisher boy<punc type="comma">,</punc></l>
+            <l n="9">He’d found a fish</l>
+            <l n="10">To carry—</l>
+            <l n="11">Half fish<punc type="comma">,</punc></l>
+            <l n="12">Half girl</l>
+            <l n="13">To marry<punc type="period">.</punc></l>
+        </stanza>
     </poem>
     
     <poem>
-        <coder>KS</coder>
-        <header>
-        <title>I, Too</title> 
-        <byLine poet="Hughes_L">By Langston Hughes</byLine> 
-        </header>
-        <content>
-        <line n="1" stanza="1">I<punc type="comma">,</punc> too<punc type="comma">,</punc> sing America<punc type="period">.</punc> </line>
+        <title poet="Hughes_L">God</title>
         
-        <line n="2" stanza="2">I am the darker brother<punc type="period">.</punc></line>
-        <line n="3" stanza="2">They send me to eat in the kitchen</line> 
-        <line n="4" stanza="2">When company comes<punc type="comma">,</punc></line>
-        <line n="5" stanza="2">But I laugh<punc type="comma">,</punc></line> 
-        <line n="6" stanza="2">And eat well<punc type="comma">,</punc></line> 
-        <line n="7" stanza="2">And grow strong<punc type="period">.</punc></line> 
-        
-        <line n="8" stanza="3">Tomorrow<punc type="comma">,</punc></line> 
-        <line n="9" stanza="3">I’ll be at the table</line> 
-        <line n="10" stanza="3">When company comes<punc type="period">.</punc></line> 
-        <line n="11" stanza="3">Nobody’ll dare</line> 
-        <line n="12" stanza="3">Say to me<punc type="comma">,</punc></line> 
-        <line n="13" stanza="3"><punc type="quotation_mark">“</punc>Eat in the kitchen<punc type="comma">,</punc><punc type="quotation_mark">”</punc></line> 
-        <line n="14" stanza="3">Then<punc type="period">.</punc></line> 
-        
-        <line n="15" stanza="4">Besides<punc type="comma">,</punc></line> 
-        <line n="16" stanza="4">They’ll see how beautiful I am</line> 
-        <line n="17" stanza="4">And be ashamed<punc type="dash">—</punc></line> 
-        
-        <line n="18" stanza="5">I<punc type="comma">,</punc> too<punc type="comma">,</punc> am America<punc type="period">.</punc></line>
-        </content>
+        <stanza>
+            <l n="1">I am God<punc type="dash">—</punc></l>
+            <l n="2">Without one friend<punc type="comma">,</punc></l>
+            <l n="3">Alone in my purity</l>
+            <l n="4">World without end<punc type="period">.</punc></l>
+            <l n="5">Below me young lovers</l>
+            <l n="6">Tread the sweet ground<punc type="dash">—</punc></l>
+            <l n="7">But I am God<punc type="dash">—</punc></l>
+            <l n="8">I cannot come down<punc type="period">.</punc></l>
+            <l n="9">Spring<punc type="exclamation_point">!</punc></l>
+            <l n="10">Life is love<punc type="exclamation_point">!</punc></l>
+            <l n="11">Love is life only<punc type="exclamation_point">!</punc></l>
+            <l n="12">Better to be human</l>
+            <l n="13">Than God—and lonely<punc type="period">.</punc></l>
+        </stanza>
     </poem>
     
     <poem>
-        <coder>KS</coder>
-        <header>
-        <title>The Negro Speaks of Rivers</title> 
-        <byLine poet="Hughes_L">By Langston Hughes</byLine>
-        </header>
-        <content>
-        <line n="1" stanza="1">I’ve known rivers<punc type="colon">:</punc></line> 
-        <line n="2" stanza="1"><figLang form="simile">I’ve known rivers ancient as the world</figLang> and older than the flow of human blood in human veins<punc type="period">.</punc></line> 
+        <title poet="Hughes_L">Harlem</title> 
+        <stanza>
+            <l n="1">What happens to a dream deferred<punc type="question_mark">?</punc></l>
+        </stanza>  
         
-        <line n="3" stanza="2">My <figLang form="simile">soul has grown deep like the rivers</figLang><punc type="period">.</punc></line>
+        <stanza>
+            <l n="2">Does it dry up</l>
+            <l n="3">like a raisin in the sun<punc type="question_mark">?</punc></l>
+            <l n="4">Or fester like a sore<punc type="dash">—</punc></l>
+            <l n="5">And then run<punc type="question_mark">?</punc></l>
+            <l n="6">Does it stink like rotten meat<punc type="question_mark">?</punc></l>
+            <l n="7">Or crust and sugar over<punc type="dash">—</punc></l>
+            <l n="8">like a syrupy sweet<punc type="question_mark">?</punc></l>
+        </stanza>
         
-        <line n="4" stanza="3">I bathed in the Euphrates when dawns were young<punc type="period">.</punc></line> 
-        <line n="5" stanza="3">I built my hut near the Congo and it lulled me to sleep<punc type="period">.</punc></line> 
-        <line n="6" stanza="3">I looked upon the Nile and raised the pyramids above it<punc type="period">.</punc></line> 
-        <line n="7" stanza="3">I heard the<figLang form="personification">singing of the Mississippi</figLang> when Abe Lincoln went down to New Orleans<punc type="comma">,</punc> and I’ve seen its muddy bosom turn all golden in the sunset<punc type="period">.</punc></line> 
+        <stanza>
+            <l n="9">Maybe it just sags</l>
+            <l n="10">like a heavy load<punc type="period">.</punc></l>
+        </stanza>
         
-        <line n="8" stanza="4">I’ve known rivers<punc type="colon">:</punc></line> 
-        <line n="9" stanza="4">Ancient<punc type="comma">,</punc> dusky rivers<punc type="period">.</punc></line> 
-        
-        <line n="10" stanza="5">My <figLang form="simile">soul has grown deep like the rivers</figLang><punc type="period">.</punc></line>
-        </content>
+        <stanza>
+            <l n="11">Or does it explode<punc type="question_mark">?</punc></l>
+        </stanza>
     </poem>
     
     <poem>
-        <coder>KS</coder>
-        <header>
-        <title>Mother to Son</title> 
-        <byLine poet="Hughes_L">By Langston Hughes</byLine>
-        </header>
-        <content>
-        <line n="1">Well<punc type="comma">,</punc> son<punc type="comma">,</punc> I’ll tell you<punc type="colon">:</punc></line>
-        <line n="2">Life for me ain’t been no crystal stair<punc type="period">.</punc></line>
-        <line n="3">It’s had <figLang form="metaphor">tacks in it</figLang><punc type="comma">,</punc></line>
-        <line n="4">And splinters<punc type="comma">,</punc></line>
-        <line n="5">And boards torn up<punc type="comma">,</punc></line> <!-- extended metaphor here -->
-        <line n="6">And places with no carpet on the floor<punc type="dash">—</punc></line>
-        <line n="7">Bare<punc type="period">.</punc></line>
-        <line n="8">But all the time</line>
-        <line n="9">I’se been a-climbin’ on<punc type="comma">,</punc></line>
-        <line n="10">And reachin’ landin’s<punc type="comma">,</punc></line>
-        <line n="11">And turnin’ corners<punc type="comma">,</punc></line>
-        <line n="12">And sometimes goin’ in the dark</line>
-        <line n="13">Where there ain’t been no light<punc type="period">.</punc></line>
-        <line n="14">So boy<punc type="comma">,</punc> don’t you turn back<punc type="period">.</punc></line>
-        <line n="15">Don’t you set down on the steps</line>
-        <line n="16">’Cause you finds it’s kinder hard<punc type="period">.</punc></line>
-        <line n="17">Don’t you fall now<punc type="dash">—</punc></line>
-        <line n="18">For I’se still goin’<punc type="comma">,</punc> honey<punc type="comma">,</punc></line>
-        <line n="19">I’se still climbin’<punc type="comma">,</punc></line>
-        <line n="20">And life for me ain’t been no crystal stair<punc type="period">.</punc></line>
-        </content>
+        <title poet="Hughes_L">I, Too</title> 
+        
+        <stanza>
+            <l n="1">I<punc type="comma">,</punc> too<punc type="comma">,</punc> sing America<punc type="period">.</punc></l>
+        </stanza>
+        
+        <stanza>
+            <l n="2">I am the darker brother<punc type="period">.</punc></l>
+            <l n="3">They send me to eat in the kitchen</l> 
+            <l n="4">When company comes<punc type="comma">,</punc></l>
+            <l n="5">But I laugh<punc type="comma">,</punc></l> 
+            <l n="6">And eat well<punc type="comma">,</punc></l> 
+            <l n="7">And grow strong<punc type="period">.</punc></l>
+        </stanza>
+        
+        <stanza>
+            <l n="8">Tomorrow<punc type="comma">,</punc></l> 
+            <l n="9">I’ll be at the table</l> 
+            <l n="10">When company comes<punc type="period">.</punc></l> 
+            <l n="11">Nobody’ll dare</l> 
+            <l n="12">Say to me<punc type="comma">,</punc></l> 
+            <l n="13">“Eat in the kitchen<punc type="comma">,</punc>”</l> 
+            <l n="14">Then<punc type="period">.</punc></l>
+        </stanza> 
+        
+        <stanza>
+            <l n="15">Besides<punc type="comma">,</punc></l> 
+            <l n="16">They’ll see how beautiful I am</l> 
+            <l n="17">And be ashamed<punc type="dash">—</punc></l>
+        </stanza> 
+        
+        <stanza>
+            <l n="18">I<punc type="comma">,</punc> too<punc type="comma">,</punc> am America<punc type="period">.</punc></l>
+        </stanza>
     </poem>
     
     <poem>
-        <coder>KS</coder>
-        <header>
-        <title>Morning After</title> 
-        <byLine poet="Hughes_L">By Langston Hughes</byLine>
-        </header>
-        <content>
-        <line n="1" stanza="1">I was so sick last night I</line>
-        <line n="2" stanza="1">Didn’t hardly know my mind<punc type="period">.</punc></line>
-        <line n="3" stanza="1">So sick last night I</line>
-        <line n="4" stanza="1">Didn’t know my mind<punc type="period">.</punc></line>
-        <line n="5" stanza="1">I drunk some bad licker that</line>
-        <line n="6" stanza="1">Almost made me blind<punc type="period">.</punc></line>
+        <title poet="Hughes_L">Morning After</title> 
         
-        <line n="7" stanza="2">Had a dream last night I</line>
-        <line n="8" stanza="2">Thought I was in hell<punc type="period">.</punc></line>
-        <line n="9" stanza="2">I drempt last night I</line>
-        <line n="10" stanza="2">Thought I was in hell<punc type="period">.</punc></line>
-        <line n="11" stanza="2">Woke up and looked around me—</line>
-        <line n="12" stanza="2">Babe<punc type="comma">,</punc> your mouth was open like a well<punc type="period">.</punc></line>
+        <stanza>
+            <l n="1">I was so sick last night I</l>
+            <l n="2">Didn’t hardly know my mind<punc type="period">.</punc></l>
+            <l n="3">So sick last night I</l>
+            <l n="4">Didn’t know my mind<punc type="period">.</punc></l>
+            <l n="5">I drunk some bad licker that</l>
+            <l n="6">Almost made me blind<punc type="period">.</punc></l>
+        </stanza>
         
-        <line n="13" stanza="3">I said<punc type="comma">,</punc> Baby<punc type="exclamation_point">!</punc> Baby<punc type="exclamation_point">!</punc></line>
-        <line n="14" stanza="3">Please don’t snore so loud<punc type="period">.</punc></line>
-        <line n="15" stanza="3">Baby<punc type="exclamation_point">!</punc> Please<punc type="exclamation_point">!</punc></line>
-        <line n="16" stanza="3">Please don’t snore so loud<punc type="period">.</punc></line>
-        <line n="17" stanza="3">You jest a little bit o’ woman but you</line>
-        <line n="18" stana="3">Sound like a great big crowd<punc type="period">.</punc></line>
-        </content>
+        <stanza>
+            <l n="7">Had a dream last night I</l>
+            <l n="8">Thought I was in hell<punc type="period">.</punc></l>
+            <l n="9">I drempt last night I</l>
+            <l n="10">Thought I was in hell<punc type="period">.</punc></l>
+            <l n="11">Woke up and looked around me—</l>
+            <l n="12">Babe<punc type="comma">,</punc> your mouth was open like a well<punc type="period">.</punc></l>
+        </stanza>
+        
+        <stanza>
+            <l n="13">I said<punc type="comma">,</punc> Baby<punc type="exclamation_point">!</punc> Baby<punc type="exclamation_point">!</punc></l>
+            <l n="14">Please don’t snore so loud<punc type="period">.</punc></l>
+            <l n="15">Baby<punc type="exclamation_point">!</punc> Please<punc type="exclamation_point">!</punc></l>
+            <l n="16">Please don’t snore so loud<punc type="period">.</punc></l>
+            <l n="17">You jest a little bit o’ woman but you</l>
+            <l n="18">Sound like a great big crowd<punc type="period">.</punc></l>
+        </stanza>
     </poem>
     
     <poem>
-        <coder>KS</coder>
-        <header>
-        <title>Harlem</title> 
-        <byLine poet="Hughes_L">By Langston Hughes</byLine>
-        </header> 
-        <content>
-              <line n="1" stanza="1">What happens to a dream deferred<punc type="question_mark">?</punc></line>
+        <title poet="Hughes_L">Mother to Son</title> 
         
-              <line n="2" stanza="2">Does it dry up</line>
-              <line n="3" stanza="2">like a raisin in the sun<punc type="question_mark">?</punc></line>
-              <line n="4" stanza="2">Or fester like a sore<punc type="dash">—</punc></line>
-              <line n="5" stanza="2">And then run<punc type="question_mark">?</punc></line>
-              <line n="6" stanza="2">Does it stink like rotten meat<punc type="question_mark">?</punc></line>
-              <line n="7" stanza="2">Or crust and sugar over<punc type="dash">—</punc></line>
-              <line n="8" stanza="2">like a syrupy sweet<punc type="question_mark">?</punc></line>
-        
-              <line n="9" stanza="3">Maybe it just sags</line>
-              <line n="10" stanza="3">like a heavy load<punc type="period">.</punc></line>
-        
-              <line n="11" stanza="4">Or does it explode<punc type="question_mark">?</punc></line>
-        </content>
+        <stanza>
+            <l n="1">Well<punc type="comma">,</punc> son<punc type="comma">,</punc> I’ll tell you<punc type="colon">:</punc></l>
+            <l n="2">Life for me ain’t been no crystal stair<punc type="period">.</punc></l>
+            <l n="3">It’s had <figLang form="metaphor">tacks in it</figLang><punc type="comma">,</punc></l>
+            <l n="4">And splinters<punc type="comma">,</punc></l>
+            <l n="5">And boards torn up<punc type="comma">,</punc></l> <!-- extended metaphor here -->
+            <l n="6">And places with no carpet on the floor<punc type="dash">—</punc></l>
+            <l n="7">Bare<punc type="period">.</punc></l>
+            <l n="8">But all the time</l>
+            <l n="9">I’se been a-climbin’ on<punc type="comma">,</punc></l>
+            <l n="10">And reachin’ landin’s<punc type="comma">,</punc></l>
+            <l n="11">And turnin’ corners<punc type="comma">,</punc></l>
+            <l n="12">And sometimes goin’ in the dark</l>
+            <l n="13">Where there ain’t been no light<punc type="period">.</punc></l>
+            <l n="14">So boy<punc type="comma">,</punc> don’t you turn back<punc type="period">.</punc></l>
+            <l n="15">Don’t you set down on the steps</l>
+            <l n="16">’Cause you finds it’s kinder hard<punc type="period">.</punc></l>
+            <l n="17">Don’t you fall now<punc type="dash">—</punc></l>
+            <l n="18">For I’se still goin’<punc type="comma">,</punc> honey<punc type="comma">,</punc></l>
+            <l n="19">I’se still climbin’<punc type="comma">,</punc></l>
+            <l n="20">And life for me ain’t been no crystal stair<punc type="period">.</punc></l>
+        </stanza>
     </poem>
     
     <poem>
-        <coder>KS</coder>
-        <header>
-        <title>God</title>
-        <byLine poet="Hughes_L">By Langston Hughes</byLine>
-        </header>
-        <content>
-        <line n="1">I am God<punc type="dash">—</punc></line>
-        <line n="2">Without one friend<punc type="comma">,</punc></line>
-        <line n="3">Alone in my purity</line>
-        <line n="4">World without end<punc type="period">.</punc></line>
-        <line n="5">Below me young lovers</line>
-        <line n="6">Tread the sweet ground<punc type="dash">—</punc></line>
-        <line n="7">But I am God<punc type="dash">—</punc></line>
-        <line n="8">I cannot come down<punc type="period">.</punc></line>
-        <line n="9">Spring<punc type="exclamation_point">!</punc></line>
-        <line n="10">Life is love<punc type="exclamation_point">!</punc></line>
-        <line n="11">Love is life only<punc type="exclamation_point">!</punc></line>
-        <line n="12">Better to be human</line>
-        <line n="13">Than God—and lonely<punc type="period">.</punc></line>
-        </content>
+        <title poet="Hughes_L">The Negro Speaks of Rivers</title> 
+        
+        <stanza>
+            <l n="1">I’ve known rivers<punc type="colon">:</punc></l> 
+            <l n="2"><figLang form="simile">I’ve known rivers ancient as the world</figLang> and older than the flow of human blood in human veins<punc type="period">.</punc></l>
+        </stanza> 
+        
+        <stanza>
+            <l n="3">My <figLang form="simile">soul has grown deep like the rivers</figLang><punc type="period">.</punc></l>
+        </stanza>
+        
+        <stanza>
+            <l n="4">I bathed in the Euphrates when dawns were young<punc type="period">.</punc></l> 
+            <l n="5">I built my hut near the Congo and it lulled me to sleep<punc type="period">.</punc></l> 
+            <l n="6">I looked upon the Nile and raised the pyramids above it<punc type="period">.</punc></l> 
+            <l n="7">I heard the<figLang form="personification">singing of the Mississippi</figLang> when Abe Lincoln went down to New Orleans<punc type="comma">,</punc> and I’ve seen its muddy bosom turn all golden in the sunset<punc type="period">.</punc></l> 
+        </stanza> 
+        
+        <stanza>
+            <l n="8">I’ve known rivers<punc type="colon">:</punc></l> 
+            <l n="9">Ancient<punc type="comma">,</punc> dusky rivers<punc type="period">.</punc></l> 
+        </stanza>
+        
+        <stanza>
+            <l n="10">My <figLang form="simile">soul has grown deep like the rivers</figLang><punc type="period">.</punc></l>
+        </stanza>
     </poem>
     
     <poem>
-        <coder>KS</coder>
-        <title>Wisdom and War</title>
-        <byLine poet="Hughes_L">By Langston Hughes</byLine>
-        <content>
-        <line n="1">We do not care<punc type="dash">--</punc></line>
-        <line n="2">That much is clear<punc type="period">.</punc></line>
-        <line n="3">Not enough</line>
-        <line n="4">Of us care</line>
-        <line n="5">Anywhere<punc type="period">.</punc></line>
-        <line n="6">We are not wise<punc type="dash">--</punc></line>
-        <line n="7">For that reason<punc type="comma">,</punc></line>
-        <line n="8">Mankind dies<punc type="period">.</punc></line>
-        <line n="9">To think</line>
-        <line n="10">Is much against</line>
-        <line n="11">The will<punc type="period">.</punc></line>
-        <line n="12">Better<punc type="dash">-</punc></line>
-        <line n="13">And easier<punc type="dash">-</punc></line>
-        <line n="14">To kill<punc type="period">.</punc></line>
-        </content>
+        <title poet="Hughes_L">Wisdom and War</title>
+        
+        <stanza>
+            <l n="1">We do not care<punc type="dash">--</punc></l>
+            <l n="2">That much is clear<punc type="period">.</punc></l>
+            <l n="3">Not enough</l>
+            <l n="4">Of us care</l>
+            <l n="5">Anywhere<punc type="period">.</punc></l>
+            <l n="6">We are not wise<punc type="dash">--</punc></l>
+            <l n="7">For that reason<punc type="comma">,</punc></l>
+            <l n="8">Mankind dies<punc type="period">.</punc></l>
+            <l n="9">To think</l>
+            <l n="10">Is much against</l>
+            <l n="11">The will<punc type="period">.</punc></l>
+            <l n="12">Better<punc type="dash">-</punc></l>
+            <l n="13">And easier<punc type="dash">-</punc></l>
+            <l n="14">To kill<punc type="period">.</punc></l>
+        </stanza>
     </poem>
     
 </poemCollection>

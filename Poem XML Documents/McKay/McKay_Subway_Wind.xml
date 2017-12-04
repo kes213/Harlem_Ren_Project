@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    <coder>KS</coder>
-    <header>
-    <title>Subway Wind</title> 
-    <byLine poet="McKay_C">By Claude McKay</byLine>
-    </header> 
-    <content>
-    <line n="1">Far down<punc type="comma">,</punc> down through the city’s great gaunt gut</line>
-    <line n="2">The gray train rushing bears the weary wind<punc type="semicolon">;</punc></line>
-    <line n="3">In the packed cars the fans the crowd’s breath cut<punc type="comma">,</punc></line>
-    <line n="4">Leaving the sick and heavy air behind<punc type="period">.</punc></line>
-    <line n="5">And pale-cheeked children seek the upper door</line>
-    <line n="6">To give their summer jackets to the breeze<punc type="semicolon">;</punc></line>
-    <line n="7">Their laugh is swallowed in the deafening roar</line>
-    <line n="8"><figLang form="personification">Of captive wind that moans for fields and seas</figLang><punc type="semicolon">;</punc></line>
-    <line n="9">Seas cooling warm where native schooners drift</line>
-    <line n="10">Through <figLang form="personification">sleepy waters</figLang><punc type="comma">,</punc> while gulls wheel and sweep<punc type="comma">,</punc></line>
-    <line n="11">Waiting for windy waves the keels to lift</line>
-    <line n="12">Lightly among the islands of the deep<punc type="semicolon">;</punc></line>
-    <line n="13">Islands of lofty palm trees blooming white</line>
-    <line n="14">That led their perfume to the tropic sea<punc type="comma">,</punc></line>
-    <line n="15">Where fields lie idle in the dew-drenched night<punc type="comma">,</punc></line>
-    <line n="16">And the Trades float above them fresh and free<punc type="period">.</punc></line>
-    </content>
+    <title poet="McKay_C">Subway Wind</title> 
+    
+   <stanza>
+    <l n="1">Far down<punc type="comma">,</punc> down through the city’s great gaunt gut</l>
+    <l n="2">The gray train rushing bears the weary wind<punc type="semicolon">;</punc></l>
+    <l n="3">In the packed cars the fans the crowd’s breath cut<punc type="comma">,</punc></l>
+    <l n="4">Leaving the sick and heavy air behind<punc type="period">.</punc></l>
+    <l n="5">And pale-cheeked children seek the upper door</l>
+    <l n="6">To give their summer jackets to the breeze<punc type="semicolon">;</punc></l>
+    <l n="7">Their laugh is swallowed in the deafening roar</l>
+    <l n="8"><figLang form="personification">Of captive wind that moans for fields and seas</figLang><punc type="semicolon">;</punc></l>
+    <l n="9">Seas cooling warm where native schooners drift</l>
+    <l n="10">Through <figLang form="personification">sleepy waters</figLang><punc type="comma">,</punc> while gulls wheel and sweep<punc type="comma">,</punc></l>
+    <l n="11">Waiting for windy waves the keels to lift</l>
+    <l n="12">Lightly among the islands of the deep<punc type="semicolon">;</punc></l>
+    <l n="13">Islands of lofty palm trees blooming white</l>
+    <l n="14">That led their perfume to the tropic sea<punc type="comma">,</punc></l>
+    <l n="15">Where fields lie idle in the dew-drenched night<punc type="comma">,</punc></l>
+    <l n="16">And the Trades float above them fresh and free<punc type="period">.</punc></l>
+    </stanza>
+    
 </poem>

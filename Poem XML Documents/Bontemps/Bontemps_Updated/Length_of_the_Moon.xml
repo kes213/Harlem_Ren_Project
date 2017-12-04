@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+<title poet="Bontemps_A">Length of the Moon</title>
+<stanza>
+    <l n="1"> Then the golden hour </l>
+    <l n="2">Will tick its last </l>
+    <l n="3">And the flame will go down in the flower<punc type="period">.</punc></l>
+    <l n="4">A briefer length of moon </l>
+    <l n="5">Will mark the sea-line and the yellow dune<punc type="period">.</punc></l>
+    <l n="6">Then we may think of this<punc type="comma">,</punc> yet </l>
+    <l n="7">There will be something forgotten</l>
+    <l n="8">It will be like all things we know<punc type="semicolon">:</punc></l>
+    <l n="9">A stone will fail<punc type="semicolon">;</punc> a rose is sure to go<punc type="period">.</punc></l>
+    <l n="10">It will be quiet then and we may stay Long at the picket gate</l>
+    <l n="11">But there will be less to say<punc type="period">.</punc></l>
+
+</stanza>
+</poem>

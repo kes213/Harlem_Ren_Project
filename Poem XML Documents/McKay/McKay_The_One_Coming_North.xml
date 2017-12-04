@@ -1,30 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    <coder>KS</coder>
-    <header>
-    <title>To One Coming North</title> 
-    <byLine poet="McKay_C">By Claude McKay</byLine>
-    </header> 
-    <content>
-    <line n="1" stanza="1">At first you'll joy to see <figLang form="personification">the playful snow</figLang><punc type="comma">,</punc></line> 
-    <line n="2" stanza="1"><figLang form="simile">Like white moths trembling on the tropic air</figLang><punc type="comma">,</punc></line> 
-    <line n="3" stanza="1">Or waters of the hills that softly flow</line> 
-    <line n="4" stanza="1">Gracefully falling down a shining stair<punc type="period">.</punc></line>
+    <title poet="McKay_C">To One Coming North</title> 
 
-    <line n="5" stanza="2">And when the fields and streets are covered white</line> 
-    <line n="6" stanza="2">And the wind-worried void is chilly<punc type="comma">,</punc> raw<punc type="comma">,</punc></line> 
-    <line n="7" stanza="2">Or underneath a spell of heat and light</line> 
-    <line n="8" stanza="2">The cheerless frozen spots begin to thaw<punc type="comma">,</punc></line>
+    <stanza>
+    <l n="1">At first you'll joy to see <figLang form="personification">the playful snow</figLang><punc type="comma">,</punc></l> 
+    <l n="2"><figLang form="simile">Like white moths trembling on the tropic air</figLang><punc type="comma">,</punc></l> 
+    <l n="3">Or waters of the hills that softly flow</l> 
+    <l n="4">Gracefully falling down a shining stair<punc type="period">.</punc></l>
+    </stanza>
 
-    <line n="9" stanza="3">Like me you'll long for home<punc type="comma">,</punc> where birds' glad song</line> 
-    <line n="10" stanza="3">Means flowering lanes and leas and spaces dry<punc type="comma">,</punc></line> 
-    <line n="11" stanza="3">And tender thoughts and feelings fine and strong<punc type="comma">,</punc></line> 
-    <line n="12" stanza="3">Beneath a vivid silver-flecked blue sky<punc type="period">.</punc></line>
+    <stanza>
+    <l n="5">And when the fields and streets are covered white</l> 
+    <l n="6">And the wind-worried void is chilly<punc type="comma">,</punc> raw<punc type="comma">,</punc></l> 
+    <l n="7">Or underneath a spell of heat and light</l> 
+    <l n="8">The cheerless frozen spots begin to thaw<punc type="comma">,</punc></l>
+    </stanza>
 
-    <line n="13" stanza="4">But oh<punc type="exclamation_point">!</punc> more than the changeless southern isles<punc type="comma">,</punc></line> 
-    <line n="14" stanza="4">When <figLang form="personification">Spring has shed upon the earth her charm</figLang><punc type="comma">,</punc></line> 
-    <line n="15" stanza="4">You'll love the Northland wreathed in golden smiles</line> 
-    <line n="16" stanza="4">By the miraculous sun turned glad and warm<punc type="period">.</punc></line>
-    </content>
+    <stanza>
+    <l n="9">Like me you'll long for home<punc type="comma">,</punc> where birds' glad song</l> 
+    <l n="10">Means flowering lanes and leas and spaces dry<punc type="comma">,</punc></l> 
+    <l n="11">And tender thoughts and feelings fine and strong<punc type="comma">,</punc></l> 
+    <l n="12">Beneath a vivid silver-flecked blue sky<punc type="period">.</punc></l>
+    </stanza>
+
+    <stanza>
+    <l n="13">But oh<punc type="exclamation_point">!</punc> more than the changeless southern isles<punc type="comma">,</punc></l> 
+    <l n="14">When <figLang form="personification">Spring has shed upon the earth her charm</figLang><punc type="comma">,</punc></l> 
+    <l n="15">You'll love the Northland wreathed in golden smiles</l> 
+    <l n="16">By the miraculous sun turned glad and warm<punc type="period">.</punc></l>
+    </stanza>
 </poem>

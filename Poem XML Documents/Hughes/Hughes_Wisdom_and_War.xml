@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-    <coder>KS</coder>
-    <header>
-    <title>Wisdom and War</title>
-    <byLine poet="Hughes_L">By Langston Hughes</byLine>
-    </header>
-    <content>
-        <line n="1">We do not care<punc type="dash">--</punc></line>
-        <line n="2">That much is clear<punc type="period">.</punc></line>
-        <line n="3">Not enough</line>
-        <line n="4">Of us care</line>
-        <line n="5">Anywhere<punc type="period">.</punc></line>
-        <line n="6">We are not wise<punc type="dash">--</punc></line>
-        <line n="7">For that reason<punc type="comma">,</punc></line>
-        <line n="8">Mankind dies<punc type="period">.</punc></line>
-        <line n="9">To think</line>
-        <line n="10">Is much against</line>
-        <line n="11">The will<punc type="period">.</punc></line>
-        <line n="12">Better<punc type="dash">-</punc></line>
-        <line n="13">And easier<punc type="dash">-</punc></line>
-        <line n="14">To kill<punc type="period">.</punc></line>
-    </content>
+        <title poet="Hughes_L">Wisdom and War</title>
+
+      <stanza>
+        <l n="1">We do not care<punc type="dash">--</punc></l>
+        <l n="2">That much is clear<punc type="period">.</punc></l>
+        <l n="3">Not enough</l>
+        <l n="4">Of us care</l>
+        <l n="5">Anywhere<punc type="period">.</punc></l>
+        <l n="6">We are not wise<punc type="dash">--</punc></l>
+        <l n="7">For that reason<punc type="comma">,</punc></l>
+        <l n="8">Mankind dies<punc type="period">.</punc></l>
+        <l n="9">To think</l>
+        <l n="10">Is much against</l>
+        <l n="11">The will<punc type="period">.</punc></l>
+        <l n="12">Better<punc type="dash">-</punc></l>
+        <l n="13">And easier<punc type="dash">-</punc></l>
+        <l n="14">To kill<punc type="period">.</punc></l>
+      </stanza>
 </poem>

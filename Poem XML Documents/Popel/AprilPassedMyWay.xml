@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+<title poet="Popel_Esther">April Passed My Way</title>
+<stanza>
+<l n="1"><figLang form="personification">April passed my way</figLang><punc type="comma">,</punc> and Romance</l>
+<l n="2">Followed after to my door<punc type="semicolon">;</punc></l>
+<l n="3"><punc type="comma">Lingered shyly,</punc> gently watchful</l>
+<l n="4">For my welcome<punc type="semicolon">;</punc> more and more</l>
+<l n="5">In her manner fascinating</l>
+<l n="6">As she held my eye</l>
+<l n="7">Standing at my doorway<punc type="comma">, waiting,</punc></l>
+<l n="8">Anxious not to pass me by<punc type="exclamation_point">!</punc> </l>
+</stanza>
+    
+<stanza>
+<l n="9">Romance came<punc type="comma">, along with April,</punc></l>
+<l n="10">And I let her in<punc type="semicolon">;</punc></l>
+<l n="11">Shared with her my hearts deep secrets</l>
+<l n="12">And, to my chagrin<punc type="comma">,</punc></l>
+<l n="13">Off she slipped and, when she left me<punc type="comma">,</punc></l>
+<l n="14">Stole my treasures all away<punc type="exclamation_point">!</punc></l>
+<l n="15">Romance cameand wentwith April<punc type="exclamation_point">!</punc></l>
+<l n="16">There is nothing more to say.</l>
+   </stanza>
+</poem>

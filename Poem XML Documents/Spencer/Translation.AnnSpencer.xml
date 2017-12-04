@@ -1,35 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-<title> Translation</title>
-<author>Ann Spencer</author>
-    <poem>
-<stanza n="1">
-<line>We trekked into a far country, </line>
-<line>My friend and I. </line>
-<line>Our deeper content was never spoken,</line>
-<line>But each knew all the other said.</line>
-<line>He told me how calm his soul was laid</line>
-<line>By the lack of anvil and strife.</line>
-<line>“The wooing kestrel,” I said, “mutes his mating-note</line>
-<line>To please the harmony of this sweet silence.”</line>
-<line>And when at the day’s end</line>
-<line>We laid tired bodies ’gainst</line>
-<line>The loose warm sands,</line>
-<line>And the air fleeced its particles for a coverlet;</line>
-<line>When star after star came out</line>
-<line>To guard their lovers in oblivion—</line>
-<line><personif>My soul so leapt</personif> that my evening prayer </line>
-<line>Stole my morning song! </line>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <title poet="Spencer_A">Translation </title>
+<stanza>
+<l n="1">We trekked into a far country, </l>
+<l n="2">My friend and I<punc type="period">.</punc> </l>
+<l n="3">Our deeper content was never spoken,</l>
+<l n="4">But each knew all the other said<punc type="period">.</punc></l>
+<l n="5">He told me how calm his soul was laid</l>
+<l n="6">By the lack of anvil and strife.</l>
+<l n="7">“The wooing kestrel,” I said, “mutes his mating-note</l>
+<l n="8">To please the harmony of this sweet silence.”</l>
+<l n="9">And when at the day’s end</l>
+<l n="10">We laid tired bodies ’gainst</l>
+<l n="11">The loose warm sands,</l>
+<l n="12">And the air fleeced its particles for a coverlet<punc type="semicolon">;</punc></l>
+<l n="13">When star after star came out</l>
+<l n="14">To guard their lovers in oblivion—</l>
+<l n="15"><figLang form="personification">My soul so leapt</figLang> that my evening prayer </l>
+<l n="16">Stole my morning song! </l>
 </stanza>
-    
+
     
     </poem>
-    
-    
-    
-    
-    
-    
-    
-    
-</root>
+
