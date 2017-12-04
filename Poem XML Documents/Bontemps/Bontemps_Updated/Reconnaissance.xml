@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+<title poet="Bontemps_A">Reconnaissance</title>
+<stanza>
+<l n="1">After the cloud embankments<punc type="comma">,</punc></l>
+<l n="2">the lamentation of wind </l>
+<l n="3">and the starry descent into time<punc type="comma">,</punc> </l>
+<l n="4">we came to the flashing waters and shaded our eyes </l>
+<l n="5">from the glare<punc type="period">.</punc></l>
+</stanza>
+    
+<stanza>
+<l n="6">Alone with the shore and the harbor<punc type="comma">,</punc> </l>
+<l n="7">the stems of the cocoanut trees<punc type="comma">,</punc> </l>
+<l n="8">the fronds of silence and hushed music<punc type="comma">,</punc> </l>
+<l n="9">we cried for the new revelation </l>
+<l n="10">and waited for miracles to rise<punc type="period">.</punc></l>
+</stanza>
+    
+<stanza>
+<l n="11">Where elements touch and merge<punc type="comma">,</punc> </l>
+<l n="12">where shadows swoon like outcasts on the sand </l>
+<l n="13">and the tried moment waits<punc type="comma">,</punc> its courage gone<punc type="dash">-</punc><punc type="dash">-</punc> </l>
+<l n="14">there were we latitudes where storms are born<punc type="period">.</punc></l>
+</stanza>
+</poem>
+
+
