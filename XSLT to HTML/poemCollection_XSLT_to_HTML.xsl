@@ -24,23 +24,23 @@
                     <fieldset>
                         <legend>Click to Highlight Specific Punctuation Marks:</legend>
                         <input type="checkbox" id="CommasToggle"/>
-                        <span>Commas</span>
+                        <span class="CommasToggle">Commas</span>
                         <input type="checkbox" id="PeriodsToggle"/>
-                        <span>Periods</span>
+                        <span class="PeriodsToggle">Periods</span>
                         <input type="checkbox" id="SemicolonsToggle"/>
-                        <span>Semicolons</span>
+                        <span class="SemicolonsToggle">Semicolons</span>
                         <input type="checkbox" id="ColonsToggle"/>
-                        <span>Colons</span>
+                        <span class="ColonsToggle">Colons</span>
                         <input type="checkbox" id="Open_PsToggle"/>
-                        <span>Open Parentheses</span>
+                        <span class="Open_PsToggle">Open Parentheses</span>
                         <input type="checkbox" id="Closed_PsToggle"/>
-                        <span>Closed Parentheses</span>
+                        <span class="Closed_PsToggle">Closed Parentheses</span>
                         <input type="checkbox" id="Exclamation_PointsToggle"/>
-                        <span>Exclamation Points</span>
+                        <span class="Exclamation_PointsToggle">Exclamation Points</span>
                         <input type="checkbox" id="Question_MarksToggle"/>
-                        <span>Question Marks</span>
+                        <span class="Question_MarksToggle">Question Marks</span>
                         <input type="checkbox" id="DashesToggle"/>
-                        <span>Dashes</span>
+                        <span class="DashesToggle">Dashes</span>
                     </fieldset>
                 </div>
                 <h2>Table of Contents</h2>
