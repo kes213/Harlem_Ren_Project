@@ -22,3 +22,13 @@ span.closed_parenthesis.on {background-color:pink}
 span.exclamation_point.on {background-color:red}
 span.question_mark.on {background-color:orange}
 span.dash.on {background-color:yellow}
+
+span#CommasToggle {background-color:purple}
+span#PeriodsToggle {background-color:white}
+span#SemicolonsToggle {background-color:green}
+span#ColonsToggle {background-color:blue}
+span#Open_PsToggle {background-color:pink}
+span#Closed_PsToggle {background-color:pink}
+span#Exclamation_PointsToggle {background-color:red}
+span#Question_MarksToggle {background-color:orange}
+span#DashesToggle {background-color:yellow}
