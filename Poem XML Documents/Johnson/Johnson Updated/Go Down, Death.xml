@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+<title poet="Johnson_JW">Go Down, Death (A Funeral Sermon)</title>
+<stanza>
+<l n="1">Weep not<punc type="comma">,</punc> weep not<punc type="comma">,</punc></l>
+<l n="2">She is not dead<punc type="semicolon">;</punc></l>
+<l n="3">She is resting in the bosom of Jesus<punc type="period">.</punc></l>
+<l n="4">Heart-broken husband<punc type="dash">-</punc><punc type="dash">-</punc>weep no more<punc type="semicolon">;</punc></l>
+<l n="5">Grief<punc type="dash">-</punc>stricken son<punc type="dash">-</punc><punc type="dash">-</punc>weep no more<punc type="semicolon">;</punc></l>
+<l n="6">Left<punc type="dash">-</punc>lonesome daughter <punc type="dash">-</punc><punc type="dash">-</punc>weep no more<punc type="semicolon">;</punc></l>
+<l n="7">She only just gone home<punc type="period">.</punc></l>
+</stanza>
+    
+<stanza>
+<l n="8">Day before yesterday morning<punc type="comma">,</punc></l>
+<l n="9">God was looking down from his great<punc type="comma">,</punc> high heaven<punc type="comma">,</punc></l>
+<l n="10">Looking down on all his children<punc type="comma">,</punc></l>
+<l n="11">And his eye fell on Sister Caroline<punc type="comma">,</punc></l>
+<l n="12">Tossing on her bed of pain<punc type="period">.</punc></l>
+<l n="13">And God’s big heart was touched with pity<punc type="comma">,</punc></l>
+<l n="14">With the everlasting pity<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="15">And God sat back on his throne<punc type="comma">,</punc></l>
+<l n="16">And he commanded that tall<punc type="comma">,</punc> bright angel standing at his right hand<punc type="colon">:</punc></l>
+<l n="17">Call me Death<punc type="exclamation_point">!</punc></l>
+<l n="18">And that tall<punc type="comma">,</punc>bright angel cried in a voice</l>
+<l n="19">That broke like a clap of thunder<punc type="colon">:</punc></l>
+<l n="20">Call Death<punc type="exclamation_point">!</punc><punc type="dash">-</punc><punc type="dash">-</punc>Call Death<punc type="exclamation_point">!</punc></l>
+<l n="21">And the echo sounded down the streets of heaven</l>
+<l n="22">Till it reached away back to that shadowy place<punc type="comma">,</punc></l>
+<l n="23">Where Death waits with his pale<punc type="comma">,</punc> white horses<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="24">And Death heard the summons<punc type="comma">,</punc></l>
+<l n="25">And he leaped on his fastest horse<punc type="comma">,</punc></l>
+<l n="26">Pale as a sheet in the moonlight<punc type="period">.</punc></l>
+<l n="27">Up the golden street Death galloped<punc type="comma">,</punc></l>
+<l n="28">And the hooves of his horses struck fire from the gold<punc type="comma"></punc></l>
+<l n="29">But they didn’t make no sound<punc type="period">.</punc></l>
+<l n="30">Up Death rode to the Great White Throne<punc type="comma">,</punc></l>
+<l n="31">And waited for God’s command<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="32">And God said<punc type="colon">:</punc> Go down<punc type="comma">,</punc> Death<punc type="comma">,</punc> go down<punc type="comma">,</punc></l>
+<l n="33">Go down to Savannah<punc type="comma">,</punc> Georgia<punc type="comma">,</punc></l>
+<l n="34">Down in Yamacraw<punc type="comma">,</punc></l>
+<l n="35">And find Sister Caroline<punc type="period">.</punc></l>
+<l n="36">She has borne the burden and heat of the day<punc type="comma">,</punc></l>
+<l n="37">She has labored long in my vineyard<punc type="comma">,</punc></l>
+<l n="38">And she’s tired<punc type="dash">-</punc><punc type="dash">-</punc></l>
+<l n="39">She is weary<punc type="dash">-</punc><punc type="dash">-</punc></l>
+<l n="40">Go down<punc type="comma">,</punc> Death<punc type="comma">,</punc> and bring her to me<punc type="period"></punc></l>
+</stanza>
+<stanza>
+<l n="41">And Death did not say a word<punc type="comma">,</punc></l>
+<l n="42">But he loosed the reins on his pale<punc type="comma">,</punc>white horse<punc type="comma">,</punc></l>
+<l n="43">And he clamped the spurs to his bloodless sides<punc type="comma">,</punc></l>
+<l n="44">And out and down he rode<punc type="comma">,</punc></l>
+<l n="45">Through heavens pearly gates<punc type="comma">,</punc></l>
+<l n="46">Past suns and moons and stars<punc type="semicolon">;</punc></l>
+<l n="47">on Death rode<punc type="comma">,</punc></l>
+<l n="48">Leaving the lightnings flash behind<punc type="semicolon">;</punc></l>
+<l n="49">Straight down he came<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="50">While we were watching round her bed<punc type="comma">,</punc></l>
+<l n="51">She turned her eyes and looked away<punc type="comma">,</punc></l>
+<l n="52">She saw what we could not see<punc type="semicolon">;</punc></l>
+<l n="53">She saw Old Death<punc type="period">.</punc>  She saw Old Death</l>
+<l n="54">Coming like a falling star<punc type="period">.</punc></l>
+<l n="55">But Death did not frighten Sister Caroline<punc type="semicolon">;</punc></l>
+<l n="56">He looked to her like a welcome friend<punc type="period"></punc></l>
+<l n="57">And she whispered to us<punc type="colon">:</punc> I am going home<punc type="comma">,</punc></l>
+<l n="58">And she smiled and closed her eyes<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="59">And Death took her up like a baby<punc type="comma">,</punc></l>
+<l n="60">And she lay in his icy arms<punc type="comma">,</punc></l>
+<l n="61">But she didn’t feel no chill<punc type="period">.</punc></l>
+<l n="62">And death began to ride again<punc type="dash">-</punc><punc type="dash">-</punc></l>
+<l n="63">Up beyond the evening star<punc type="comma">,</punc></l>
+<l n="64">Into the glittering light of glory<punc type="comma">,</punc></l>
+<l n="65">On to the Great White Throne<punc type="period">.</punc></l>
+<l n="66">And there he laid Sister Caroline</l>
+<l n="67">On the loving breast of Jesus<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="68">And Jesus took his own hand and wiped away her tears<punc type="comma">,</punc></l>
+<l n="69">And he smoothed the furrows from her face<punc type="comma">,</punc></l>
+<l n="70">And the angels sang a little song<punc type="comma">,</punc></l>
+<l n="71">And Jesus rocked her in his arms<punc type="comma">,</punc></l>
+<l n="72">And kept a<punc type="dash">-</punc>saying<punc type="colon">:</punc> Take your rest<punc type="comma">,</punc></l>
+<l n="73">Take your rest<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="74">Weep not<punc type="dash">-</punc><punc type="dash">-</punc>-weep not<punc type="comma">,</punc></l>
+<l n="75">She is not dead<punc type="comma">,</punc></l>
+<l n="76">She is resting in the bosom of Jesus<punc type="period">.</punc></l>
+</stanza>
+</poem>
