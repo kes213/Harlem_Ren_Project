@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <poem>
-    <coder>TL</coder>
-    <header>
-        <title>Reconnaissance</title>
-        <byLine poet="Bontemps_A">Arna Bontemps</byLine>
-    </header>
-    <content>
-<line n="1" stanza="1">After the cloud embankments<punc type="comma">,</punc> </line>
-<line n="2" stanza="1">the lamentation of wind </line>
-<line n="3" stanza="1">and the starry descent into time<punc type="comma">,</punc> </line>
-<line n="4" stanza="1">we came to the flashing waters and shaded our eyes </line>
-<line n="5" stanza="1">from the glare<punc type="period">.</punc></line>
-
-<line n="6" stanza="2">Alone with the shore and the harbor<punc type="comma">,</punc> </line>
-<line n="7" stanza="2">the stems of the cocoanut trees<punc type="comma">,</punc> </line>
-<line n="8" stanza="2">the fronds of silence and hushed music<punc type="comma">,</punc> </line>
-<line n="9" stanza="2">we cried for the new revelation </line>
-<line n="10" stanza="2">and waited for miracles to rise<punc type="period">.</punc></line>
-
-<line n="11" stanza="3">Where elements touch and merge<punc type="comma">,</punc> </line>
-<line n="12" stanza="3">where shadows swoon like outcasts on the sand </line>
-<line n="13" stanza="3">and the tried moment waits<punc type="comma">,</punc> its courage gone<punc type="dash">-</punc><punc type="dash">-</punc> </line>
-<line n="14" stanza="3">there were we latitudes where storms are born<punc type="period">.</punc></line>
-</content>
+<title poet="Bontemps_A">Reconnaissance</title>
+<stanza>
+<l n="1">After the cloud embankments<punc type="comma">,</punc></l>
+<l n="2">the lamentation of wind </l>
+<l n="3">and the starry descent into time<punc type="comma">,</punc> </l>
+<l n="4">we came to the flashing waters and shaded our eyes </l>
+<l n="5">from the glare<punc type="period">.</punc></l>
+</stanza>
+    
+<stanza>
+<l n="6">Alone with the shore and the harbor<punc type="comma">,</punc> </l>
+<l n="7">the stems of the cocoanut trees<punc type="comma">,</punc> </l>
+<l n="8">the fronds of silence and hushed music<punc type="comma">,</punc> </l>
+<l n="9">we cried for the new revelation </l>
+<l n="10">and waited for miracles to rise<punc type="period">.</punc></l>
+</stanza>
+    
+<stanza>
+<l n="11">Where elements touch and merge<punc type="comma">,</punc> </l>
+<l n="12">where shadows swoon like outcasts on the sand </l>
+<l n="13">and the tried moment waits<punc type="comma">,</punc> its courage gone<punc type="dash">-</punc><punc type="dash">-</punc> </l>
+<l n="14">there were we latitudes where storms are born<punc type="period">.</punc></l>
+</stanza>
 </poem>
 
 

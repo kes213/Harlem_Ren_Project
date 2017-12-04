@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
 <title poet="Bontemps_A"> God Give to Men</title>
 
 <stanza>
-<line n="1" stanza="1">God give the yellow man </line>
-<line n="2" stanza="1">an easy breeze at blossom time<punc type="period">.</punc> </line>
-<line n="3" stanza="1">Grant his eager, slanting eyes to cover </line>
-<line n="4" stanza="1">every land and dream </line>
-<line n="5" stanza="1">of afterwhile<punc type="period">.</punc></line>
+<l n="1">God give the yellow man </l>
+<l n="2">an easy breeze at blossom time<punc type="period">.</punc> </l>
+<l n="3">Grant his eager, slanting eyes to cover </l>
+<l n="4">every land and dream </l>
+<l n="5">of afterwhile<punc type="period">.</punc></l>
 </stanza>
 
 <stanza>
@@ -17,7 +17,7 @@
 <l n="7">to whirl in tall buildings<punc type="period">.</punc> </l>
 <l n="8">Allow them many ships at sea<punc type="comma">,</punc> </l>
 <l n="9">and on land<punc type="comma">,</punc> soldiers </l>
-<l n="10">and policemen<punc type="period">.</punc></line>
+<l n="10">and policemen<punc type="period">.</punc></l>
 </stanza>
 
 <stanza>
@@ -33,4 +33,4 @@
 <l n="17">the taste of soul's desire<punc type="period">.</punc></l>
 </stanza>
 </poem>
-</poem>
+

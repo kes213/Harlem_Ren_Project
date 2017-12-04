@@ -2,12 +2,8 @@
 <?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-    <coder>TL</coder>
-    <header>
-<title>Nocturne of the Wharves</title>
- <byLine poet="Bontemps_A">Arna Bontemps</byLine>
-        </header>
-<content>
+    <title poet="Bontemps_A">Nocturne of the Wharves</title>
+<stanza>
 <line n="1" stanza="1">All night they whine upon their ropes and boom </line>
 <line n="2" stanza="1">against the dock with helpless prows<punc type="colon">:</punc> </line>
 <line n="3" stanza="1">these little ships that are too worn for sailing </line>
@@ -18,23 +14,25 @@
 <line n="8" stanza="1">Formosa and the mountains of Japan<punc type="period">.</punc> </line>
 <line n="9" stanza="1">They think of cities ruined by the sea </line>
 <line n="10" stanza="1">and they are restless, sleeping at the wharf<punc type="period">.</punc></line>
-
-<line n="11" stanza="2">Tugging at the dim gray wharf they think </line>
-<line n="12" stanza="2">no less of Africa<punc type="period">.</punc> An east wind blows </line>
-<line n="13" stanza="2">and salt spray sweeps the unattended decks<punc type="period">.</punc> </line>
-<line n="14" stanza="2">Shouts of dead men break upon the night<punc type="period">.</punc> </line>
-<line n="15" stanza="2">The captain calls his crew and they respond<punc type="dash">-</punc><punc type="dash">-</punc> </line>
-line n="16" stanza="2">the little ships are dreaming<punc type="dash">-</punc><punc type="dash">-</punc>land is near<punc type="period">.</punc> </line>
-<line n="17" stanza="2">But mist comes up to dim the copper coast<punc type="comma">,</punc> </line>
-<line n="18" stanza="2">mist dissembles images of the trees<punc type="period">.</punc> </line>
-<line n="19" stanza="2">The captain and his men alike are lost </line>
-<line n="20" stanza="2">and their shouts go down in the rising sound of waves<punc type="period">.</punc></line>
-
-<line n="21" stanza="3">Ah little ships<punc type="comma">,</punc> I know your weariness<punc type="exclamation_point">!</punc> </line>
-    <line n="22" stanza="3">I know the sea<punc type="dash">-</punc>green shadows of your dream<punc type="period">.</punc> </line>
-<line n="23" stanza="3">For I have loved the cities of the sea<punc type="comma">,</punc> </line>
-<line n="24" stanza="3">and desolations of the old days </line>
-<line n="25" stanza="3">I have loved<punc type="colon">:</punc> I was a wanderer like you </line>
-<line n="26" stanza="3">and I have broken down before the wind<punc type="period"></punc></line>
-</content>
+    </stanza>
+<stanza>
+<l n="11">Tugging at the dim gray wharf they think </l>
+<l n="12">no less of Africa<punc type="period">.</punc> An east wind blows </l>
+<l n="13">and salt spray sweeps the unattended decks<punc type="period">.</punc> </l>
+<l n="14">Shouts of dead men break upon the night<punc type="period">.</punc> </l>
+<l n="15">The captain calls his crew and they respond<punc type="dash">-</punc><punc type="dash">-</punc> </l>
+<l n="16">the little ships are dreaming<punc type="dash">-</punc><punc type="dash">-</punc>land is near<punc type="period">.</punc> </l>
+<l n="17">But mist comes up to dim the copper coast<punc type="comma">,</punc> </l>
+<l n="18">mist dissembles images of the trees<punc type="period">.</punc> </l>
+<l n="19">The captain and his men alike are lost </l>
+<l n="20">and their shouts go down in the rising sound of waves<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="21">Ah little ships<punc type="comma">,</punc> I know your weariness<punc type="exclamation_point">!</punc> </l>
+<l n="22">I know the sea<punc type="dash">-</punc>green shadows of your dream<punc type="period">.</punc> </l>
+<l n="23">For I have loved the cities of the sea<punc type="comma">,</punc> </l>
+<l n="24">and desolations of the old days </l>
+<l n="25">I have loved<punc type="colon">:</punc> I was a wanderer like you </l>
+<l n="26">and I have broken down before the wind<punc type="period"></punc></l>
+    </stanza>
 </poem>
