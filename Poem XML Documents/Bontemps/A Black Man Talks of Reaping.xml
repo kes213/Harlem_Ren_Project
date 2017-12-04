@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+    <coder>TL</coder>
+    <header>
+        <title>A Black Man Talks of Reaping.</title>
+        <byLine poet="Bontemps_A">Arna Bontemps</byLine>
+    </header>
+    <content>
+<line n="1" stanza="1">I have sown beside all waters in my day<punc type="period">.</punc> </line>
+<line n="2" stanza="1">I planted deep, within my heart the fear </line>
+<line n="3" stanza="1">that wind or fowl would take the grain away<punc type="period">.</punc> </line>
+<line n="4" stanza="1">I planted safe against this stark, lean year<punc type="period">.</punc></line>
+
+<line n="5" stanza="2">I scattered seed enough to plant the land </line>
+<line n="6" stanza="2">in rows from Canada to Mexico </line>
+<line n="7" stanza="2">but for my reaping only what the hand </line>
+<line n="8" stanza="2">can hold at once is all that I can show<punc type="period">.</punc></line>
+
+<line n="9" stanza="3">Yet what I sowed and what the orchard yields </line>
+<line n="10" stanza="3">my brother's sons are gathering stalk and root<punc type="semicolon">;</punc> </line>
+<line n="11" stanza="3">small wonder then my children glean in fields </line>
+<line n="12" stanza="3">they have not sown, and feed on bitter fruit<punc type="period">.</punc></line>
+    </content>
+</poem>

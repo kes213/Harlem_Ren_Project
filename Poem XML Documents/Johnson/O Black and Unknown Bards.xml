@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <coder>TL</coder>
+    <header>
+<title>O Black and Unknown Bards</title>
+<byLine poet="Johnson_JW">James Weldon Johnson</byLine>
+    </header>
+    <content>
+<line n="1" stanza="1">O black and unknown bards of long ago<punc type="comma">,</punc></line>
+<line n="2" stanza="1">How came your lips to touch the sacred fire<punc type="question_mark">?</punc></line>
+<line n="3" stanza="1">How<punc type="comma">,</punc> in your darkness<punc type="comma">,</punc> did you come to know</line>
+<line n="4" stanza="1">The power and beauty of the minstrel’s lyre<punc type="question_mark">?</punc>/line>
+<line n="5" stanza="1">Who first from midst his bonds lifted his eyes <punc type="question_mark">?</punc></line>
+<line n="6" stanza="1">Who first from out the still watch<punc type="comma">,</punc> lone and long<punc type="comma">,</punc></line>
+<line n="7" stanza="1">Feeling the ancient faith of prophets rise</line>
+<line n="8" stanza="1">Within his dark-kept soul<punc type="comma">,</punc> burst into song?</line>
+
+<line n="9" stanza="2">Heart of what slave poured out such melody</line>
+<line n="10" stanza="2">As <punc type="open_parenthesis">"</punc>Steal away to Jesus<punc type="closed_parenthesis">"</punc><punc type="question_mark">?</punc> On its strains</line>
+<line n="11" stanza="2">His spirit must have nightly floated free<punc type="comma">,</punc></line>
+<line n="12" stanza="2">Though still about his hands he felt his chains<punc type="period">.</punc></line>
+<line n="13" stanza="2">Who heard great <punc type="open_parenthesis">"</punc>Jordan roll<punc type="closed_parenthesis">"</punc><punc type="question_mark">?</punc> Whose starward eye</line>
+    <line n="14" stanza="2">Saw chariot <punc type="open_parenthesis">“</punc>swing low<punc type="closed_parenthesis">”</punc><punc type="question_mark">?</punc> And who was he</line>
+<line n="15" stanza="2">That breathed that comforting, melodic sigh<punc type="comma">,</punc></line>
+<line n="16" stanza="2"><punc type="open_parenthesis">"</punc>Nobody knows de trouble I see<punc type="closed_parenthesis">"</punc><punc type="question_mark">?</punc> </line>
+
+<line n="17" stanza="3">What merely living clod<punc type="comma">,</punc> what captive thing<punc type="comma">,</punc></line>
+<line n="18" stanza="3">Could up toward God through all its darkness grope<punc type="comma">,</punc></line>
+<line n="19" stanza="3">And find within its deadened heart to sing</line>
+<line n="20" stanza="3">These songs of sorrow<punc type="comma">,</punc> love and faith<punc type="comma">,</punc> and hope?</line>
+<line n="21" stanza="3">How did it catch that subtle undertone<punc type="comma">,</punc></line>
+<line n="22" stanza="3">That note in music heard not with the ears<punc type="question_mark">?</punc></line>
+<line n="23" stanza="3">How sound the elusive reed so seldom blown<punc type="comma">,</punc></line>
+<line n="24" stanza="3">Which stirs the soul or melts the heart to tears<punc type="period">.</punc> </line>
+
+<line n="25" stanza="4">Not that great German master in his dream</line>
+<line n="26" stanza="4">Of harmonies that thundered amongst the stars</line>
+<line n="27" stanza="4">At the creation<punc type="comma">,</punc> ever heard a theme</line>
+<line n="28" stanza="4">Nobler than <punc type="open_parenthesis">"</punc>Go down<punc type="comma">,</punc> Moses<punc type="period">.</punc><punc type="closed_parenthesis">"</punc> Mark its bars</line>
+<line n="29" stanza="4">How like a mighty trumpet-call they stir</line>
+<line n="30" stanza="4">The blood<punc type="period">.</punc> Such are the notes that men have sung</line>
+<line n="31" stanza="4">Going to valorous deeds<punc type="semicolon">;</punc> such tones there were</line>
+<line n="32" stanza="4">That helped make history when Time was young<punc type="period">.</punc></line>
+
+<line n="33" stanza="5">There is a wide<punc type="comma">,</punc> wide wonder in it all<punc type="comma">,</punc></line>
+<line n="34" stanza="5">That from degraded rest and servile toil</line>
+<line n="35" stanza="5">The fiery spirit of the seer should call</line>
+<line n="36" stanza="5">These simple children of the sun and soil<punc type="period">.</punc></line>
+<line n="37" stanza="5">O black slave singers<punc type="comma">,</punc> gone<punc type="comma">,</punc> forgot<punc type="comma">,</punc> unfamed<punc type="comma">,</punc></line>
+<line n="38" stanza="5">You—you alone<punc type="comma">,</punc> of all the long<punc type="comma">,</punc> long line</line>
+<line n="39" stanza="5">Of those who’ve sung untaught<punc type="comma">,</punc> unknown<punc type="comma">,</punc> unnamed<punc type="comma">,</punc></line>
+<line n="40" stanza="5">Have stretched out upward<punc type="comma">,</punc> seeking the divine<punc type="period">.</punc> </line>
+
+<line n="41" stanza="6">You sang not deeds of heroes or of kings<punc type="semicolon">;</punc></line>
+<line n="42" stanza="6">No chant of bloody war<punc type="comma">,</punc> no exulting pean</line>
+<line n="43" stanza="6">Of arms-won triumphs<punc type="semicolon">;</punc> but your humble strings</line>
+<line n="44" stanza="6">You touched in chord with music empyrean<punc type="period">.</punc></line>
+<line n="45" stanza="6">You sang far better than you knew<punc type="semicolon">;</punc> the songs</line>
+<line n="46" stanza="6">That for your listeners hungry hearts sufficed</line>
+<line n="47" stanza="6">Still live<punc type="comma">,</punc><punc type="dash">-</punc>but more than this to you belongs:</line>
+<line n="48" stanza="6">You sang a race from wood and stone to Christ<punc type="period"></punc></line>
+</content>
+</poem>

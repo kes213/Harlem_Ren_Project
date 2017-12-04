@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+<coder>TL</coder>
+    <header>
+<title>Lift Every Voice and Sing</title>
+  
+<byLine poet="Johnson_JW">James Weldon Johnson, 1871 - 1938</byLine>
+    </header>
+    <content>
+<line n="1" stanza="1">Lift every voice and sing<punc type="comma">,</punc></line>
+<line n="2" stanza="1">Till earth and heaven ring<punc type="comma">,</punc></line>
+<line n="3" stanza="1">Ring with the harmonies of Liberty<punc type="semicolon">;</punc></line>
+<line n="4" stanza="1">Let our rejoicing rise</line>
+<line n="4" stanza="1">High as the listning skies<punc type="comma">,</punc></line>
+<line n="6" stanza="1">Let it resound loud as the rolling sea<punc type="period">.</punc></line>
+<line n="7" stanza="1">Sing a song full of the faith that the dark past has taught us<punc type="comma">,</punc></line>
+<line n="8" stanza="1">Sing a song full of the hope that the present has brought us<punc type="semicolon">;</punc></line>
+<line n="9" stanza="1">Facing the rising sun of our new day begun<punc type="comma">,</punc></line>
+<line n="10" stanza="1">Let us march on till victory is won<punc type="period">.</punc></line>
+
+<line n="11" stanza="2">Stony the road we trod<punc type="comma">,</punc></line>
+<line n="12" stanza="2">Bitter the chast’ning rod<punc type="comma">,</punc></line>
+<line n="13" stanza="2">Felt in the days when hope unborn had died<punc type="semicolon">;</punc></line>
+<line n="14" stanza="2">Yet with a steady beat<punc type="comma">,</punc></line>
+<line n="14" stanza="2">Have not our weary feet</line>
+<line n="16" stanza="2">Come to the place for which our fathers sighed<punc type="question_mark">?</punc></line>
+<line n="17" stanza="2">We have come over a way that with tears has been watered<punc type="period">.</punc></line>
+<line n="18" stanza="2">We have come, treading our path through the blood of the slaughtered<punc type="comma">,</punc></line>
+<line n="19" stanza="2">Out from the gloomy past<punc type="comma">,</punc></line>
+<line n="20" stanza="2">Till now we stand at last</line>
+<line n="21" stanza="2">Where the white gleam of our bright star is cast<punc type="period">.</punc></line>
+
+<line n="22" stanza="3">God of our weary years<punc type="comma">,</punc></line>
+<line n="23" stanza="3">God of our silent tears<punc type="comma">,</punc></line>
+<line n="24" stanza="3">Thou who hast brought us thus far on the way<punc type="semicolon">;</punc></line>
+<line n="25" stanza="3">Thou who hast by Thy might<punc type="comma">,</punc></line>
+<line n="26" stanza="3">Led us into the light<punc type="comma">,</punc></line>
+<line n="27" stanza="3">Keep us forever in the path<punc type="comma">,</punc> we pray<punc type="period">.</punc></line>
+<line n="28" stanza="3">Lest our feet stray from the places<punc type="comma">,</punc> our God<punc type="comma">,</punc> where we met Thee<punc type="comma">,</punc></line>
+<line n="29" stanza="3">Lest our hearts<punc type="comma">,</punc> drunk with the wine of the world<punc type="comma">,</punc> we forget Thee<punc type="semicolon">;</punc></line>
+<line n="30" stanza="3">Shadowed beneath Thy hand<punc type="comma">,</punc></line>
+<line n="40" stanza="3">May we forever stand<punc type="comma">,</punc></line>
+<line n="50" stanza="3">True to our God<punc type="comma">,</punc></line>
+<line n="60" stanza="3">True to our native land<punc type="period">.</punc></line>
+</content>
+</poem>

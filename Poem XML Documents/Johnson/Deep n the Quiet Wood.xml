@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <coder>TL</coder>
+    <header>
+<title>Deep in the Quiet Wood</title>
+<byLine poet="Johnson_JW">James Weldon Johnson</byLine>
+    </header>
+    <content>
+<line n="1" stanza="1">Are you bowed down in heart </line>
+<line n="2" stanza="1">Do you but hear the clashing discords and the din of life<punc type="question_mark">?</punc></line>
+<line n="3" stanza="1">Then come away<punc type="comma">,</punc> come to the peaceful wood<punc type="comma">,</punc></line>
+<line n="4" stanza="1">Here bathe your soul in silence. Listen<punc type="exclamation_point">!</punc> Now<punc type="comma">,</punc></line>
+<line n="5" stanza="1">From out the palpitating solitude</line>
+<line n="6" stanza="1">Do you not catch<punc type="comma">,</punc> yet faint<punc type="comma">,</punc> elusive strains<punc type="question_mark">?</punc></line>
+<line n="7" stanza="1">They are above<punc type="comma">,</punc> around<punc type="comma">,</punc> within you<punc type="comma">,</punc> everywhere<punc type="period">.</punc>
+</line>
+<line n="8" stanza="1">Silently listen<punc type="exclamation_point">!</punc> Clear<punc type="comma">,</punc> and still more clear<punc type="comma">,</punc> they come<punc type="period">.</punc></line>
+<line n="9" stanza="1">They bubble up in rippling notes<punc type="comma">,</punc> and swell in singing tones<punc type="period">.</punc></line>
+<line n="10" stanza="1">Now let your soul run the whole gamut of the wondrous scale</line>
+<line n="11" stanza="1">Until<punc type="comma">,</punc> responsive to the tonic chord<punc type="comma">,</punc></line>
+<line n="12" stanza="1">It touches the diapason of God’s grand cathedral organ<punc type="comma">,</punc></line>
+<line n="13" stanza="1">Filling earth for you with heavenly peace</line>
+<line n="14" stanza="1">And holy harmonies<punc type="period">.</punc></line>
+    </content>
+</poem>
