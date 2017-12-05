@@ -32,3 +32,11 @@ span.Closed_PsToggle  {background-color:pink}
 span.Exclamation_PointsToggle {background-color:red}
 span.Question_MarksToggle {background-color:orange}
 span.DashesToggle {background-color:yellow}
+
+span.metaphor.on {color:green}
+span.simile.on {color:blue}
+span.personification.on {color:red}
+
+span.MetaphorsToggle {color:green}
+span.SimilesToggle {color:blue}
+span.PersonToggle {color:red}

@@ -3,7 +3,7 @@
    <head>
       <link rel="stylesheet" type="text/css" href="harlem_ren_css.css"/>
       <script type="text/javascript" src="poemCollection_colorCoding_java.js">/**/</script>
-      <title>Langston Hughes 10-Poem Collection</title>
+      <title>Langston Hughes</title>
    </head>
    <body>
       <h1>The Harlem Renaissance Poetry Project</h1>
@@ -15,27 +15,37 @@
       <hr/>
       <h1>Langston Hughes ~ A 10-Poem Collection</h1>
       <p>These poems were hand-selected by the Harlem Renaissance project team.</p>
+      <p>Pleae note: Langston Hughes does not frequently use figurative language in his poetry.</p>
       <div>
          <fieldset>
             <legend>Click to Highlight Specific Punctuation Marks:</legend>
             <input type="checkbox" id="CommasToggle"/>
-            <span>Commas</span>
+            <span class="CommasToggle">Commas</span>
             <input type="checkbox" id="PeriodsToggle"/>
-            <span>Periods</span>
+            <span class="PeriodsToggle">Periods</span>
             <input type="checkbox" id="SemicolonsToggle"/>
-            <span>Semicolons</span>
+            <span class="SemicolonsToggle">Semicolons</span>
             <input type="checkbox" id="ColonsToggle"/>
-            <span>Colons</span>
+            <span class="ColonsToggle">Colons</span>
             <input type="checkbox" id="Open_PsToggle"/>
-            <span>Open Parentheses</span>
+            <span class="Open_PsToggle">Open Parentheses</span>
             <input type="checkbox" id="Closed_PsToggle"/>
-            <span>Closed Parentheses</span>
+            <span class="Closed_PsToggle">Closed Parentheses</span>
             <input type="checkbox" id="Exclamation_PointsToggle"/>
-            <span>Exclamation Points</span>
+            <span class="Exclamation_PointsToggle">Exclamation Points</span>
             <input type="checkbox" id="Question_MarksToggle"/>
-            <span>Question Marks</span>
+            <span class="Question_MarksToggle">Question Marks</span>
             <input type="checkbox" id="DashesToggle"/>
-            <span>Dashes</span>
+            <span class="DashesToggle">Dashes</span>
+         </fieldset>
+         <fieldset>
+            <legend>Click to highlight specific types of figurative language:</legend>
+            <input type="checkbox" id="MetaphorsToggle"/>
+            <span class="MetaphorsToggle">Metaphors</span>
+            <input type="checkbox" id="SimilesToggle"/>
+            <span class="SimilesToggle">Similes</span>
+            <input type="checkbox" id="PersonToggle"/>
+            <span class="PersonToggle">Personification</span>
          </fieldset>
       </div>
       <h2>Table of Contents</h2>
@@ -91,8 +101,9 @@
          <br/>
         <br/>
       </p>
-      <button><a href="Hughes_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="Hughes_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>Brass Spittoons</h2>
       <p>
@@ -171,13 +182,15 @@
          <br/>
         <br/>
       </p>
-      <button><a href="Hughes_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="Hughes_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>Catch</h2>
       <p>
             Big Boy came<br/>
-            Carrying a mermaid<br/>
+            <span class="metaphor">Carrying a mermaid</span>
+         <br/>
             On his shoulders<br/>
             And the mermaid<br/>
             Had her tail<br/>
@@ -196,8 +209,9 @@
          <br/>
         <br/>
       </p>
-      <button><a href="Hughes_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="Hughes_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>God</h2>
       <p>
@@ -226,8 +240,9 @@
          <br/>
         <br/>
       </p>
-      <button><a href="Hughes_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="Hughes_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>Harlem</h2>
       <p>
@@ -256,8 +271,9 @@
          <br/>
         <br/>
       </p>
-      <button><a href="Hughes_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="Hughes_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>I, Too</h2>
       <p>
@@ -298,8 +314,9 @@
          <br/>
         <br/>
       </p>
-      <button><a href="Hughes_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="Hughes_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>Morning After</h2>
       <p>
@@ -336,8 +353,9 @@
          <br/>
         <br/>
       </p>
-      <button><a href="Hughes_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="Hughes_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>Mother to Son</h2>
       <p>
@@ -345,7 +363,8 @@
          <br/>
             Life for me ain’t been no crystal stair<span class="period">.</span>
          <br/>
-            It’s had tacks in it<span class="comma">,</span>
+            It’s had <span class="metaphor">tacks in it</span>
+         <span class="comma">,</span>
          <br/>
             And splinters<span class="comma">,</span>
          <br/>
@@ -380,17 +399,19 @@
          <br/>
         <br/>
       </p>
-      <button><a href="Hughes_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="Hughes_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>The Negro Speaks of Rivers</h2>
       <p>
             I’ve known rivers<span class="colon">:</span>
          <br/> 
-            I’ve known rivers ancient as the world and older than the flow of human blood in human veins<span class="period">.</span>
+            <span class="simile">I’ve known rivers ancient as the world</span> and older than the flow of human blood in human veins<span class="period">.</span>
          <br/>
         <br/>
-            My soul has grown deep like the rivers<span class="period">.</span>
+            My <span class="simile">soul has grown deep like the rivers</span>
+         <span class="period">.</span>
          <br/>
         <br/>
             I bathed in the Euphrates when dawns were young<span class="period">.</span>
@@ -399,7 +420,7 @@
          <br/> 
             I looked upon the Nile and raised the pyramids above it<span class="period">.</span>
          <br/> 
-            I heard thesinging of the Mississippi when Abe Lincoln went down to New Orleans<span class="comma">,</span> and I’ve seen its muddy bosom turn all golden in the sunset<span class="period">.</span>
+            I heard the<span class="personification">singing of the Mississippi</span> when Abe Lincoln went down to New Orleans<span class="comma">,</span> and I’ve seen its muddy bosom turn all golden in the sunset<span class="period">.</span>
          <br/> 
         <br/>
             I’ve known rivers<span class="colon">:</span>
@@ -407,12 +428,14 @@
             Ancient<span class="comma">,</span> dusky rivers<span class="period">.</span>
          <br/> 
         <br/>
-            My soul has grown deep like the rivers<span class="period">.</span>
+            My <span class="simile">soul has grown deep like the rivers</span>
+         <span class="period">.</span>
          <br/>
         <br/>
       </p>
-      <button><a href="Hughes_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="Hughes_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>Wisdom and War</h2>
       <p>
@@ -442,8 +465,9 @@
          <br/>
         <br/>
       </p>
-      <button><a href="Hughes_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="Hughes_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
    </body>
 </html>

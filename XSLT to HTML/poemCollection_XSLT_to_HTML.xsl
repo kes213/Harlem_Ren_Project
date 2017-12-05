@@ -42,6 +42,15 @@
                         <input type="checkbox" id="DashesToggle"/>
                         <span class="DashesToggle">Dashes</span>
                     </fieldset>
+                    <fieldset>
+                        <legend>Click to highlight specific types of figurative language:</legend>
+                        <input type="checkbox" id="MetaphorsToggle"/>
+                        <span class="MetaphorsToggle">Metaphors</span>
+                        <input type="checkbox" id="SimilesToggle"/>
+                        <span class="SimilesToggle">Similes</span>
+                        <input type="checkbox" id="PersonToggle"/>
+                        <span class="PersonToggle">Personification</span>
+                    </fieldset>
                 </div>
                 <h2>Table of Contents</h2>
                 <ul><xsl:apply-templates select="poemCollection" mode="toc"/></ul>
@@ -57,7 +66,7 @@
         <p>
             <xsl:apply-templates select="stanza"/>
         </p>
-        <a href="Spencer_poemCollection_page.html"><button>Click here to return to the top of the page.</button></a>
+        <button><a href="Hughes_poemCollection_page.html">Click here to return to the top of the page.</a></button>
     </xsl:template>
     
     <xsl:template match="stanza">
@@ -72,6 +81,12 @@
     
     <xsl:template match="punc">
         <span class="{@type}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
+    <xsl:template match="figLang">
+        <span class="{@form}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>

@@ -54,5 +54,20 @@ function toggle() {
             var dashes = document.getElementsByClassName("dash");
             for (var i = 0; i < dashes.length; i++) {
             dashes[i].classList.toggle("on")}};
-        break;}
+        break;
+        case "MetaphorsToggle": {
+            var metaphors = document.getElementsByClassName("metaphor");
+            for (var i = 0; i < metaphors.length; i++) {
+            metaphors[i].classList.toggle("on")}};
+        break;
+        case "SimilesToggle": {
+            var similes = document.getElementsByClassName("simile");
+            for (var i = 0; i < similes.length; i++) {
+            similes[i].classList.toggle("on")}};
+        break;
+        case "PersonToggle": {
+            var person = document.getElementsByClassName("personification");
+            for (var i = 0; i < person.length; i++) {
+            person[i].classList.toggle("on")}};
+        break;}     
 }

@@ -3,7 +3,7 @@
    <head>
       <link rel="stylesheet" type="text/css" href="harlem_ren_css.css"/>
       <script type="text/javascript" src="poemCollection_colorCoding_java.js">/**/</script>
-      <title>Claude McKay 10-Poem Collection</title>
+      <title>Claude McKay</title>
    </head>
    <body>
       <h1>The Harlem Renaissance Poetry Project</h1>
@@ -19,23 +19,32 @@
          <fieldset>
             <legend>Click to Highlight Specific Punctuation Marks:</legend>
             <input type="checkbox" id="CommasToggle"/>
-            <span>Commas</span>
+            <span class="CommasToggle">Commas</span>
             <input type="checkbox" id="PeriodsToggle"/>
-            <span>Periods</span>
+            <span class="PeriodsToggle">Periods</span>
             <input type="checkbox" id="SemicolonsToggle"/>
-            <span>Semicolons</span>
+            <span class="SemicolonsToggle">Semicolons</span>
             <input type="checkbox" id="ColonsToggle"/>
-            <span>Colons</span>
+            <span class="ColonsToggle">Colons</span>
             <input type="checkbox" id="Open_PsToggle"/>
-            <span>Open Parentheses</span>
+            <span class="Open_PsToggle">Open Parentheses</span>
             <input type="checkbox" id="Closed_PsToggle"/>
-            <span>Closed Parentheses</span>
+            <span class="Closed_PsToggle">Closed Parentheses</span>
             <input type="checkbox" id="Exclamation_PointsToggle"/>
-            <span>Exclamation Points</span>
+            <span class="Exclamation_PointsToggle">Exclamation Points</span>
             <input type="checkbox" id="Question_MarksToggle"/>
-            <span>Question Marks</span>
+            <span class="Question_MarksToggle">Question Marks</span>
             <input type="checkbox" id="DashesToggle"/>
-            <span>Dashes</span>
+            <span class="DashesToggle">Dashes</span>
+         </fieldset>
+         <fieldset>
+            <legend>Click to highlight specific types of figurative language:</legend>
+            <input type="checkbox" id="MetaphorsToggle"/>
+            <span class="MetaphorsToggle">Metaphors</span>
+            <input type="checkbox" id="SimilesToggle"/>
+            <span class="SimilesToggle">Similes</span>
+            <input type="checkbox" id="PersonToggle"/>
+            <span class="PersonToggle">Personification</span>
          </fieldset>
       </div>
       <h2>Table of Contents</h2>
@@ -74,10 +83,12 @@
             To give their summer jackets to the breeze<span class="semicolon">;</span>
          <br/>
             Their laugh is swallowed in the deafening roar<br/>
-            Of captive wind that moans for fields and seas<span class="semicolon">;</span>
+            <span class="personification">Of captive wind that moans for fields and seas</span>
+         <span class="semicolon">;</span>
          <br/>
             Seas cooling warm where native schooners drift<br/>
-            Through sleepy waters<span class="comma">,</span> while gulls wheel and sweep<span class="comma">,</span>
+            Through <span class="personification">sleepy waters</span>
+         <span class="comma">,</span> while gulls wheel and sweep<span class="comma">,</span>
          <br/>
             Waiting for windy waves the keels to lift<br/>
             Lightly among the islands of the deep<span class="semicolon">;</span>
@@ -91,8 +102,9 @@
          <br/>
         <br/>
       </p>
-      <button><a href="McKay_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="McKay_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>On Broadway</h2>
       <p>
@@ -105,25 +117,34 @@
             Of moving carriages below<span class="period">.</span>
          <br/> 
             Oh wonderful is Broadway — only<br/> 
-            My heart<span class="comma">,</span> my heart is lonely<span class="period">.</span>
+            My heart<span class="comma">,</span> 
+         <span class="personification">my heart is lonely</span>
+         <span class="period">.</span>
          <br/>
         <br/>
-            Desire naked<span class="comma">,</span> linked with Passion<span class="comma">,</span>
+            <span class="personification">Desire naked</span>
+         <span class="comma">,</span> 
+         <span class="personification">linked with Passion</span>
+         <span class="comma">,</span>
          <br/> 
             Goes trutting by in brazen fashion<span class="semicolon">;</span>
          <br/> 
             From playhouse<span class="comma">,</span> cabaret and inn<br/> 
             The rainbow lights of Broadway blaze<br/> 
-            All gay without<span class="comma">,</span> all glad within<span class="semicolon">;</span>
+            <span class="personification">All gay without</span>
+         <span class="comma">,</span> all glad within<span class="semicolon">;</span>
          <br/> 
             As in a dream I stand and gaze<br/> 
             At Broadway<span class="comma">,</span> shining Broadway — only<br/> 
-            My heart<span class="comma">,</span> my heart is lonely<span class="period">.</span>
+            My heart<span class="comma">,</span> 
+         <span class="personification">my heart is lonely</span>
+         <span class="period">.</span>
          <br/>
         <br/>
       </p>
-      <button><a href="McKay_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="McKay_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>Romance</h2>
       <p>
@@ -143,7 +164,8 @@
         <br/>
             Love words<span class="comma">,</span> mad words<span class="comma">,</span> dream words<span class="comma">,</span> sweet senseless words<span class="comma">,</span>
          <br/> 
-            Melodious like notes of mating birds<span class="semicolon">;</span>
+            <span class="simile">Melodious like notes of mating birds</span>
+         <span class="semicolon">;</span>
          <br/>
         <br/>
             To hear you ask if I shall love always<span class="comma">,</span>
@@ -165,23 +187,27 @@
          <br/>
         <br/>
       </p>
-      <button><a href="McKay_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="McKay_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>America</h2>
       <p>
             Although she feeds me bread of bitterness<span class="comma">,</span>
          <br/> 
-            And sinks into my throat her tiger’s tooth<span class="comma">,</span>
+            And <span class="metaphor">sinks into my throat her tiger’s tooth</span>
+         <span class="comma">,</span>
          <br/> 
             Stealing my breath of life<span class="comma">,</span> I will confess<br/>
             I love this cultured hell that tests my youth<span class="period">.</span>
          <br/> 
-            Her vigor flows like tides into my blood<span class="comma">,</span>
+            <span class="simile">Her vigor flows like tides into my blood</span>
+         <span class="comma">,</span>
          <br/> 
             Giving me strength erect against her hate<span class="comma">,</span>
          <br/> 
-            Her bigness sweeps my being like a flood<span class="period">.</span>
+            Her bigness sweeps my being <span class="simile">like a flood</span>
+         <span class="period">.</span>
          <br/> 
             Yet<span class="comma">,</span> as a rebel fronts a king in state<span class="comma">,</span>
          <br/> 
@@ -192,14 +218,17 @@
          <br/> 
             And see her might and granite wonders there<span class="comma">,</span>
          <br/> 
-            Beneath the touch of Time’s unerring hand<span class="comma">,</span>
+            Beneath the touch of <span class="personification">Time’s unerring hand</span>
+         <span class="comma">,</span>
          <br/> 
-            Like priceless treasures sinking in the sand<span class="period">.</span>
+            <span class="simile">Like priceless treasures sinking in the sand</span>
+         <span class="period">.</span>
          <br/>
         <br/>
       </p>
-      <button><a href="McKay_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="McKay_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>Joy in the Woods</h2>
       <p>
@@ -262,12 +291,15 @@
          <br/>
         <br/>
       </p>
-      <button><a href="McKay_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="McKay_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>If We Must Die</h2>
       <p>
-            If we must die<span class="comma">,</span> let it not be like hogs<br/> 
+            If we must die<span class="comma">,</span> 
+         <span class="simile">let it not be like hogs</span>
+         <br/> 
             Hunted and penned in an inglorious spot<span class="comma">,</span>
          <br/>
             While round us bark the mad and hungry dogs<span class="comma">,</span>
@@ -294,15 +326,17 @@
          <br/>
         <br/>
       </p>
-      <button><a href="McKay_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="McKay_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>Harlem Shadows</h2>
       <p>
             I hear the halting footsteps of a lass<br/> 
             In Negro Harlem when the night lets fall<br/> 
             Its veil<span class="period">.</span> I see the shapes of girls who pass<br/> 
-            To bend and barter at desire's call<span class="period">.</span>
+            To bend and barter at <span class="personification">desire's call</span>
+         <span class="period">.</span>
          <br/> 
             Ah<span class="comma">,</span> little dark girls who in slippered feet<br/> 
             Go prowling through the night from street to street<span class="exclamation_point">!</span>
@@ -312,7 +346,8 @@
             Of day the little gray feet know no rest<span class="semicolon">;</span>
          <br/> 
             Through the lone night until the last snow-flake<br/> 
-            Has dropped from heaven upon the earth's white breast<span class="comma">,</span>
+            Has dropped from heaven upon the <span class="personification">earth's white breast</span>
+         <span class="comma">,</span>
          <br/> 
             The dusky<span class="comma">,</span> half-clad girls of tired feet<br/> 
             Are trudging<span class="comma">,</span> thinly shod<span class="comma">,</span> from street to street<span class="period">.</span>
@@ -330,14 +365,17 @@
          <br/>
         <br/>
       </p>
-      <button><a href="McKay_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="McKay_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>To One Coming North</h2>
       <p>
-            At first you'll joy to see the playful snow<span class="comma">,</span>
+            At first you'll joy to see <span class="personification">the playful snow</span>
+         <span class="comma">,</span>
          <br/> 
-            Like white moths trembling on the tropic air<span class="comma">,</span>
+            <span class="simile">Like white moths trembling on the tropic air</span>
+         <span class="comma">,</span>
          <br/> 
             Or waters of the hills that softly flow<br/> 
             Gracefully falling down a shining stair<span class="period">.</span>
@@ -360,19 +398,21 @@
         <br/>
             But oh<span class="exclamation_point">!</span> more than the changeless southern isles<span class="comma">,</span>
          <br/> 
-            When Spring has shed upon the earth her charm<span class="comma">,</span>
+            When <span class="personification">Spring has shed upon the earth her charm</span>
+         <span class="comma">,</span>
          <br/> 
             You'll love the Northland wreathed in golden smiles<br/> 
             By the miraculous sun turned glad and warm<span class="period">.</span>
          <br/>
         <br/>
       </p>
-      <button><a href="McKay_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="McKay_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>The Lynching</h2>
       <p>
-            His spirit is smoke ascended to high heaven<span class="period">.</span>
+            <span class="metaphor">His spirit is smoke</span> ascended to high heaven<span class="period">.</span>
          <br/>
             His father<span class="comma">,</span> by the cruelest way of pain<span class="comma">,</span>
          <br/>
@@ -383,7 +423,8 @@
             All night a bright and solitary star<br/>
             <span class="open_parenthesis">(</span>Perchance the one that ever guided him<span class="comma">,</span>
          <br/>
-            Yet gave him up at last to Fate's wild whim<span class="closed_parenthesis">)</span>
+            Yet gave him up at last to <span class="personification">Fate's wild whim</span>
+         <span class="closed_parenthesis">)</span>
          <br/>
             Hung pitifully o'er the swinging char.<br/>
             Day dawned<span class="comma">,</span> and soon the mixed crowds came to view<br/>
@@ -398,8 +439,9 @@
          <br/>
         <br/>
       </p>
-      <button><a href="McKay_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="McKay_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
       <h2>After the Winter</h2>
       <p>
@@ -412,13 +454,16 @@
          <br/>
             Toward the summer isle<br/>
             Where bamboos spire the shafted grove<br/>
-            And wide-mouthed orchids smile<span class="period">.</span>
+            <span class="personification">And wide-mouthed orchids smile</span>
+         <span class="period">.</span>
          <br/>
         <br/>
-            And we will seek the quiet hill<br/>
+            And we will seek the <span class="personification">quiet hill</span>
+         <br/>
             Where towers the cotton tree<span class="comma">,</span>
          <br/>
-            And leaps the laughing crystal rill<span class="comma">,</span>
+            And <span class="personification">leaps the laughing crystal rill</span>
+         <span class="comma">,</span>
          <br/>
             And works the droning bee<span class="period">.</span>
          <br/>
@@ -431,8 +476,9 @@
          <br/>
         <br/>
       </p>
-      <button><a href="McKay_poemCollection_page.html">
-         Click here to return to the top of the page.</a></button>
+      <button>
+         <a href="McKay_poemCollection_page.html">Click here to return to the top of the page.</a>
+      </button>
     
    </body>
 </html>
