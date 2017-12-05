@@ -1,31 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-<coder>TL</coder>
-<header>
-    <title>Southern Mansion</title>
-    <byLine poet="Bontemps_A">Arna Bontemps</byLine>
-</header>
-<content>
-
-<line n="1" stanza="1">Poplars are standing there still as death </line>
-<line n="2" stanza="1">And ghosts of dead men </line>
-<line n="3" stanza="1">Meet their ladies walking </line>
-<line n="4" stanza="1">Two by two beneath the shade </line>
-<line n="5" stanza="1">And standing on the marble steps<punc type="period">.</punc></line>
-
-<line n="6" stanza="2">There is a sound of music echoing </line>
-<line n="7" stanza="2">Through the open door </line>
-<line n="8" stanza="2">And in the field there is </line>
-<line n="9" stanza="2">Another sound tinkling in the cotton<punc type="colon">:</punc> </line>
-<line n="10" stanza="2">Chains of bondmen dragging on the ground<punc type="period">.</punc></line>
-
-<line n="11" stanza="3">The years go back with an iron clank<punc type="comma">,</punc> </line>
-<line n="12" stanza="3">A hand is on the gate<punc type="comma">,</punc> </line>
-<line n="13" stanza="3">A dry leaf trembles on the wall<punc type="period">.</punc> </line>
-<line n="14" stanza="3">Ghosts are walking<punc type="period">.</punc> </line>
-<line n="15" stanza="3">They have broken roses down </line>
-<line n="16" stanza="3">And poplars stand there still as death<punc type="period">.</punc></line>
-</content>
+    <title poet="Bontemps_A">Southern Mansion</title>
+<stanza>
+<l n="1"><figLang form="simile">Poplars are standing there still as death </figLang></l>
+<l n="2">And ghosts of dead men </l>
+<l n="3">Meet their ladies walking </l>
+<l n="4">Two by two beneath the shade </l>
+<l n="5">And standing on the marble steps<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="6">There is a sound of music echoing </l>
+<l n="7">Through the open door </l>
+<l n="8">And in the field there is </l>
+<l n="9">Another sound tinkling in the cotton<punc type="colon">:</punc> </l>
+<l n="10">Chains of bondmen dragging on the ground<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<l n="11">The years go back with an iron clank<punc type="comma">,</punc> </l>
+<l n="12">A hand is on the gate<punc type="comma">,</punc> </l>
+<l n="13"><figLang form="personification">A dry leaf trembles on the wall</figLang><punc type="period">.</punc> </l>
+<l n="14">Ghosts are walking<punc type="period">.</punc> </l>
+<l n="15">They have broken roses down </l>
+<l n="16"><figLang form="simile">And poplars stand there still as death</figLang><punc type="period">.</punc></l>
+</stanza>
 </poem>

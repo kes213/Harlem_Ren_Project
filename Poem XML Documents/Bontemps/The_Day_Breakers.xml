@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-<coder>TL</coder>
-<header>
-    <title>>The Day Breakers</title>
-    <byLine poet="Bontemps_A">Arna Bontemps</byLine>
-</header>
-<content>
-<line n="1" stanza="1">We are not come to wage a strife </line>
-<line n="2" stanza="1">With swords upon this hill<punc type="comma">,</punc> </line>
-<line n="3" stanza="1">It is not wise to waste the life </line>
-<line n="4" stanza="1">Against a stubborn will<punc type="period">.</punc> </line>
-<line n="5" stanza="1">Yet would we die as some have done<punc type="period">.</punc> </line>
-<line n="6" stanza="1">Beating a way for the rising sun<punc type="period">.</punc></line>
-</content>
+<title poet="Bontemps_A">The Day Breakers</title>
+<stanza>
+<l n="1">We are not come to wage a strife </l>
+<l n="2">With swords upon this hill<punc type="comma">,</punc> </l>
+<l n="3">It is not wise to waste the life </l>
+<l n="4">Against a <figLang form="personification">stubborn will</figLang><punc type="period">.</punc> </l>
+<l n="5">Yet would we die as some have done<punc type="period">.</punc> </l>
+<l n="6">Beating a way for the rising sun<punc type="period">.</punc></l>
+</stanza>
 </poem>
