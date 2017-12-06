@@ -8,9 +8,9 @@
     
     <xsl:output method="xml" encoding="utf-8"/>
     
-    <xsl:template match="line">
-        <line n="{count(preceding-sibling::line) + 1}">
+    <xsl:template match="l">
+        <l n="{count(preceding-sibling::l) + 1}">
             <xsl:apply-templates/>
-        </line>
+        </l>
     </xsl:template>
 </xsl:stylesheet>

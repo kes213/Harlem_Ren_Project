@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
- <title poet="Popel_Esther">Flag Salute</title>
+ <title poet="Popel_E">Flag Salute</title>
     <stanza>
-        <l n="1">"I pledge allegiance to the flag"— </l>
+    <l n="1">"I pledge allegiance to the flag"— </l>
     <l n="2">"They dragged him naked </l>
     <l n="3">"Through the muddy streets<punc type="comma">,</punc> </l>
     <l n="4">"A feeble-minded black boy<punc type="exclamation_point">!</punc></l> 
@@ -12,7 +12,7 @@
     <l n="6">"Upon an aged woman<punc type="exclamation_point">!</punc>"</l>
     <l n="7">"Of the United States of America"— </l>
     <l n="8">"One mile they dragged him </l>
-   <l n="9">Like a sack of meal, </l>
+   <l n="9"><figLang form="simile">Like a sack of meal,</figLang> </l>
     <l n="10">"A rope around his neck<punc type="comma">,</punc></l> 
     <l n="11">"A bloody ear </l>
     <l n="12">"Left dangling by the patriotic hand</l> 

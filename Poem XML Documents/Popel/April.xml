@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    <title poet="Popel_Esther">April</title>
+    <title poet="Popel_E">April</title>
     <stanza>
 <l n="1"><figLang form="metaphor">April is a wanton</figLang></l>
 <l n="2"><figLang form="personification">With her </figLang><punc type="comma">cool</punc><punc type="comma">,slim,</punc> searching fingers</l>

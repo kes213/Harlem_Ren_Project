@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+<title poet="Popel_E">Grant Me Strength</title>
+
+<stanza>
+<l n="1">Give me the strength</l> 
+<l n="2">Of verdant hills</l> 
+<l n="3">Washed clean by summer rain<punc type="semicolon">;</punc></l>
+</stanza>
+
+<stanza>
+<l n="1">Of purple hills </l>
+<l n="2">At peace when weary Day </l>
+<l n="3">Sinks quietly to rest</l> 
+<l n="4">In <figLang form="personification">Night's cool arms</figLang><punc type="semicolon">;</punc></l>
+</stanza> 
+
+<stanza>
+<l n="1">Of rugged<punc type="comma">,</punc> wind-whipped hills </l>
+<l n="2"><figLang form="personification">That lift their heads</figLang></l> 
+<l n="3">Above the petty<punc type="comma">,</punc> lowland<punc type="comma">,</punc> valley things<punc type="comma">,</punc></l>
+<l n="4"><figLang form="personification">And shake their shoulders free</figLang></l>
+<l n="5">Of bonds that hold </l>
+<l n="6">Them close to earth<punc type="semicolon">;</punc></l>
+</stanza> 
+
+<stanza>
+<l n="1">Of snow-capped hills</l> 
+<l n="2">Sun-kissed by day<punc type="comma">,</punc> by night </l>
+<l n="3">Companioned by the stars<punc type="semicolon">;</punc></l>
+</stanza> 
+
+<stanza>
+<l n="1">Of grim volcanoes </l>
+<l n="2"><figLang form="personification">Pregnant with the fires</figLang></l> 
+<l n="3">Of molten fury!</l>
+</stanza> 
+
+<stanza>
+<l n="1">Grant me strength<punc type="comma">,</punc></l> 
+<l n="2">Great God<punc type="comma">,</punc></l>
+<l n="3"><figLang form="simile">Like that of hills!</figLang></l>
+</stanza> 
+</poem>

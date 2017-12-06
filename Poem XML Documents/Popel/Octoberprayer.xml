@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    <title poet="Popel_Esther">October Prayer</title>
+    <title poet="Popel_E">October Prayer</title>
     
 <stanza>
 <l n="1">Change me, oh God<punc type="comma">,</punc> </l>
@@ -12,7 +12,7 @@
 <l n="5">Drape me in a</l> 
 <l n="6">Leafy gown, </l>
 <l n="7">And deck my soul</l> 
-<l n="8">In dancing flakes of gold<punc type="exclamation_point">!</punc></l>
+<l n="8">In <figLang form="personification">dancing flakes of gold</figLang><punc type="exclamation_point">!</punc></l>
 <l n="9">And then when Death</l> 
 <l n="10"><figLang form="personification">Comes by, and with his hands</figLang> </l>
 <l n="11">Strips off my rustling garment</l> 
@@ -22,7 +22,7 @@
 <l n="15">All the strength in me revealed</l> 
 <l n="16">Against the sky<punc type="exclamation_point">!</punc></l>
 <l n="17">Oh, God </l>
-<l n="18">Make me an autumn tree </l>
+<l n="18"><figLang form="metaphor">Make me an autumn tree </figLang></l>
 <l n="19">If I must die<punc type="exclamation_point">!</punc></l>
 </stanza> 
 </poem>
