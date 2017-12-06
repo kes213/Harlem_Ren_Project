@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-    <coder>TL</coder>
-<header>
-<title>To America</title>
-<byLine poet="Johnson_JW">James Weldon Johnson</byLine>
-</header>
-<content>
-<line n="1" stanza="1">How would you have us<punc type="comma">,</punc> as we are?</line>
-<line n="2" stanza="1">Or sinking <punc type="open_parenthesis">'</punc>neath the load we bear<punc type="question_mark">?</punc></line>
-<line n="3" stanza="1">Our eyes fixed forward on a star<punc type="question_mark">?</punc></line>
-<line n="4" stanza="1">Or gazing empty at despair<punc type="question_mark">?</punc></line>
-
-<line n="5" stanza="2">Rising or falling<punc type="question_mark">?</punc> Men or things?</line>
-<line n="6" stanza="2">With dragging pace or footsteps fleet<punc type="question_mark">?</punc></line>
-<line n="7" stanza="2">Strong<punc type="comma">,</punc> willing sinews in your wings<punc type="question_mark">?</punc></line>
-<line n="8" stanza="2">Or tightening chains about your feet<punc type="question_mark">?</punc></line>
-    </content>
+    <title poet="Johnson_JW">To America</title>
+<stanza>
+<l n="1">How would you have us<punc type="comma">,</punc> as we are?</l>
+<l n="2">Or sinking <punc type="open_parenthesis">'</punc>neath the load we bear<punc type="question_mark">?</punc></l>
+<l n="3">Our eyes fixed forward on a star<punc type="question_mark">?</punc></l>
+<l n="4">Or gazing empty at despair<punc type="question_mark">?</punc></l>
+</stanza>
+    <stanza>
+<l n="5">Rising or falling<punc type="question_mark">?</punc> Men or things?</l>
+<l n="6">With dragging pace or footsteps fleet<punc type="question_mark">?</punc></l>
+<l n="7">Strong<punc type="comma">,</punc> willing sinews in your wings<punc type="question_mark">?</punc></l>
+<l n="8">Or tightening chains about your feet<punc type="question_mark">?</punc></l>
+    </stanza>
 </poem>

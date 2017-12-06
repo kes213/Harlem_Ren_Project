@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="../../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-    <coder>TL</coder>
-    <header>
-<title>Mother Night</title>
-<byLine poet="Johnson_JW">James Weldon Johnson</byLine>
-    </header>
-<content>
-<line n="1" stanza="1">Eternities before the first-born day<punc type="comma">,</punc></line>
-<line n="2" stanza="1">Or ere the first sun fledged his wings of flame<punc type="comma">,</punc></line>
-<line n="3" stanza="1">Calm Night, the everlasting and the same<punc type="comma">,</punc></line>
-<line n="4" stanza="1">A brooding mother over chaos lay<punc type="period">.</punc></line>
-<line n="5" stanza="1">And whirling suns shall blaze and then decay<punc type="comma">,</punc></line>
-<line n="6" stanza="1">Shall run their fiery courses and then claim</line>
-<line n="7" stanza="1">The haven of the darkness whence they came<punc type="semicolon">;</punc></line>
-<line n="8" stanza="1">Back to Nirvanic peace shall grope their way<punc type="period">.</punc></line>
-
-<line n="9" stanza="2">So when my feeble sun of life burns out<punc type="comma">,</punc></line>
-<line n="10" stanza="2">And sounded is the hour for my long sleep<punc type="comma">,</punc></line>
-<line n="11" stanza="2">I shall<punc type="comma">,</punc> full weary of the feverish light<punc type="comma">,</punc></line>
-<line n="12" stanza="2">Welcome the darkness without fear or doubt<punc type="comma">,</punc></line>
-<line n="13" stanza="2">And heavy-lidded<punc type="comma">,</punc>I shall softly creep</line>
-<line n="14" stanza="2">Into the quiet bosom of the Night<punc type="period">.</punc></line>
-</content>
+<title poet="Johnson_JW">Mother Night</title>
+<stanza>
+<l n="1">Eternities before the first-born day<punc type="comma">,</punc></l>
+<l n="2">Or ere the first sun fledged his wings of flame<punc type="comma">,</punc></l>
+<l n="3">Calm Night, the everlasting and the same<punc type="comma">,</punc></l>
+<l n="4">A brooding mother over chaos lay<punc type="period">.</punc></l>
+<l n="5">And whirling suns shall blaze and then decay<punc type="comma">,</punc></l>
+<l n="6">Shall run their fiery courses and then claim</l>
+<l n="7">The haven of the darkness whence they came<punc type="semicolon">;</punc></l>
+<l n="8" >Back to Nirvanic peace shall grope their way<punc type="period">.</punc></l>
+</stanza>
+<stanza>
+<stanza>
+<l n="9"">So when my feeble sun of life burns out<punc type="comma">,</punc></line>
+<l n="10">And sounded is the hour for my long sleep<punc type="comma">,</punc></line>
+<l n="11">I shall<punc type="comma">,</punc> full weary of the feverish light<punc type="comma">,</punc></line>
+<l n="12">Welcome the darkness without fear or doubt<punc type="comma">,</punc></line>
+<l n="13">And heavy-lidded<punc type="comma">,</punc>I shall softly creep</line>
+<l n="14">Into the quiet bosom of the Night<punc type="period">.</punc></line>
+</stanza>
 </poem>

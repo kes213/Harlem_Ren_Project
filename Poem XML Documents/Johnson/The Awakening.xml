@@ -1,33 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="../../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
-  <coder>TL</coder>  
-<header>
-<title>The Awakening</title>
-<byLine poet="Johnson_JW">James Weldon Johnson</byLine>
-</header>
-    <content>
-<line n="1" stanza="1">I dreamed that I was a rose</line>
-<line n="2" stanza="1">That grew beside a lonely way<punc type="comma"></punc></line>
-<line n="3" stanza="1">Close by a path none ever chose<punc type="comma"></punc></line>
-<line n="4" stanza="1">And there I lingered day by day<punc type="period">.</punc></line>
-<line n="5" stanza="1">Beneath the sunshine and the shower</line>
-<line n="6" stanza="1">I grew and waited there apart<punc type="comma">,</punc></line>
-<line n="7" stanza="1">Gathering perfume hour by hour<punc type="comma">,</punc></line>
-<line n="8" stanza="1">And storing it within my heart<punc type="colon">,</punc></line>
-<line n="9" stanza="1">Yet<punc type="comma">,</punc> never knew<punc type="comma">,</punc></line>
-<line n="10" stanza="1">Just why I waited there and grew.</line>
-
-<line n="11" stanza="2">I dreamed that you were a bee</line>
-<line n="12" stanza="2">That one day gaily flew along<punc type="comma">,</punc></line>
-<line n="13" stanza="2">You came across the hedge to me<punc type="comma">,</punc></line>
-<line n="14" stanza="2">And sang a soft<punc type="comma">,</punc>love-burdened song<punc type="period">.</punc></line>
-<line n="15" stanza="2">You brushed my petals with a kiss<punc type="comma">,</punc></line>
-<line n="16" stanza="2">I woke to gladness with a start<punc type="comma">,</punc></line>
-<line n="17" stanza="2">And yielded up to you in bliss</line>
-<line n="18" stanza="2">The treasured fragrance of my heart<punc type="semicolon">;</punc></line>
-<line n="19" stanza="2">And then I knew</line>
-<line n="20" stanza="2">That I had waited there for you<punc type="period">.</punc></line>
-    </content>
+    <title poet="Johnson_JW">The Awakening</title>
+    <stanza>
+<l n="1">I dreamed that I was a rose</l>
+<l n="2">That grew beside a lonely way<punc type="comma"></punc></l>
+<l n="3">Close by a path none ever chose<punc type="comma"></punc></l>
+<l n="4">And there I lingered day by day<punc type="period">.</punc></l>
+<l n="5">Beneath the sunshine and the shower</l>
+<l n="6">I grew and waited there apart<punc type="comma">,</punc></l>
+<l n="7">Gathering perfume hour by hour<punc type="comma">,</punc></l>
+<l n="8">And storing it within my heart<punc type="colon">,</punc></l>
+<l n="9">Yet<punc type="comma">,</punc> never knew<punc type="comma">,</punc></l>
+<l n="10">Just why I waited there and grew.</l>
+    </stanza>
+<stanza>
+<l n="11">I dreamed that you were a bee</l>
+<l n="12">That one day gaily flew along<punc type="comma">,</punc></l>
+<l n="13">You came across the hedge to me<punc type="comma">,</punc></l>
+<l n="14">And sang a soft<punc type="comma">,</punc>love-burdened song<punc type="period">.</punc></line>
+<l n="15">You brushed my petals with a kiss<punc type="comma">,</punc></l>
+<l n="16">I woke to gladness with a start<punc type="comma">,</punc></l>
+<l n="17">And yielded up to you in bliss</l>
+<l n="18">The treasured fragrance of my heart<punc type="semicolon">;</punc></l>
+<l n="19">And then I knew</l>
+<l n="20">That I had waited there for you<punc type="period">.</punc></l>
+    </stanza
 </poem>
