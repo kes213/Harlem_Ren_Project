@@ -4,7 +4,11 @@
 <poem>
     <title poet="Bontemps_A">Southern Mansion</title>
 <stanza>
+<<<<<<< HEAD
 <l n="1"><figLang form="simile">Poplars are standing there still as death </figLang></l>
+=======
+<l n="1">Poplars are standing there still as death </l>
+>>>>>>> a3bc0da2b3206f202ff8cf10d0a33c9e22f41486
 <l n="2">And ghosts of dead men </l>
 <l n="3">Meet their ladies walking </l>
 <l n="4">Two by two beneath the shade </l>
@@ -20,9 +24,16 @@
 <stanza>
 <l n="11">The years go back with an iron clank<punc type="comma">,</punc> </l>
 <l n="12">A hand is on the gate<punc type="comma">,</punc> </l>
+<<<<<<< HEAD
 <l n="13"><figLang form="personification">A dry leaf trembles on the wall</figLang><punc type="period">.</punc> </l>
 <l n="14">Ghosts are walking<punc type="period">.</punc> </l>
 <l n="15">They have broken roses down </l>
 <l n="16"><figLang form="simile">And poplars stand there still as death</figLang><punc type="period">.</punc></l>
+=======
+<l n="13">A dry leaf trembles on the wall<punc type="period">.</punc> </l>
+<l n="14">Ghosts are walking<punc type="period">.</punc> </l>
+<l n="15">They have broken roses down </l>
+<l n="16">And poplars stand there still as death<punc type="period">.</punc></l>
+>>>>>>> a3bc0da2b3206f202ff8cf10d0a33c9e22f41486
 </stanza>
 </poem>

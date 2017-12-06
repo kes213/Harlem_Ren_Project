@@ -4,6 +4,7 @@
 <poem>
     <title poet="Bontemps_A">Nocturne of the Wharves</title>
 <stanza>
+<<<<<<< HEAD
 <l n="1"><figLang form="personification">All night they whine upon their ropes and boom </figLang></l>
 <l n="2">against the dock with helpless prows<punc type="colon">:</punc> </l>
 <l n="3">these little ships that are too worn for sailing </l>
@@ -17,11 +18,30 @@
     </stanza>
 <stanza>
 <l n="11">Tugging at the dim gray wharf <figLang form="personification">they think </figLang></l>
+=======
+<line n="1" stanza="1">All night they whine upon their ropes and boom </line>
+<line n="2" stanza="1">against the dock with helpless prows<punc type="colon">:</punc> </line>
+<line n="3" stanza="1">these little ships that are too worn for sailing </line>
+<line n="4" stanza="1">front the wharf but do not rest at all<punc type="period">.</punc></line>
+<line n="5" stanza="1">Tugging at the dim gray wharf they think </line>
+<line n="6" stanza="1">no doubt of China and of bright Bombay<punc type="comma">,</punc></line>
+<line n="7" stanza="1">and they remember islands of the East<punc type="comma">,</punc> </line>
+<line n="8" stanza="1">Formosa and the mountains of Japan<punc type="period">.</punc> </line>
+<line n="9" stanza="1">They think of cities ruined by the sea </line>
+<line n="10" stanza="1">and they are restless, sleeping at the wharf<punc type="period">.</punc></line>
+    </stanza>
+<stanza>
+<l n="11">Tugging at the dim gray wharf they think </l>
+>>>>>>> a3bc0da2b3206f202ff8cf10d0a33c9e22f41486
 <l n="12">no less of Africa<punc type="period">.</punc> An east wind blows </l>
 <l n="13">and salt spray sweeps the unattended decks<punc type="period">.</punc> </l>
 <l n="14">Shouts of dead men break upon the night<punc type="period">.</punc> </l>
 <l n="15">The captain calls his crew and they respond<punc type="dash">-</punc><punc type="dash">-</punc> </l>
+<<<<<<< HEAD
 <l n="16"><figLang form="personification">the little ships are dreaming</figLang><punc type="dash">-</punc><punc type="dash">-</punc>land is near<punc type="period">.</punc> </l>
+=======
+<l n="16">the little ships are dreaming<punc type="dash">-</punc><punc type="dash">-</punc>land is near<punc type="period">.</punc> </l>
+>>>>>>> a3bc0da2b3206f202ff8cf10d0a33c9e22f41486
 <l n="17">But mist comes up to dim the copper coast<punc type="comma">,</punc> </l>
 <l n="18">mist dissembles images of the trees<punc type="period">.</punc> </l>
 <l n="19">The captain and his men alike are lost </l>
@@ -29,7 +49,11 @@
 </stanza>
 <stanza>
 <l n="21">Ah little ships<punc type="comma">,</punc> I know your weariness<punc type="exclamation_point">!</punc> </l>
+<<<<<<< HEAD
 <l n="22">I know the sea<punc type="dash">-</punc><figLang form="metaphor">green shadows of your dream</figLang><punc type="period">.</punc> </l>
+=======
+<l n="22">I know the sea<punc type="dash">-</punc>green shadows of your dream<punc type="period">.</punc> </l>
+>>>>>>> a3bc0da2b3206f202ff8cf10d0a33c9e22f41486
 <l n="23">For I have loved the cities of the sea<punc type="comma">,</punc> </l>
 <l n="24">and desolations of the old days </l>
 <l n="25">I have loved<punc type="colon">:</punc> I was a wanderer like you </l>

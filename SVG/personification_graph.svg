@@ -41,5 +41,18 @@
                 <!-- Hughes -->
         <rect x="90" y="-50" height="50" width="50" fill="green"/>
         <text x="105" y="-60" style="font-family:sans-serif;font-size:15px">17%</text>
+        
+                 <!-- Spencer -->
+        
+                 <!-- Johnson -->
+        
+                <!-- Bontemps -->
+        <rect x="330" y="-233" height="233" width="50" fill="green"/>
+        <text x="345" y="-243" style="font-family:sans-serif;font-size:15px">78%</text>
+        
+        
+                <!-- Newsome -->
+        
+                <!-- Popel -->
     </g>
 </svg>
