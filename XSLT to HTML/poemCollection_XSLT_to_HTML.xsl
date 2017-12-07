@@ -66,7 +66,7 @@
         <p>
             <xsl:apply-templates select="stanza"/>
         </p>
-        <button><a href="Popel_poemCollection_page.html">Click here to return to the top of the page.</a></button>
+        <p><a href="Newsome_poemCollection_page.html">Click here to return to the top of the page.</a></p>
     </xsl:template>
     
     <xsl:template match="stanza">
