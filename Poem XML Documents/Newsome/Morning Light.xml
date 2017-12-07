@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="schema.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
    
     
@@ -15,13 +15,13 @@
         </stanza>
         
       <stanza>
-          <l n="3">Brother to the firefly—</l>
+        <l n="3">Brother to the firefly<punc type="dash">—</punc></l>
         <l n="4">For as the firefly lights the night</l>
-        <l n="5">So lights he the morning—</l>
+        <l n="5">So lights he the morning<punc type="dash">—</punc></l>
         <l n="6">Bathed in the dank dews as he goes forth</l>
         <l n="7">Through heavy menace and mystery</l>
         <l n="8"><figLang form="personification">Of half-waking tropic dawns</figLang></l>
-        <l n="9">Behold a little black bo<punc type="comma">y, a naked black boy</punc>,</l>
+        <l n="9">Behold a little black boy<punc type="comma">,</punc> a naked black boy<punc type="comma">,</punc></l>
         <l n="10">Sweeping aside with his slight frame</l>
         <l n="11"><figLang form="personification">Night’s pregnant tears,</figLang></l>
         <l n="12">And making a morning path to the light</l>
@@ -30,16 +30,16 @@
         <stanza>
         
         <l n="14">Bathed in the blood of battle</l>
-        <l n="15">Treading toward a new morning,</l>
+          <l n="15">Treading toward a new morning<punc type="comma">,</punc></l>
         <l n="16">May not his race—its body long bared to the world’s disdain<punc type="comma"></punc>,</l>
-        <l n="17">Its face schooled to smile for a light to come—</l>
+          <l n="17">Its face schooled to smile for a light to come<punc type="dash">—</punc></l>
         <l n="18">May not his race<punc type="comma">,</punc> even as the dew-boy leads<punc type="comma">,</punc></l>
         <l n="19">Bear onward the world toward a new day-dawn</l>
         <l n="20">When tolerance, forgiveness<punc type="comma">,</punc></l>
         <l n="21">Such as reigned in the heart of One</l>
-        <l n="22">Whose heart was gold,</l>
+          <l n="22">Whose heart was gold<punc type="comma">,</punc></l>
         <l n="23">Shall shape the earth for that fresh dawning</l>
-        <l n="24">After the dews of blood?</l></stanza>
+        <l n="24">After the dews of blood<punc type="question_mark">?</punc></l></stanza>
         
     
     

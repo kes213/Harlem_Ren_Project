@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
 
  
@@ -14,9 +15,9 @@
         <l n="3">I make believe each one's a square</l>
         <l n="4">Of some great quilt up in the air<punc type="period">.</punc></l>
         <l n="5"><figLang form="metaphor">The blocks of gold have black between</figLang></l>
-        <l n="6">Wherever only night is seen.</l>
-        <l n="7">It surely makes a mammoth quilt —</l>
-        <l n="8">With bits of dark and checks of gilt —</l>
+        <l n="6">Wherever only night is seen<punc type="period">.</punc></l>
+        <l n="7">It surely makes a mammoth quilt  <punc type="dash">—</punc></l>
+        <l n="8">With bits of dark and checks of gilt <punc type="dash">—</punc></l>
         <l n="9"><figLang form="metaphor">To cover up the tired day</figLang></l>
         <l n="10">In such a cozy sort of way<punc type="period">.</punc></l>
     </stanza>

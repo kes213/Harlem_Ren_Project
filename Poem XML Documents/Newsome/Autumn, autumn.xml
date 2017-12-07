@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../Documents/GitHub/DHClass-Hub/Harlem_Ren_Project/Poem%20XML%20Documents/Spencer/schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="HarlemRen.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
     
     <title poet="Spencer_A">Autumn, Autumn!</title>
