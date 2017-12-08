@@ -5,7 +5,7 @@
     <title poet="Johnson_JW">O Black and Unkown Bards</title>
     <stanza>
 <l n="1">O black and unknown bards of long ago<punc type="comma">,</punc></l>
-<l n="2">How came your lips to touch the sacred fire<punc type="question_mark">?</punc></l>
+<l n="2"><figLang form="personification">How came your lips to touch the sacred fire</figLang><punc type="question_mark">?</punc></l>
 <l n="3">How<punc type="comma">,</punc> in your darkness<punc type="comma">,</punc> did you come to know</>
 <l n="4">The power and beauty of the minstrel’s lyre<punc type="question_mark">?</punc></l>
 <l n="5">Who first from midst his bonds lifted his eyes <punc type="question_mark">?</punc></line>
@@ -38,10 +38,10 @@
 <l n="26">Of harmonies that thundered amongst the stars</l>
 <l n="27">At the creation<punc type="comma">,</punc> ever heard a theme</l>
 <l n="28">Nobler than <punc type="open_parenthesis">"</punc>Go down<punc type="comma">,</punc> Moses<punc type="period">.</punc><punc type="closed_parenthesis">"</punc> Mark its bars</l>
-<l n="29">How like a mighty trumpet-call they stir</l>
+<l n="29"><figLang form="simile">How like a mighty trumpet-call they stir</figLang></l>
 <l n="30">The blood<punc type="period">.</punc> Such are the notes that men have sung</l>
 <l n="31">Going to valorous deeds<punc type="semicolon">;</punc> such tones there were</l>
-<l n="32">That helped make history when Time was young<punc type="period">.</punc></l>
+<l n="32">That helped make history <figLang form="personification">when Time was young</figLang><punc type="period">.</punc></l>
 </stanza>
 <stanza>
 <l n="33">There is a wide<punc type="comma">,</punc> wide wonder in it all<punc type="comma">,</punc></l>

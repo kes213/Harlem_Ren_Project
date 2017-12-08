@@ -5,13 +5,13 @@
 <title poet="Spencer_A">The Wife-Woman</title>
 
 <stanza>
-    <l n="1">Maker-of-Sevens in the schemeof things</l>
+    <l n="1"><figLang form="metaphor">Maker-of-Sevens in the schemeof thing</figLang>s</l>
 <l n="2">to star<punc type="semicolon">;</punc></l>
 <l n="3">Thy cycle holds whatever is fate, and</l>
 <l n="4">Over the border the bar.</l>
 <l n="5">Though rank and fierce<figLang form="metaphor">the mariner</figLang></l>
 <l n="6">Sailing the seven seas<punc type="comma">,</punc></l>
-<l n="7">He prays as he holds his glass to his eyes</l>
+<l n="7"><figLang form="metaphor">He prays as he holds his glass to his eyes</figLang></l>
 <l n="8">Coaxing the Pleiades <punc type="period">.</punc></l>
 </stanza>
     <stanza>
@@ -19,7 +19,7 @@
 <l n="10" >Chiding from the grave<punc type="comma">,</punc></l>
 <l n="11">That my all was only worth at all<punc type="comma">,</punc> what</l>
 <l n="12">Joy to you it gave,</l>
-<l n="13">These seven links the Law compelled</l>
+<l n="13"><figLang form="personification">These seven links the Law compelled</figLang></l>
 <l n="14">For the human chain—</l>
 <l n="15">I cannot love them<punc type="semicolon">;</punc> and you, oh,</l>
 <l n="16">Seven-fold months in Flanders slain!</l>

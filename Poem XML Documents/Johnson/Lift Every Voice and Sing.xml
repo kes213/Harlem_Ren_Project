@@ -11,8 +11,8 @@
 <l n="4">Let our rejoicing rise</l>
 <l n="4">High as the listning skies<punc type="comma">,</punc></l>
 <l n="6">Let it resound loud as the rolling sea<punc type="period">.</punc></l>
-<l n="7">Sing a song full of the faith that the dark past has taught us<punc type="comma">,</punc></l>
-<l n="8">Sing a song full of the hope that the present has brought us<punc type="semicolon">;</punc></l>
+<l n="7">Sing a song full of the faith that the <figLang form="personification">dark past has taught us</figLang><punc type="comma">,</punc></l>
+<l n="8">Sing a song full of the hope that <figLang form="personification">the present has brought us</figLang><punc type="semicolon">;</punc></l>
 <l n="9">Facing the rising sun of our new day begun<punc type="comma">,</punc></l>
 <l n="10">Let us march on till victory is won<punc type="period">.</punc></l>
 </stanza>

@@ -6,7 +6,7 @@
 <title poet="Spencer_A">Life Long, Poor Browning</title>
 
 <stanza>
-    <l n="1">Life-long, poor Browning never knew Virginia,</l>
+    <l n="1"><figLang form="metaphor">Life-long, poor Browning </figLang>never knew Virginia,</l>
     <l n="2">>Or he'd not grieved in Florence for April sallies</l>
     <l n="3">Back to English gardens after Euclid's linear<punc type="colon">:</punc></l>
     <l n="4">Clipt yews, Pomander Walks, and preached alleys<punc type="semicolon">;</punc> </l>
@@ -23,7 +23,7 @@
 <stanza>
    <l n="9">Dead, now, dear Browning, lives on in heaven,--</l>
    <l n="10">(Heaven's Virginia when the year's at its Spring)</l>
-   <l n="11">He's haunting the byways of wine-aired leaven</l>
+   <l n="11"><figLang form="metaphor">He's haunting the byways of wine-aired leave</figLang>n</l>
    <l n="12">And throating the notes of the wildings on wing<punc type="semicolon">;</punc></l>
 </stanza>
     

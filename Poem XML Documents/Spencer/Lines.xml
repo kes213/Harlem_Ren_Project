@@ -5,7 +5,7 @@
 <title poet="Spencer_A">Lines to a Nasturtium</title>
 <stanza>
 <l n="1">Flame-flowe<punc type="comma">r,Day-torch, Mauna Loa,</punc></l>
-<l n="2">I saw a daring <punc type="comma">bee, today, pause, and soar,</punc></l>
+<l n="2"><figLang form="metaphor">I saw a daring</figLang> <punc type="comma">bee, today, pause, and soar,</punc></l>
 <l n="3">Into your flaming heart<punc type="semicolon">;</punc> </l>
 <l n="4">Then did I hear crisp crinkled laughter</l>
 <l n="5">As the furies after tore him apart<punc type="question_mark">?</punc> </l>
@@ -27,10 +27,10 @@
 <l n="18"><figLang form="metaphor">Her eyes a rising star,</figLang></l>
 <l n="19">Motions gracious as reeds by Babylon, bar</l>
 <l n="20">All your competing;</l>
-<l n="21">Hands like, how like, brown lilies sweet,</l>
+<l n="21"><figLang form="simile">Hands like, how like, brown lilies sweet,</figLang></l>
 <l n="22">Cloth of gold were fair enough to touch her feet . . . .</l>
 <l n="23">Ah, how the senses flood at my repeating,</l>
-<l n="24">As once in her fire-lit heart I felt the furies</l>
+<l n="24">A<figLang form="personification">s once in her fire-lit heart I felt the furies</figLang></l>
 <l n="25">Beating, beating.</l>
 </stanza>
 </poem>

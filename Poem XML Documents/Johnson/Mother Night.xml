@@ -15,11 +15,11 @@
 </stanza>
 <stanza>
 <stanza>
-<l n="9"">So when my feeble sun of life burns out<punc type="comma">,</punc></line>
-<l n="10">And sounded is the hour for my long sleep<punc type="comma">,</punc></line>
+<l n="9"">S<figLang form="metaphor">o when my feeble sun of life burns out</figLang><punc type="comma">,</punc></line>
+<l n="10"><figLang form="metaphor">And sounded is the hour for my long sleep</figLang><punc type="comma">,</punc></line>
 <l n="11">I shall<punc type="comma">,</punc> full weary of the feverish light<punc type="comma">,</punc></line>
 <l n="12">Welcome the darkness without fear or doubt<punc type="comma">,</punc></line>
 <l n="13">And heavy-lidded<punc type="comma">,</punc>I shall softly creep</line>
-<l n="14">Into the quiet bosom of the Night<punc type="period">.</punc></line>
+<l n="14">Into the quiet <figLang form="metaphor">bosom of the Night</figLang><punc type="period">.</punc></line>
 </stanza>
 </poem>

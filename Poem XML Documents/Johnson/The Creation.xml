@@ -59,13 +59,13 @@
     <stanza>
 <l n="42">Then the green grass sprouted<punc type="comma">,</punc></l>
 <l n="43">And the little red flowers blossomed<punc type="comma">,</punc></l>
-<l n="44">The pine tree pointed his finger to the sky<punc type="comma">,</punc></l>
-<l n="45">And the oak spread out his arms<punc type="comma">,</punc></l>
+<l n="44">The pine tree <figLang form="personification>pointed his finger to the sky</figLang><punc type="comma">,</punc></l>
+<l n="45">And <figLang form="personification">the oak spread out his arms</figLang><punc type="comma">,</punc></l>
 <l n="46">The lakes cuddled down in the hollows of the ground<punc type="comma">,</punc></l>
 <l n="47">And the rivers ran down to the sea<punc type="semicolon">;</punc></l>
 <l n="48">And God smiled again<punc type="comma">,</punc> </l>
 <l n="49">And the rainbow appeared<punc type="comma">,</punc></l>
-<l n="50">And curled itself around his shoulder<punc type="period">.</punc></l>
+<l n="50"><figLang form="personification>And curled itself around his shoulder</figLang><punc type="period">.</punc></l>
 </stanza>
     <stanza>
 <l n="51">Then God raised his arm and he waved his hand</l>

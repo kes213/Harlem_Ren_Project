@@ -7,7 +7,7 @@
 <l n="1">I dreamed that I was a rose</l>
 <l n="2">That grew beside a lonely way<punc type="comma"></punc></l>
 <l n="3">Close by a path none ever chose<punc type="comma"></punc></l>
-<l n="4">And there I lingered day by day<punc type="period">.</punc></l>
+<l n="4"><figLang form="metaphor">And there I lingered day by day</figLang><punc type="period">.</punc></l>
 <l n="5">Beneath the sunshine and the shower</l>
 <l n="6">I grew and waited there apart<punc type="comma">,</punc></l>
 <l n="7">Gathering perfume hour by hour<punc type="comma">,</punc></l>
@@ -20,10 +20,10 @@
 <l n="12">That one day gaily flew along<punc type="comma">,</punc></l>
 <l n="13">You came across the hedge to me<punc type="comma">,</punc></l>
 <l n="14">And sang a soft<punc type="comma">,</punc>love-burdened song<punc type="period">.</punc></line>
-<l n="15">You brushed my petals with a kiss<punc type="comma">,</punc></l>
+<l n="15"><figLang form="metaphor">You brushed my petals with a kiss</figLang><punc type="comma">,</punc></l>
 <l n="16">I woke to gladness with a start<punc type="comma">,</punc></l>
 <l n="17">And yielded up to you in bliss</l>
-<l n="18">The treasured fragrance of my heart<punc type="semicolon">;</punc></l>
+<l n="18"><figLang form="metaphor">The treasured fragrance of my heart</figLang><punc type="semicolon">;</punc></l>
 <l n="19">And then I knew</l>
 <l n="20">That I had waited there for you<punc type="period">.</punc></l>
     </stanza
