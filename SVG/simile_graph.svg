@@ -19,23 +19,23 @@
         <line x1="0" y1="0" x2="0" y2="-300" stroke="black" stroke-width="2"/>
         
         <!-- X-axis Labels -->
-        <text x="20" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">McKay</text>
-        <text x="100" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Hughes</text>
-        <text x="180" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Spencer</text>
-        <text x="260" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Johnson</text>
-        <text x="340" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Bontemps</text>
-        <text x="420" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Newsome</text>
-        <text x="500" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Popel</text>
+        <text x="30" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">McKay</text>
+        <text x="110" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Hughes</text>
+        <text x="190" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Spencer</text>
+        <text x="270" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Johnson</text>
+        <text x="350" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Bontemps</text>
+        <text x="430" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Newsome</text>
+        <text x="510" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Popel</text>
         
         <!-- Y-axis Labels & Hashmarks -->
         <line x1="0" y1="-75" x2="550" y2="-70" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
-        <text x="-40" y="-70" style="font-family:sans-serif;font-size:20px">25%</text>
+        <text x="-50" y="-70" style="font-family:sans-serif;font-size:20px">25%</text>
         <line x1="0" y1="-150" x2="550" y2="-145" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
-        <text x="-40" y="-145" style="font-family:sans-serif;font-size:20px">50%</text>
+        <text x="-50" y="-145" style="font-family:sans-serif;font-size:20px">50%</text>
         <line x1="0" y1="-225" x2="550" y2="-220" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
-        <text x="-40" y="-220" style="font-family:sans-serif;font-size:20px">75%</text>
+        <text x="-50" y="-220" style="font-family:sans-serif;font-size:20px">75%</text>
         <line x1="0" y1="-300" x2="550" y2="-295" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
-        <text x="-40" y="-295" style="font-family:sans-serif;font-size:20px">100%</text>
+        <text x="-55" y="-295" style="font-family:sans-serif;font-size:20px">100%</text>
         
         <!-- Bars -->
                 <!-- McKay -->
@@ -46,6 +46,8 @@
         <text x="105" y="-160" style="font-family:sans-serif;font-size:15px">50%</text>
         
         <!-- Spencer -->
+        <rect x="170" y="-17" height="17" width="50" fill="blue"/>
+        <text x="185" y="-27" style="font-family:sans-serif;font-size:15px">6%</text>
         
         <!-- Johnson -->
         
@@ -55,6 +57,8 @@
         
         
         <!-- Newsome -->
+        <rect x="410" y="-164" height="164" width="50" fill="blue"/>
+        <text x="430" y="-174" style="font-family:sans-serif;font-size:15px">55%</text> 
         
         <!-- Popel -->
         <rect x="480" y="-33" height="33" width="50" fill="blue"/>

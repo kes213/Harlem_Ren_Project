@@ -9,8 +9,8 @@
         <!-- Yinterval = -5 -->
         <!-- max Y value = -300-->
         
-            <!-- Graph Title -->
-            <text x="-100" y="-350" style="font-family:sans-serif;font-size:30px">Personification Use Among Harlem Renaissance Poets</text>
+        <!-- Graph Title -->
+        <text x="-35" y="-350" style="font-family:sans-serif;font-size:30px">Period Use Among Harlem Renaissance Poets</text>
         
         <!-- X-axis Line -->  
         <line x1="0" y1="0" x2="550" y2="0" stroke="black" stroke-width="2"/>
@@ -38,31 +38,5 @@
         <text x="-55" y="-295" style="font-family:sans-serif;font-size:20px">100%</text>
         
         
-        <!-- Bars -->
-                <!-- McKay -->
-        <rect x="10" y="-200" height="200" width="50" fill="green"/>
-        <text x="25" y="-210" style="font-family:sans-serif;font-size:15px">67%</text>
-                <!-- Hughes -->
-        <rect x="90" y="-50" height="50" width="50" fill="green"/>
-        <text x="105" y="-60" style="font-family:sans-serif;font-size:15px">17%</text>
-        
-                 <!-- Spencer -->
-        <rect x="170" y="-150" height="150" width="50" fill="green"/>
-        <text x="185" y="-160" style="font-family:sans-serif;font-size:15px">50%</text>
-        
-                 <!-- Johnson -->
-        
-                <!-- Bontemps -->
-        <rect x="330" y="-233" height="233" width="50" fill="green"/>
-        <text x="345" y="-243" style="font-family:sans-serif;font-size:15px">78%</text>
-        
-        
-                <!-- Newsome -->
-        <rect x="410" y="-81" height="81" width="50" fill="green"/>
-        <text x="430" y="-91" style="font-family:sans-serif;font-size:15px">27%</text> 
-        
-                <!-- Popel -->
-            <rect x="480" y="-200" height="200" width="50" fill="green"/>
-            <text x="515" y="-210" style="font-family:sans-serif;font-size:15px">67%</text>
     </g>
 </svg>
