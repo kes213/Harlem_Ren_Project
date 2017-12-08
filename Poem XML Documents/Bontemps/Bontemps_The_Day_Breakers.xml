@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+    <title poet="Bontemps_A">The Day Breakers</title>
+    <stanza>
+        <l n="1">We are not come to wage a strife </l>
+        <l n="2">With swords upon this hill<punc type="comma">,</punc> </l>
+        <l n="3">It is not wise to waste the life </l>
+        <l n="4">Against a <figLang form="personification">stubborn will</figLang><punc type="period">.</punc> </l>
+        <l n="5">Yet would we die as some have done<punc type="period">.</punc> </l>
+        <l n="6">Beating a way for the rising sun<punc type="period">.</punc></l>
+    </stanza>
+</poem>

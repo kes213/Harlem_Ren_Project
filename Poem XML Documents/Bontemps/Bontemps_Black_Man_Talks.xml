@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<poem>
+    
+    <title poet="Bontemps_A">A Black Man Talks of Reaping.</title>
+    <stanza>
+        
+        <l n="1">I have sown beside all waters in my day<punc type="period">.</punc> </l>
+        <l n="2">I planted deep <punc type="comma">,</punc> within my heart the fear </l>
+        <l n="3">that wind or fowl would take the grain away <punc type="period">.</punc> </l>
+        <l n="4">I planted safe against this stark <punc type="comma">,</punc> lean year<punc type="period">.</punc></l>
+    </stanza>
+    <stanza>
+        
+        <l n="5">I scattered seed enough to plant the land </l>
+        <l n="6">in rows from Canada to Mexico </l>
+        <l n="7">but for my reaping only what the hand </l>
+        <l n="8" >can hold at once is all that I can show<punc type="period">.</punc></l>
+    </stanza>
+    <stanza>
+        <l n="9">Yet what I sowed and what the orchard yields </l>
+        <l n="10">my brothers sons are gathering stalk and root<punc type="semicolon">;</punc> </l>
+        <l n="11">small wonder then my children glean in fields </l>
+        <l n="12">they have not sown<punc type="comma">,</punc> and feed on bitter fruit<punc type="period">.</punc></l>
+    </stanza>
+</poem>

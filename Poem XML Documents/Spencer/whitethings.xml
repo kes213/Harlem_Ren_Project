@@ -9,41 +9,48 @@
         
 <stanza>
     <l n="1">Most things are colorful things</l>
-<l n="2">-the sky, earth, and sea. </l>
-<l n="3">Black men are most men; </l>
+    <l n="2"><punc type="dash">--</punc>the sky, earth, and sea<punc type="period">.</punc> </l>
+    <l n="3">Black men are most men<punc type="semicolon">;</punc> </l>
 <l n="4">but the white are free<punc type="exclamation_point">!</punc> </l>
     <l n="5">White things are rare things<punc type="semicolon">;</punc> </l>
     <l n="6">so rare<punc type="comma">,</punc> so rare </l>
     <l n="7">They stole from out a silvered </l>
-   <l n="8">world--somewhere<punc type="period">.</punc></l>
+   <l n="8">world<punc type="dash">--</punc>somewhere<punc type="period">.</punc></l>
 </stanza>
     <stanza>
       <l n="9">Finding earth-plains fair plains</l>
-   <l n="10">save greenly grassed, </l>
+        <l n="10">save greenly grassed<punc type="comma">,</punc> </l>
     <l n="11">They strewed white feathers of </l>
-    <l n="12">cowardice, as they passed<punc type="semicolon">;</punc></l>
+        <l n="12">cowardice<punc type="comma">,</punc> as they passed<punc type="semicolon">;</punc></l>
     </stanza>
 <stanza>
        <l n="13">The golden stars with lances fine<punc type="comma">,</punc></l> 
     <l n="14">The hills all red and darkened pine<punc type="comma">,</punc></l> 
-    <l n="15">They blanched with their want of power<punc type="semicolon">;</punc></l> 
+    <l n="15"><figLang form="personification">They blanched with their want of power</figLang><punc type="semicolon">;</punc></l> 
   <l n="16">And turned the blood in a ruby rose </l>
     <l n="17">To a poor white poppy-flower<punc type="period">.</punc></l>
 </stanza>
    <stanza>
+<<<<<<< HEAD
         <l n="18"><figLang form="metaphor">They pyred a race of black</figLang><punc type="comma">, black men,</punc> </l>
     <l n="19"><figLang form="metaphor">And burned them to ashes white</figLang><punc type="semicolon">;</punc> then,</l> 
     <l n="20">Laughing, a young one claimed a skull</l>
     <l n="21">For the skull of a black is white<punc type="comma">, not dull,</punc></l> 
+=======
+       <l n="18">They pyred a race of black<punc type="comma">,</punc> black men<punc type="comma">,</punc> </l>
+       <l n="19">And burned them to ashes white<punc type="semicolon">;</punc> then<punc type="comma">,</punc></l> 
+       <l n="20">Laughing<punc type="comma">,</punc> a young one claimed a skull</l>
+       <l n="21">For the skull of a black is white<punc type="comma">,</punc> not dull<punc type="comma">,</punc></l> 
+>>>>>>> d58e4d8772ee1a769b072911109c067490724b9b
     <l n="22">But a glistening awful thing</l>
 </stanza>
     
     
     <stanza>
-        <l n="23">Made, it seems, for this ghoul to swing </l>
-    <l n="24"><figLang form="metaphor">In the face of God with all his might</figLang>, </l>
-    <l n="25">And swear by the hell that sired him: </l>
-    <l n="26">"Man-maker, make white!"</l>
+        <l n="23">Made<punc type="comma">,</punc> it seems<punc type="comma">,</punc> for this ghoul to swing </l>
+        <l n="24"><figLang form="metaphor">In the face of God with all his might</figLang><punc type="comma">,</punc> </l>
+    <l n="25">And swear by the hell that sired him<punc type="colon">:</punc> </l>
+        <l n="26">"Man-maker<punc type="comma">,</punc> make white<punc type="exclamation_point">!</punc>"</l>
     
 </stanza>
     

@@ -4,22 +4,22 @@
 <poem>
     <title poet="Spencer_A">Translation </title>
 <stanza>
-<l n="1">We trekked into a far country, </l>
+<l n="1">We trekked into a far country<punc type="comma">,</punc> </l>
 <l n="2">My friend and I<punc type="period">.</punc> </l>
 <l n="3">Our deeper content was never spoken,</l>
 <l n="4">But each knew all the other said<punc type="period">.</punc></l>
 <l n="5">He told me how calm his soul was laid</l>
 <l n="6">By the lack of anvil and strife.</l>
-<l n="7">“The wooing kestrel,” I said, “mutes his mating-note</l>
-<l n="8">To please the harmony of this sweet silence.”</l>
+<l n="7">“The wooing kestrel<punc type="comma">,</punc>” I said<punc type="comma">,</punc> “mutes his mating-note</l>
+<l n="8">To please the harmony of this sweet silence<punc type="period">.</punc>”</l>
 <l n="9">And when at the day’s end</l>
 <l n="10"><figLang form="metaphor">We laid tired bodies ’gainst</figLang></l>
-<l n="11">The loose warm sands,</l>
+<l n="11">The loose warm sands<punc type="comma">,</punc></l>
 <l n="12">And the air fleeced its particles for a coverlet<punc type="semicolon">;</punc></l>
 <l n="13">When star after star came out</l>
-<l n="14"><figLang form="personification">To guard their lovers in oblivion</figLang>—</l>
+<l n="14"><figLang form="personification">To guard their lovers in oblivion</figLang><punc type="dash">—</punc></l>
 <l n="15"><figLang form="personification">My soul so leapt</figLang> that my evening prayer </l>
-<l n="16">Stole my morning song! </l>
+<l n="16"><figLang form="personification">Stole my morning song </figLang><punc type="exclamation_point">!</punc> </l>
 </stanza>
 
     

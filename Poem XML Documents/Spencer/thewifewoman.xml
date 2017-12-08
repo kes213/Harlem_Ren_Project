@@ -5,7 +5,11 @@
 <title poet="Spencer_A">The Wife-Woman</title>
 
 <stanza>
+<<<<<<< HEAD
     <l n="1"><figLang form="metaphor">Maker-of-Sevens in the schemeof thing</figLang>s</l>
+=======
+<l n="1">Maker-of-Sevens in the schemeof things</l>
+>>>>>>> d58e4d8772ee1a769b072911109c067490724b9b
 <l n="2">to star<punc type="semicolon">;</punc></l>
 <l n="3">Thy cycle holds whatever is fate, and</l>
 <l n="4">Over the border the bar.</l>

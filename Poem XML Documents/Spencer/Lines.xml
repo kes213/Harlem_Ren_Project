@@ -4,33 +4,35 @@
 <poem>
 <title poet="Spencer_A">Lines to a Nasturtium</title>
 <stanza>
-<l n="1">Flame-flowe<punc type="comma">r,Day-torch, Mauna Loa,</punc></l>
-<l n="2"><figLang form="metaphor">I saw a daring</figLang> <punc type="comma">bee, today, pause, and soar,</punc></l>
+    <l n="1">Flame-flower<punc type="comma">,</punc>Day-torch<punc type="comma">,</punc> Mauna Loa<punc type="comma">,</punc></l>
+    <l n="2"><figLang form="metaphor">I saw a daring bee</figLang><punc type="comma">,</punc> today<punc type="comma">,</punc> pause, and soar<punc type="comma">,</punc></l>
 <l n="3">Into your flaming heart<punc type="semicolon">;</punc> </l>
 <l n="4">Then did I hear crisp crinkled laughter</l>
 <l n="5">As the furies after tore him apart<punc type="question_mark">?</punc> </l>
-<l n="6">A bird, next, small and humming,</l>
+    <l n="6">A bird<punc type="comma">,</punc> next<punc type="comma">,</punc> small and humming,</l>
 <l n="7">Looked into your startled depths and fled....</l>
-<l n="8">Surely, some dread sight, and dafter</l>
-<l n="9">Than human eyes as mine can see,</l>
-<l n="10">Set the stricken air waves drumming</l>
-<l n="11">In his flight.</l>
+    <l n="8">Surely<punc type="comma">,</punc> some dread sight<punc type="comma">,</punc> and dafter</l>
+    <l n="9">Than human eyes as mine can see<punc type="comma">,</punc></l>
+<l n="10"><figLang form="personification">Set the stricken air waves drumming</figLang></l>
+    <l n="11">In his flight<punc type="period">.</punc></l>
 </stanza>
     
 <stanza>
-<l n="12">Day-torch, Flame-flower,cool-hot Beauty<punc type="comma">,</punc></l>
-<l n="13">I cannot see, I cannot hear your fluty</l>
-<l n="14">Voice lure your loving swain,</l>
+    <l n="12">Day-torch<punc type="comma">,</punc> Flame-flower,cool-hot Beauty<punc type="comma">,</punc></l>
+    <l n="13">I cannot see<punc type="comma">,</punc> I cannot hear your fluty</l>
+    <l n="14">Voice lure your loving swain<punc type="comma">,</punc></l>
 <l n="15">But I know one other to whom you are in beauty</l>
-<l n="16">Born in vain;</l>
-<l n="17"><figLang form="simile">Hair like the setting sun,</figLang></l>
-<l n="18"><figLang form="metaphor">Her eyes a rising star,</figLang></l>
-<l n="19">Motions gracious as reeds by Babylon, bar</l>
-<l n="20">All your competing;</l>
+
+<l n="16">Born in vain<punc type="semicolon">;</punc></l>
+<l n="17"><figLang form="simile">Hair like the setting sun</figLang><punc type="comma">,</punc></l>
+<l n="18"><figLang form="metaphor">Her eyes a rising star</figLang><punc type="comma">,</punc></l>
+<l n="19">Motions gracious as reeds by Babylon<punc type="comma">,</punc> bar</l>
+<l n="20">All your competing<punc type="semicolon">;</punc></l>
 <l n="21"><figLang form="simile">Hands like, how like, brown lilies sweet,</figLang></l>
 <l n="22">Cloth of gold were fair enough to touch her feet . . . .</l>
-<l n="23">Ah, how the senses flood at my repeating,</l>
+<l n="23">Ah<punc type="comma">,</punc> how the senses flood at my repeating<punc type="comma">,</punc></l>
 <l n="24">A<figLang form="personification">s once in her fire-lit heart I felt the furies</figLang></l>
 <l n="25">Beating, beating.</l>
+
 </stanza>
 </poem>
