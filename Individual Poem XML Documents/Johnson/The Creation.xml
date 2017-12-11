@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
     <title poet="Johnson_JW">The Creation</title>
     <stanza>
 <l n="1">And God stepped out on space<punc type="comma">,</punc></l>
 <l n="2">And he looked around and said<punc type="colon">:</punc></l>
-<l n="3">I am lonely<punc type="dash">-</punc></l>
-<ln="4">I will make me a world<punc type="period"></punc></line>
+<l n="3">I am lonely<punc type="dash">--</punc></l>
+<l n="4">I will make me a world<punc type="period">.</punc></l>
     </stanza>
     <stanza>
 <l n="5">And far as the eye of God could see</l>
 <l n="6">Darkness covered everything<punc type="comma">,</punc></l>
-<l n="7">Blacker than a hundred midnights</l>
+<l n="7"><figLang form="simile">Blacker than a hundred midnights</figLang></l>
 <l n="8">Down in a cypress swamp<punc type="period">.</punc></l>
     </stanza>
 <stanza>
@@ -59,13 +59,13 @@
     <stanza>
 <l n="42">Then the green grass sprouted<punc type="comma">,</punc></l>
 <l n="43">And the little red flowers blossomed<punc type="comma">,</punc></l>
-<l n="44">The pine tree <figLang form="personification>pointed his finger to the sky</figLang><punc type="comma">,</punc></l>
+<l n="44"><figLang form="personification">The pine tree pointed his finger to the sky</figLang><punc type="comma">,</punc></l>
 <l n="45">And <figLang form="personification">the oak spread out his arms</figLang><punc type="comma">,</punc></l>
 <l n="46">The lakes cuddled down in the hollows of the ground<punc type="comma">,</punc></l>
 <l n="47">And the rivers ran down to the sea<punc type="semicolon">;</punc></l>
 <l n="48">And God smiled again<punc type="comma">,</punc> </l>
 <l n="49">And the rainbow appeared<punc type="comma">,</punc></l>
-<l n="50"><figLang form="personification>And curled itself around his shoulder</figLang><punc type="period">.</punc></l>
+<l n="50"><figLang form="personification">And curled itself around his shoulder</figLang><punc type="period">.</punc></l>
 </stanza>
     <stanza>
 <l n="51">Then God raised his arm and he waved his hand</l>
@@ -104,14 +104,14 @@
 <l n="78">And by the bank of the river</l>
 <l n="79">He kneeled him down<punc type="semicolon">;</punc></l>
 <l n="80">And there the great God Almighty</l>
-<l n="81">Who lit the sun and fixed it in the sky<punc type="comma">,</punc> </l>
-<l n="82">Who flung the stars to the most far corner of the night<punc type="comma">,</punc>/line>
-<l n="83">Who rounded the earth in the middle of his hand<punc type="semicolon">;</punc></line>
-<l n="84">This great God<punc type="comma">,</punc></line>
-<l n="85">Like a mammy bending over her baby<punc type="comma">,</punc></line>
-<l n="86">Kneeled down in the dust</line>
-<l n="87">Toiling over a lump of clay</line>
-<l n="88">Till he shaped it in is his own image<punc type="semicolon">;</punc></line>
+<l n="81">Who lit the sun and fixed it in the sky<punc type="comma">,</punc></l>
+<l n="82">Who flung the stars to the most far corner of the night<punc type="comma">,</punc></l>
+<l n="83">Who rounded the earth in the middle of his hand<punc type="semicolon">;</punc></l>
+<l n="84">This great God<punc type="comma">,</punc></l>
+<l n="85">Like a mammy bending over her baby<punc type="comma">,</punc></l>
+<l n="86">Kneeled down in the dust</l>
+<l n="87">Toiling over a lump of clay</l>
+<l n="88">Till he shaped it in is his own image<punc type="semicolon">;</punc></l>
 </stanza>
 <stanza>
 <l n="89">Then into it he blew the breath of life<punc type="comma">,</punc></l>

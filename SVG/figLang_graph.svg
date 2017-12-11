@@ -53,7 +53,9 @@
         <rect x="170" y="-300" height="150" width="50" fill="green"/>
         
                     <!-- Johnson -->
-        
+        <rect x="250" y="-73" height="73" width="50" fill="red"/>
+        <rect x="250" y="-140" height="67" width="50" fill="blue"/>
+        <rect x="250" y="-300" height="160" width="50" fill="green"/>
         
                     <!-- Bontemps -->
         <rect x="330" y="-17" height="17" width="50" fill="red"/>

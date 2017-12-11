@@ -25,7 +25,7 @@
         <text x="270" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Johnson</text>
         <text x="350" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Bontemps</text>
         <text x="430" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Newsome</text>
-        <text x="510" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Popel</text>
+        <text x="500" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Popel</text>
         
         <!-- Y-axis Labels & Hashmarks -->
         <line x1="0" y1="-75" x2="550" y2="-70" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
@@ -52,6 +52,8 @@
         <text x="185" y="-150" style="font-family:sans-serif;font-size:15px">44%</text>
         
                  <!-- Johnson -->
+        <rect x="250" y="-73" height="73" width="50" fill="red"/>
+        <text x="265" y="-83" style="font-family:sans-serif;font-size:15px">24%</text>
         
                 <!-- Bontemps -->
         <rect x="330" y="-17" height="17" width="50" fill="red"/>
@@ -60,10 +62,10 @@
         
                  <!-- Newsome -->
         <rect x="410" y="-55" height="55" width="50" fill="red"/>
-        <text x="430" y="-65" style="font-family:sans-serif;font-size:15px">18%</text> 
+        <text x="425" y="-75" style="font-family:sans-serif;font-size:15px">18%</text> 
         
                  <!-- Popel -->
         <rect x="480" y="-67" height="67" width="50" fill="red"/>
-        <text x="515" y="-77" style="font-family:sans-serif;font-size:15px">22%</text>
+        <text x="495" y="-77" style="font-family:sans-serif;font-size:15px">22%</text>
     </g>
 </svg>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
     <title poet="Johnson_JW">Prayer at Sunrise</title>
     <stanza>
-<l n="1" stanza="1">Now thou art risen, and thy day begun.</l>
-<l n="2" stanza="1"><figLang form="metaphor">How shrink the shrouding mists before thy face</figLang>,</l>
-<l n="2" stanza="1">As up thou spring to thy diurnal race<punc type="exclamation_point">!</punc></l>
-<l n="4" stanza="1">How darkness chases darkness to the west<punc type="comma">,</punc></l>
-<l n="5" stanza="1">As shades of light on light rise radiant from thy crest<punc type="exclamation_point">!</punc></l>
-<l n="6" stanza="1">For thee<punc type="comma">,</punc> great source of strength<punc type="comma">,</punc> emblem of might<punc type="comma">,</punc></l>
-<l n="7" stanza="1">In hours of darkest gloom there is no night<punc type="period">.</punc></l>
-<l n="8" stanza="1">Thou shinest on though clouds hide thee from sight<punc type="comma">,</punc></l>
-<l n="9" stanza="1">And through each break thou sendest down thy light<punc type="period"></punc></l>
+<l n="1">Now thou art risen, and thy day begun.</l>
+<l n="2"><figLang form="metaphor">How shrink the shrouding mists before thy face</figLang>,</l>
+<l n="2">As up thou spring to thy diurnal race<punc type="exclamation_point">!</punc></l>
+<l n="4">How darkness chases darkness to the west<punc type="comma">,</punc></l>
+<l n="5">As shades of light on light rise radiant from thy crest<punc type="exclamation_point">!</punc></l>
+<l n="6">For thee<punc type="comma">,</punc> great source of strength<punc type="comma">,</punc> emblem of might<punc type="comma">,</punc></l>
+<l n="7">In hours of darkest gloom there is no night<punc type="period">.</punc></l>
+<l n="8">Thou shinest on though clouds hide thee from sight<punc type="comma">,</punc></l>
+<l n="9">And through each break thou sendest down thy light<punc type="period"></punc></l>
 </stanza>
 <stanza>
-<l n="10" stanza="2">O greater Maker of this Thy great sun<punc type="comma">,</punc></l>
-<l n="11" stanza="2">Give me the strength this one day’s race to run<punc type="comma">,</punc></l>
-<l n="12" stanza="2">Fill me with light, fill me with sun-like strength<punc type="comma">,</punc></l>
-<l n="13" stanza="2">Fill me with joy to rob the day its length<punc type="period">.</punc></l>
-<l n="14" stanza="2">Light from within, light that will outward shine<punc type="comma">,</punc></l>
-<l n="15" stanza="2">Strength to make strong some weaker heart than mine<punc type="comma">,</punc></l>
-<l n="16" stanza="2">Joy to make glad each soul that feels its touch<punc type="semicolon">;</punc></l>
-<l n="17" stanza="2">Great Father of the sun, I ask this much<punc type="period">.</punc></l>
+<l n="10">O greater Maker of this Thy great sun<punc type="comma">,</punc></l>
+<l n="11">Give me the strength this one day’s race to run<punc type="comma">,</punc></l>
+<l n="12">Fill me with light, fill me with sun-like strength<punc type="comma">,</punc></l>
+<l n="13">Fill me with joy to rob the day its length<punc type="period">.</punc></l>
+<l n="14">Light from within, light that will outward shine<punc type="comma">,</punc></l>
+<l n="15">Strength to make strong some weaker heart than mine<punc type="comma">,</punc></l>
+<l n="16">Joy to make glad each soul that feels its touch<punc type="semicolon">;</punc></l>
+<l n="17">Great Father of the sun, I ask this much<punc type="period">.</punc></l>
 </stanza>
 </poem>

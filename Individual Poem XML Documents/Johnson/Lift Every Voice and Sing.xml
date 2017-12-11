@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
 <title poet="Johnson_JW">Lift Every Voice and Sing</title>
 
@@ -22,7 +22,7 @@
 <l n="12">Bitter the chast’ning rod<punc type="comma">,</punc></l>
 <l n="13">Felt in the days when hope unborn had died<punc type="semicolon">;</punc></l>
 <l n="14">Yet with a steady beat<punc type="comma">,</punc></l>
-<l n="14">Have not our weary feet</l>
+<l n="14">Have not our <figLang form="personification">weary feet</figLang></l>
 <l n="16">Come to the place for which our fathers sighed<punc type="question_mark">?</punc></l>
 <l n="17">We have come over a way that with tears has been watered<punc type="period">.</punc></l>
 <l n="18">We have come, treading our path through the blood of the slaughtered<punc type="comma">,</punc></l>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
     <title poet="Johnson_JW">The White Witch</title>
     <stanza>
@@ -20,18 +20,18 @@
 <l n="12">In all the glowing charms of youth. </l>
     </stanza>
     <stanza>
-<l n="13">Her lips are like carnations<punc type="comma">,</punc> red<punc type="comma">,</punc></l>
-<l n="14">Her face like new-born lilies<punc type="comma">,</punc> fair<punc type="comma">,</punc></l>
-<l n="15">Her eyes like ocean waters<punc type="comma">,</punc> blue<punc type="comma">,</punc></l>
+<l n="13"><figLang form="simile">Her lips are like carnations</figLang><punc type="comma">,</punc> red<punc type="comma">,</punc></l>
+<l n="14"><figLang form="simile">Her face like new-born lilies</figLang><punc type="comma">,</punc> fair<punc type="comma">,</punc></l>
+<l n="15"><figLang form="simile">Her eyes like ocean waters</figLang><punc type="comma">,</punc> blue<punc type="comma">,</punc></l>
 <l n="16">She moves with subtle grace and air<punc type="comma">,</punc></l>
 <l n="17">And all about her head there floats</l>
-<l n="18">The golden glory of her hair<punc type="period">.</punc> </l>
+<l n="18"><figLang form="metaphor">The golden glory of her hair</figLang><punc type="period">.</punc> </l>
     </stanza>
     <stanza>
 <l n="19">But though she always thus appears</l>
 <l n="20">In form of youth and mood of mirth<punc type="comma">,</punc></l>
 <l n="21">Unnumbered centuries are hers<punc type="comma">,</punc></l>
-<l n="22">The infant planets saw her birth<punc type="semicolon">;</punc></l>
+<l n="22"><figLang form="personification">The infant planets saw her birth</figLang><punc type="semicolon">;</punc></l>
 <l n="23">The child of throbbing Life is she<punc type="comma">,</punc></l>
 <l n="24">Twin sister to the greedy earth<punc type="period">.</punc></l>
     </stanza>
@@ -55,7 +55,7 @@
 <l n="46">I felt those red lips burn and sear</l>
 <l n="47">My body like a living coal<punc type="semicolon">;</punc></l>
 <l n="48">Obeyed the power of those eyes</l>
-<l n="49">As the needle trembles to the pole<punc type="semicolon">;</punc></l>
+<l n="49"><figLang form="personification">As the needle trembles to the pole</figLang><punc type="semicolon">;</punc></l>
 <l n="50">And did not care although I felt</l>
 <l n="51">The strength go ebbing from my soul<punc type="period">.</punc></l>
     </stanza>
@@ -81,6 +81,6 @@
 <l n="66">O<punc type="comma">,</punc> younger brothers mine<punc type="comma">,</punc> beware<punc type="exclamation_point">!</punc></l>
 <l n="67">Look not upon her beauty bright<punc type="semicolon">;</punc></l>
 <l n="68">For in her glance there is a snare<punc type="comma">,</punc></l>
-<line n="69">And in her smile there is a blight<punc type="period">.</punc> </line>
+<l n="69">And in her smile there is a blight<punc type="period">.</punc></l>
     </stanza>
 </poem>
