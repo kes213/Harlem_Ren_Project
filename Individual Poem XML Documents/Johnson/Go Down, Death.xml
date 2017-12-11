@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../relaxNG_schema_harlem_ren.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schematron_harlem_ren.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <poem>
 <title poet="Johnson_JW">Go Down, Death (A Funeral Sermon)</title>
 <stanza>
@@ -34,7 +34,7 @@
 <l n="23"><figLang form="personification">Where Death waits with his pale</figLang><punc type="comma">,</punc> white horses<punc type="period">.</punc></l>
 </stanza>
 <stanza>
-<l n="24"<figLang form="personification">And Death heard the summons</figLang><punc type="comma">,</punc></l>
+<l n="24"><figLang form="personification">And Death heard the summons</figLang><punc type="comma">,</punc></l>
 <l n="25">And he leaped on his fastest horse<punc type="comma">,</punc></l>
 <l n="26"><figLang form="simile">Pale as a sheet in the moonlight</figLang><punc type="period">.</punc></l>
 <l n="27">Up the golden street <figLang form="personification">Death galloped</figLang><punc type="comma">,</punc></l>
@@ -69,16 +69,16 @@
 <l n="50">While we were watching round her bed<punc type="comma">,</punc></l>
 <l n="51">She turned her eyes and looked away<punc type="comma">,</punc></l>
 <l n="52">She saw what we could not see<punc type="semicolon">;</punc></l>
-<l n="53">She saw Old Death<punc type="period">.</punc>  She saw Old Death</l>
+<l n="53"><figLang form="personification">She saw Old Death</figLang><punc type="period">.</punc>  <figLang form="personification">She saw Old Death</figLang></l>
 <l n="54">Coming <figLang form="simile">like a falling star</figLang><punc type="period">.</punc></l>
-<l n="55">But Death did not frighten Sister Caroline<punc type="semicolon">;</punc></l>
-<l n="56">He looked to her like a welcome friend<punc type="period"></punc></l>
+<l n="55"><figLang form="personification">But Death did not frighten Sister Caroline</figLang><punc type="semicolon">;</punc></l>
+<l n="56"><figLang form="simile">He looked to her like a welcome friend</figLang><punc type="period"></punc></l>
 <l n="57">And she whispered to us<punc type="colon">:</punc> I am going home<punc type="comma">,</punc></l>
 <l n="58">And she smiled and closed her eyes<punc type="period">.</punc></l>
 </stanza>
 <stanza>
 <l n="59"><figLang form="simile">And Death took her up like a baby</figLang><punc type="comma">,</punc></l>
-<l n="60">And she lay in his icy arms<punc type="comma">,</punc></l>
+<l n="60"><figLang form="personification">And she lay in his icy arms</figLang><punc type="comma">,</punc></l>
 <l n="61">But she didn’t feel no chill<punc type="period">.</punc></l>
 <l n="62"><figLang form="personification">And death began to ride again</figLang><punc type="dash">-</punc><punc type="dash">-</punc></l>
 <l n="63">Up beyond the evening star<punc type="comma">,</punc></l>
@@ -92,7 +92,7 @@
 <l n="69">And he smoothed the furrows from her face<punc type="comma">,</punc></l>
 <l n="70">And the angels sang a little song<punc type="comma">,</punc></l>
 <l n="71">And Jesus rocked her in his arms<punc type="comma">,</punc></l>
-<l n="72">And kept a<punc type="dash">-</punc>saying<punc type="colon">:</punc> Take your rest<punc type="comma">,</punc></l>
+<l n="72">And kept a-saying<punc type="colon">:</punc> Take your rest<punc type="comma">,</punc></l>
 <l n="73">Take your rest<punc type="period">.</punc></l>
 </stanza>
 <stanza>

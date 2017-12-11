@@ -4,12 +4,14 @@
     exclude-result-prefixes="xs"
     version="3.0">
    <!--2017-12-07 ebb: This is an XSLT to process a collection of poems from a file directory into a single XML file following the requirements for the Harlem Renaissance project. --> 
+   
+    <!-- 2017-12-08 kes: Thank you! I really appreciate this! -->
     
     <xsl:output method="xml" indent="yes"/>
-    <xsl:variable name="SpencerColl" select="collection('Spencer')"/>
+    <xsl:variable name="JohnsonColl" select="collection('Johnson')"/>
     <xsl:template match="/">
-        <poemCollection poet="{($SpencerColl/poem/title)[1]/@poet}">
-            <xsl:for-each select="$SpencerColl/poem">
+        <poemCollection poet="{($JohnsonColl/poem/title)[1]/@poet}">
+            <xsl:for-each select="$JohnsonColl/poem">
                 <xsl:copy-of select="."/>
             </xsl:for-each>
         </poemCollection>
