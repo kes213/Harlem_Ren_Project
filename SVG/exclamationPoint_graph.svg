@@ -10,7 +10,7 @@
         <!-- max Y value = -300-->
         
         <!-- Graph Title -->
-        <text x="-35" y="-350" style="font-family:sans-serif;font-size:30px">Period Use Among Harlem Renaissance Poets</text>
+        <text x="-90" y="-350" style="font-family:sans-serif;font-size:30px">Exclamation Point Use Among Harlem Renaissance Poets</text>
         
         <!-- X-axis Line -->  
         <line x1="0" y1="0" x2="550" y2="0" stroke="black" stroke-width="2"/>
@@ -25,7 +25,7 @@
         <text x="270" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Johnson</text>
         <text x="350" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Bontemps</text>
         <text x="430" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Newsome</text>
-        <text x="510" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Popel</text>
+        <text x="500" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Popel</text>
         
         <!-- Y-axis Labels & Hashmarks -->
         <line x1="0" y1="-75" x2="550" y2="-70" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
@@ -37,35 +37,35 @@
         <line x1="0" y1="-300" x2="550" y2="-295" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
         <text x="-55" y="-295" style="font-family:sans-serif;font-size:20px">100%</text>
         
+        
         <!-- Bars -->
         <!-- McKay -->
-        <rect x="25" y="-50" height="50" width="50" fill="yellow"/>
-        <text x="40" y="-65" style="font-family:sans-serif;font-size:15px">18%</text>
+        <rect x="25" y="-24" height="24" width="50" fill="red"/>
+        <text x="40" y="-34" style="font-family:sans-serif;font-size:15px">8%</text>
+        
         <!-- Hughes -->
-        <rect x="105" y="-100" height="100" width="50" fill="yellow"/>
-        <text x="120" y="-115" style="font-family:sans-serif;font-size:15px">38%</text>
+        <rect x="105" y="-28" height="28" width="50" fill="red"/>
+        <text x="120" y="-38" style="font-family:sans-serif;font-size:15px">9%</text>
         
         <!-- Spencer -->
-        <rect x="170" y="-75" height="75" width="50" fill="yellow"/>
-        <text x="185" y="-90" style="font-family:sans-serif;font-size:15px">25%</text>
+        <rect x="170" y="-8" height="8" width="50" fill="red"/>
+        <text x="185" y="-18" style="font-family:sans-serif;font-size:15px">3%</text>
         
         <!-- Johnson -->
-        <rect x="260" y="-50" height="50" width="50" fill="yellow"/>
-        <text x="275" y="-60" style="font-family:sans-serif;font-size:15px">18%</text>
+        <rect x="260" y="-13" height="13" width="50" fill="red"/>
+        <text x="275" y="-23" style="font-family:sans-serif;font-size:15px">4%</text>
         
         <!-- Bontemps -->
-        <rect x="330" y="-150" height="150" width="50" fill="yellow"/>
-        <text x="345" y="-150" style="font-family:sans-serif;font-size:15px">50%</text>
+        <rect x="330" y="-4" height="4" width="50" fill="red"/>
+        <text x="345" y="-14" style="font-family:sans-serif;font-size:15px">1%</text>
         
         
         <!-- Newsome -->
-        <rect x="410" y="-175" height="175" width="50" fill="yellow"/>
-        <text x="425" y="-175" style="font-family:sans-serif;font-size:15px">58%</text> 
+        <rect x="410" y="-56" height="56" width="50" fill="red"/>
+        <text x="425" y="-72" style="font-family:sans-serif;font-size:15px">19%</text> 
         
         <!-- Popel -->
-        <rect x="480" y="" height="" width="" fill="yellow"/>
-        <text x="495" y="-25" style="font-family:sans-serif;font-size:15px">.01%</text>
-        
-        
+        <rect x="480" y="-60" height="60" width="50" fill="red"/>
+        <text x="495" y="-75" style="font-family:sans-serif;font-size:15px">20%</text>
     </g>
 </svg>

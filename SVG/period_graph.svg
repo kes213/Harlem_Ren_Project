@@ -25,7 +25,7 @@
         <text x="270" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Johnson</text>
         <text x="350" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Bontemps</text>
         <text x="430" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Newsome</text>
-        <text x="510" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Popel</text>
+        <text x="500" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Popel</text>
         
         <!-- Y-axis Labels & Hashmarks -->
         <line x1="0" y1="-75" x2="550" y2="-70" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
@@ -36,6 +36,35 @@
         <text x="-50" y="-220" style="font-family:sans-serif;font-size:20px">75%</text>
         <line x1="0" y1="-300" x2="550" y2="-295" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
         <text x="-55" y="-295" style="font-family:sans-serif;font-size:20px">100%</text>
+        
+        <!-- Bars -->
+        <!-- McKay -->
+        <rect x="25" y="-51" height="51" width="50" fill="yellow"/>
+        <text x="40" y="-61" style="font-family:sans-serif;font-size:15px">17%</text>
+        <!-- Hughes -->
+        <rect x="105" y="-111" height="111" width="50" fill="yellow"/>
+        <text x="120" y="-121" style="font-family:sans-serif;font-size:15px">37%</text>
+        
+        <!-- Spencer -->
+        <rect x="170" y="-41" height="41" width="50" fill="yellow"/>
+        <text x="185" y="-51" style="font-family:sans-serif;font-size:15px">14%</text>
+        
+        <!-- Johnson -->
+        <rect x="260" y="-53" height="53" width="50" fill="yellow"/>
+        <text x="275" y="-63" style="font-family:sans-serif;font-size:15px">18%</text>
+        
+        <!-- Bontemps -->
+        <rect x="330" y="-146" height="146" width="50" fill="yellow"/>
+        <text x="345" y="-156" style="font-family:sans-serif;font-size:15px">49%</text>
+        
+        
+        <!-- Newsome -->
+        <rect x="410" y="-50" height="50" width="50" fill="yellow"/>
+        <text x="425" y="-60" style="font-family:sans-serif;font-size:15px">17%</text> 
+        
+        <!-- Popel -->
+        <rect x="480" y="-4" height="4" width="50" fill="yellow"/>
+        <text x="495" y="-14" style="font-family:sans-serif;font-size:15px">1%</text>
         
         
     </g>

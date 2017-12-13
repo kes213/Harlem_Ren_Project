@@ -4,8 +4,8 @@
         <title poet="Popel_E">April</title>
         <stanza>
             <l n="1"><figLang form="metaphor">April is a wanton</figLang></l>
-            <l n="2"><figLang form="personification">With her </figLang><punc type="comma">cool</punc><punc type="comma">,slim,</punc> searching fingers</l>
-            <l n="3">And Day<punc type="comma">, a giddy gossip</punc>,</l>
+            <l n="2"><figLang form="personification">With her </figLang>cool<punc type="comma">,</punc> slim<punc type="comma">,</punc> searching fingers</l>
+            <l n="3">And Day<punc type="comma">,</punc> a giddy gossip<punc type="comma">,</punc></l>
             <l n="4">Sitting, waiting on the stair<punc type="comma">,</punc></l>
             <l n="5">Listens to the murmurings</l>
             <l n="6">While wayward Romance lingers</l>
@@ -20,43 +20,43 @@
         <stanza>
             <l n="1"><figLang form="personification">April passed my way</figLang><punc type="comma">,</punc> and Romance</l>
             <l n="2"><figLang form="personification">Followed after to my door</figLang><punc type="semicolon">;</punc></l>
-            <l n="3"><punc type="comma">Lingered shyly,</punc> gently watchful</l>
+            <l n="3">Lingered shyly<punc type="comma">,</punc> gently watchful</l>
             <l n="4">For my welcome<punc type="semicolon">;</punc> more and more</l>
             <l n="5">In her manner fascinating</l>
             <l n="6">As she held my eye</l>
-            <l n="7"><figLang form="personification">Standing at my doorway</figLang><punc type="comma">, waiting,</punc></l>
+            <l n="7"><figLang form="personification">Standing at my doorway</figLang><punc type="comma">,</punc> waiting<punc type="comma">,</punc></l>
             <l n="8">Anxious not to pass me by<punc type="exclamation_point">!</punc> </l>
         </stanza>
         
         <stanza>
-            <l n="9"><figLang form="personification">Romance came</figLang><punc type="comma">, along with April,</punc></l>
+            <l n="9"><figLang form="personification">Romance came</figLang><punc type="comma">,</punc> along with April<punc type="comma">,</punc></l>
             <l n="10">And I let her in<punc type="semicolon">;</punc></l>
             <l n="11">Shared with her my heart' deep secrets</l>
             <l n="12">And<punc type="comma">,</punc> to my chagrin<punc type="comma">,</punc></l>
             <l n="13">Off she slipped and<punc type="comma">,</punc> when she left me<punc type="comma">,</punc></l>
             <l n="14">Stole my treasures all away<punc type="exclamation_point">!</punc></l>
             <l n="15"><figLang form="personification">Romance came and went with April</figLang><punc type="exclamation_point">!</punc></l>
-            <l n="16">There is nothing more to say.</l>
+            <l n="16">There is nothing more to say<punc type="period">.</punc></l>
         </stanza>
     </poem>
     
     <poem>
         <title poet="Popel_E">Flag Salute</title>
         <stanza>
-            <l n="1">"I pledge allegiance to the flag"— </l>
+            <l n="1">"I pledge allegiance to the flag"<punc type="dash">—</punc> </l>
             <l n="2">"They dragged him naked </l>
             <l n="3">"Through the muddy streets<punc type="comma">,</punc> </l>
             <l n="4">"A feeble-minded black boy<punc type="exclamation_point">!</punc></l> 
             <l n="5">"And the charge<punc type="question_mark">?</punc> Supposed assault</l> 
             <l n="6">"Upon an aged woman<punc type="exclamation_point">!</punc>"</l>
-            <l n="7">"Of the United States of America"— </l>
+            <l n="7">"Of the United States of America"<punc type="dash">—</punc> </l>
             <l n="8">"One mile they dragged him </l>
             <l n="9"><figLang form="simile">Like a sack of meal,</figLang> </l>
             <l n="10">"A rope around his neck<punc type="comma">,</punc></l> 
             <l n="11">"A bloody ear </l>
             <l n="12">"Left dangling by the patriotic hand</l> 
             <l n="13">"Of Nordic youth<punc type="exclamation_point">!</punc> (A boy of seventeen!)</l> 
-            <l n="14">""And to the Republic for which it stands"— </l>
+            <l n="14">""And to the Republic for which it stands"<punc type="dash">—</punc> </l>
             <l n="15">"And then they hanged his body to a tree<punc type="comma">,</punc></l> 
             <l n="16">"Below the window of the county judge</l> 
             <l n="17">"Whose pleadings for that battered human flesh</l> 
@@ -65,20 +65,20 @@
             <l n="20">Brought out to see the bloody spectacle</l> 
             <l n="21">"Of murder in the style of '33<punc type="exclamation_point">!</punc></l> 
             <l n="22">" (Three thousand strong, they were!)</l> 
-            <l n="23">"One Nation, Indivisible"— </l>
+            <l n="23">"One Nation, Indivisible"<punc type="dash">—</punc> </l>
             <l n="24">To make the tale complete</l> 
-            <l n="25">They built a fire— </l>
+            <l n="25">They built a fire<punc type="dash">—</punc> </l>
             <l n="26">What matters that the stuff they burned</l> 
-            <l n="27">Was flesh—and bone—and hair—</l> 
+            <l n="27">Was flesh<punc type="dash">—</punc>and bone<punc type="dash">—</punc>and hair<punc type="dash">—</punc></l> 
             <l n="28">And reeking gasoline<punc type="exclamation_point">!</punc></l> 
-            <l n="29">"With Liberty—and Justice"—</l> 
+            <l n="29">"With Liberty<punc type="dash">—</punc>and Justice"<punc type="dash">—</punc></l> 
             <l n="30">They cut the rope in bits </l>
             <l n="31">And passed them out,</l> 
-            <l n="32">For souvenirs, among the men and boys<punc type="exclamation_point">!</punc></l> 
+            <l n="32">For souvenirs<punc type="comma">,</punc> among the men and boys<punc type="exclamation_point">!</punc></l> 
             <l n="33">The teeth no doubt<punc type="comma">,</punc> on golden chains </l>
             <l n="34">Will hang</l> 
-            <l n="35">About the favored necks of sweethearts, wives,</l> 
-            <l n="36">And daughters, mothers, sisters, babies, too!</l> 
+            <l n="35">About the favored necks of sweethearts<punc type="comma">,</punc> wives<punc type="comma">,</punc></l> 
+            <l n="36">And daughters<punc type="comma">,</punc> mothers<punc type="comma">,</punc> sisters<punc type="comma">,</punc> babies, too!</l> 
             <l n="37">"For ALL!"</l>
         </stanza>
     </poem>
@@ -92,18 +92,18 @@
             <l n="3">And let my dying </l>
             <l n="4"><figLang form="metaphor">Be a blaze of glory</figLang><punc type="exclamation_point">!</punc></l>
             <l n="5">Drape me in a</l> 
-            <l n="6">Leafy gown, </l>
+            <l n="6">Leafy gown<punc type="comma">,</punc> </l>
             <l n="7">And deck my soul</l> 
             <l n="8">In <figLang form="personification">dancing flakes of gold</figLang><punc type="exclamation_point">!</punc></l>
             <l n="9">And then when Death</l> 
-            <l n="10"><figLang form="personification">Comes by, and with his hands</figLang> </l>
+            <l n="10"><figLang form="personification">Comes by<punc type="comma">,</punc> and with his hands</figLang> </l>
             <l n="11">Strips off my rustling garment</l> 
             <l n="12">Let me stand</l>
-            <l n="13">Before him, proud and naked<punc type="comma">,</punc></l> 
+            <l n="13">Before him<punc type="comma">,</punc> proud and naked<punc type="comma">,</punc></l> 
             <l n="14">Unashamed<punc type="comma">, uncaring</punc>, </l>
             <l n="15">All the strength in me revealed</l> 
             <l n="16">Against the sky<punc type="exclamation_point">!</punc></l>
-            <l n="17">Oh, God </l>
+            <l n="17">Oh<punc type="comma">,</punc> God </l>
             <l n="18"><figLang form="metaphor">Make me an autumn tree </figLang></l>
             <l n="19">If I must die<punc type="exclamation_point">!</punc></l>
         </stanza> 
@@ -130,7 +130,7 @@
             <l n="2"><figLang form="personification">That lift their heads</figLang></l> 
             <l n="3">Above the petty<punc type="comma">,</punc> lowland<punc type="comma">,</punc> valley things<punc type="comma">,</punc></l>
             <l n="4"><figLang form="personification">And shake their shoulders free</figLang></l>
-            <l n="5">Of bonds that hold </l>
+            <l n="5">Of bonds that hold</l>
             <l n="6">Them close to earth<punc type="semicolon">;</punc></l>
         </stanza> 
         
@@ -143,7 +143,7 @@
         <stanza>
             <l n="1">Of grim volcanoes </l>
             <l n="2"><figLang form="personification">Pregnant with the fires</figLang></l> 
-            <l n="3">Of molten fury!</l>
+            <l n="3">Of molten fury<punc type="exclamation_point">!</punc></l>
         </stanza> 
         
         <stanza>
