@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1200">
+    <desc></desc>
+    <g transform="translate(200 550)">
+        
+        <!-- bar width = 50 -->
+        <!-- Xinterval = 10 -->
+        <!-- Yinterval = -5 -->
+        <!-- max Y value = -300-->
+        
+        <!-- Graph Title -->
+        <text x="-50" y="-350" style="font-family:sans-serif;font-size:30px">Semicolon Use Among Harlem Renaissance Poets</text>
+        
+        <!-- X-axis Line -->  
+        <line x1="0" y1="0" x2="550" y2="0" stroke="black" stroke-width="2"/>
+        
+        <!-- Y-axis Line -->
+        <line x1="0" y1="0" x2="0" y2="-300" stroke="black" stroke-width="2"/>
+        
+        <!-- X-axis Labels -->
+        <text x="30" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">McKay</text>
+        <text x="110" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Hughes</text>
+        <text x="190" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Spencer</text>
+        <text x="270" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Johnson</text>
+        <text x="350" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Bontemps</text>
+        <text x="430" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Newsome</text>
+        <text x="510" y="25" style="font-family:sans-serif;font-size:20px;writing-mode:tb" fill="black">Popel</text>
+        
+        <!-- Y-axis Labels & Hashmarks -->
+        <line x1="0" y1="-75" x2="550" y2="-70" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
+        <text x="-50" y="-70" style="font-family:sans-serif;font-size:20px">25%</text>
+        <line x1="0" y1="-150" x2="550" y2="-145" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
+        <text x="-50" y="-145" style="font-family:sans-serif;font-size:20px">50%</text>
+        <line x1="0" y1="-225" x2="550" y2="-220" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
+        <text x="-50" y="-220" style="font-family:sans-serif;font-size:20px">75%</text>
+        <line x1="0" y1="-300" x2="550" y2="-295" stroke="purple" stroke-width="1" stroke-dasharray="10"/>
+        <text x="-55" y="-295" style="font-family:sans-serif;font-size:20px">100%</text>
+        
+        <!-- Bars -->
+        <!-- McKay -->
+        <rect x="25" y="-10" height="10" width="50" fill="green"/>
+        <text x="40" y="-25" style="font-family:sans-serif;font-size:15px">1.1%</text>
+        <!-- Hughes -->
+        <rect x="105" y="" height="0" width="50" fill="green"/>
+        <text x="120" y="-15" style="font-family:sans-serif;font-size:15px">0%</text>
+        
+        <!-- Spencer -->
+        <rect x="170" y="-12" height="12" width="50" fill="green"/>
+        <text x="185" y="-27" style="font-family:sans-serif;font-size:15px">2%</text>
+        
+        <!-- Johnson -->
+        <rect x="260" y="-10" height="10" width="50" fill="green"/>
+        <text x="275" y="-25" style="font-family:sans-serif;font-size:15px">1.1%</text>
+        
+        <!-- Bontemps -->
+        <rect x="330" y="-5" height="5" width="50" fill="green"/>
+        <text x="345" y="-20" style="font-family:sans-serif;font-size:15px">.01%</text>
+        
+        
+        <!-- Newsome -->
+        <rect x="410" y="-60" height="60" width="50" fill="green"/>
+        <text x="425" y="-75" style="font-family:sans-serif;font-size:15px">23%</text> 
+        
+        <!-- Popel -->
+        <rect x="480" y="-10" height="10" width="50" fill="green"/>
+        <text x="495" y="-25" style="font-family:sans-serif;font-size:15px">1.1%</text>
+        
+        
+        
+    </g>
+</svg>
